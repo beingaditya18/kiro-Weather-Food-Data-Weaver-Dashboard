@@ -1,0 +1,1801 @@
+date,city,cuisine,order_count,order_value,temperature,rainfall,weather_condition
+2024-01-01,Indore,North Indian,91,28392,22,43,Rainy
+2024-01-01,Indore,South Indian,100,38500,22,43,Rainy
+2024-01-01,Indore,Chinese,105,48195,22,43,Rainy
+2024-01-01,Indore,Fast Food,147,45717,22,43,Rainy
+2024-01-01,Indore,Biryani,82,16564,22,43,Rainy
+2024-01-01,Bhopal,North Indian,64,13184,28,0,Clear
+2024-01-01,Bhopal,South Indian,84,27468,28,0,Clear
+2024-01-01,Bhopal,Chinese,51,18258,28,0,Clear
+2024-01-01,Bhopal,Fast Food,75,17775,28,0,Clear
+2024-01-01,Bhopal,Biryani,68,23936,28,0,Clear
+2024-01-01,Bangalore,North Indian,85,25670,31,0,Clear
+2024-01-01,Bangalore,South Indian,70,21350,31,0,Clear
+2024-01-01,Bangalore,Chinese,60,21660,31,0,Clear
+2024-01-01,Bangalore,Fast Food,80,33200,31,0,Clear
+2024-01-01,Bangalore,Biryani,62,18352,31,0,Clear
+2024-01-01,Delhi,North Indian,76,35644,31,0,Clear
+2024-01-01,Delhi,South Indian,86,42570,31,0,Clear
+2024-01-01,Delhi,Chinese,88,24464,31,0,Clear
+2024-01-01,Delhi,Fast Food,88,33440,31,0,Clear
+2024-01-01,Delhi,Biryani,60,27600,31,0,Clear
+2024-01-02,Indore,North Indian,54,15336,29,0,Clear
+2024-01-02,Indore,South Indian,64,26368,29,0,Clear
+2024-01-02,Indore,Chinese,60,17940,29,0,Clear
+2024-01-02,Indore,Fast Food,66,27456,29,0,Clear
+2024-01-02,Indore,Biryani,99,34155,29,0,Clear
+2024-01-02,Bhopal,North Indian,41,10824,37,0,Hot
+2024-01-02,Bhopal,South Indian,70,32970,37,0,Hot
+2024-01-02,Bhopal,Chinese,74,29230,37,0,Hot
+2024-01-02,Bhopal,Fast Food,53,24592,37,0,Hot
+2024-01-02,Bhopal,Biryani,64,16384,37,0,Hot
+2024-01-02,Bangalore,North Indian,51,22644,30,0,Clear
+2024-01-02,Bangalore,South Indian,74,25382,30,0,Clear
+2024-01-02,Bangalore,Chinese,92,40940,30,0,Clear
+2024-01-02,Bangalore,Fast Food,96,39840,30,0,Clear
+2024-01-02,Bangalore,Biryani,56,12768,30,0,Clear
+2024-01-02,Delhi,North Indian,87,39150,25,0,Clear
+2024-01-02,Delhi,South Indian,72,24480,25,0,Clear
+2024-01-02,Delhi,Chinese,76,19380,25,0,Clear
+2024-01-02,Delhi,Fast Food,82,21484,25,0,Clear
+2024-01-02,Delhi,Biryani,83,31789,25,0,Clear
+2024-01-03,Indore,North Indian,60,17520,25,0,Clear
+2024-01-03,Indore,South Indian,63,23814,25,0,Clear
+2024-01-03,Indore,Chinese,77,19250,25,0,Clear
+2024-01-03,Indore,Fast Food,57,16644,25,0,Clear
+2024-01-03,Indore,Biryani,70,33740,25,0,Clear
+2024-01-03,Bhopal,North Indian,84,35196,28,0,Clear
+2024-01-03,Bhopal,South Indian,65,16510,28,0,Clear
+2024-01-03,Bhopal,Chinese,54,24246,28,0,Clear
+2024-01-03,Bhopal,Fast Food,74,26196,28,0,Clear
+2024-01-03,Bhopal,Biryani,63,28602,28,0,Clear
+2024-01-03,Bangalore,North Indian,59,23423,28,0,Cloudy
+2024-01-03,Bangalore,South Indian,90,24930,28,0,Cloudy
+2024-01-03,Bangalore,Chinese,86,27520,28,0,Cloudy
+2024-01-03,Bangalore,Fast Food,53,25387,28,0,Cloudy
+2024-01-03,Bangalore,Biryani,97,43068,28,0,Cloudy
+2024-01-03,Delhi,North Indian,43,9546,37,0,Hot
+2024-01-03,Delhi,South Indian,68,28968,37,0,Hot
+2024-01-03,Delhi,Chinese,42,14070,37,0,Hot
+2024-01-03,Delhi,Fast Food,64,13440,37,0,Hot
+2024-01-03,Delhi,Biryani,62,15624,37,0,Hot
+2024-01-04,Indore,North Indian,48,23376,39,0,Hot
+2024-01-04,Indore,South Indian,58,14094,39,0,Hot
+2024-01-04,Indore,Chinese,72,20232,39,0,Hot
+2024-01-04,Indore,Fast Food,79,32627,39,0,Hot
+2024-01-04,Indore,Biryani,62,16740,39,0,Hot
+2024-01-04,Bhopal,North Indian,89,24030,28,0,Cloudy
+2024-01-04,Bhopal,South Indian,77,29491,28,0,Cloudy
+2024-01-04,Bhopal,Chinese,92,37076,28,0,Cloudy
+2024-01-04,Bhopal,Fast Food,54,17874,28,0,Cloudy
+2024-01-04,Bhopal,Biryani,59,28261,28,0,Cloudy
+2024-01-04,Bangalore,North Indian,79,26070,30,0,Clear
+2024-01-04,Bangalore,South Indian,89,20826,30,0,Clear
+2024-01-04,Bangalore,Chinese,86,32078,30,0,Clear
+2024-01-04,Bangalore,Fast Food,93,45105,30,0,Clear
+2024-01-04,Bangalore,Biryani,67,16281,30,0,Clear
+2024-01-04,Delhi,North Indian,65,20150,39,0,Hot
+2024-01-04,Delhi,South Indian,72,30024,39,0,Hot
+2024-01-04,Delhi,Chinese,49,16905,39,0,Hot
+2024-01-04,Delhi,Fast Food,47,20680,39,0,Hot
+2024-01-04,Delhi,Biryani,48,22608,39,0,Hot
+2024-01-05,Indore,North Indian,70,33460,39,0,Hot
+2024-01-05,Indore,South Indian,68,20536,39,0,Hot
+2024-01-05,Indore,Chinese,62,22568,39,0,Hot
+2024-01-05,Indore,Fast Food,71,35429,39,0,Hot
+2024-01-05,Indore,Biryani,55,17930,39,0,Hot
+2024-01-05,Bhopal,North Indian,109,50794,24,33,Rainy
+2024-01-05,Bhopal,South Indian,124,53320,24,33,Rainy
+2024-01-05,Bhopal,Chinese,87,33147,24,33,Rainy
+2024-01-05,Bhopal,Fast Food,108,38664,24,33,Rainy
+2024-01-05,Bhopal,Biryani,138,40710,24,33,Rainy
+2024-01-05,Bangalore,North Indian,62,15624,30,0,Clear
+2024-01-05,Bangalore,South Indian,52,24752,30,0,Clear
+2024-01-05,Bangalore,Chinese,66,18876,30,0,Clear
+2024-01-05,Bangalore,Fast Food,73,25988,30,0,Clear
+2024-01-05,Bangalore,Biryani,85,18870,30,0,Clear
+2024-01-05,Delhi,North Indian,78,30888,25,0,Clear
+2024-01-05,Delhi,South Indian,81,28350,25,0,Clear
+2024-01-05,Delhi,Chinese,77,26334,25,0,Clear
+2024-01-05,Delhi,Fast Food,59,23187,25,0,Clear
+2024-01-05,Delhi,Biryani,60,13080,25,0,Clear
+2024-01-06,Indore,North Indian,71,27477,25,0,Clear
+2024-01-06,Indore,South Indian,98,22540,25,0,Clear
+2024-01-06,Indore,Chinese,63,25011,25,0,Clear
+2024-01-06,Indore,Fast Food,92,44620,25,0,Clear
+2024-01-06,Indore,Biryani,68,21896,25,0,Clear
+2024-01-06,Bhopal,North Indian,79,21646,29,0,Clear
+2024-01-06,Bhopal,South Indian,78,32838,29,0,Clear
+2024-01-06,Bhopal,Chinese,73,22338,29,0,Clear
+2024-01-06,Bhopal,Fast Food,76,33060,29,0,Clear
+2024-01-06,Bhopal,Biryani,83,20252,29,0,Clear
+2024-01-06,Bangalore,North Indian,131,49911,23,43,Rainy
+2024-01-06,Bangalore,South Indian,139,54210,23,43,Rainy
+2024-01-06,Bangalore,Chinese,88,21296,23,43,Rainy
+2024-01-06,Bangalore,Fast Food,158,60356,23,43,Rainy
+2024-01-06,Bangalore,Biryani,139,54071,23,43,Rainy
+2024-01-06,Delhi,North Indian,87,24099,27,0,Clear
+2024-01-06,Delhi,South Indian,89,35511,27,0,Clear
+2024-01-06,Delhi,Chinese,67,18894,27,0,Clear
+2024-01-06,Delhi,Fast Food,70,24920,27,0,Clear
+2024-01-06,Delhi,Biryani,76,27664,27,0,Clear
+2024-01-07,Indore,North Indian,69,19458,39,0,Hot
+2024-01-07,Indore,South Indian,51,15453,39,0,Hot
+2024-01-07,Indore,Chinese,55,16390,39,0,Hot
+2024-01-07,Indore,Fast Food,42,19278,39,0,Hot
+2024-01-07,Indore,Biryani,68,25840,39,0,Hot
+2024-01-07,Bhopal,North Indian,90,22500,21,14,Rainy
+2024-01-07,Bhopal,South Indian,79,28124,21,14,Rainy
+2024-01-07,Bhopal,Chinese,108,28944,21,14,Rainy
+2024-01-07,Bhopal,Fast Food,109,24416,21,14,Rainy
+2024-01-07,Bhopal,Biryani,129,59598,21,14,Rainy
+2024-01-07,Bangalore,North Indian,178,38448,21,39,Rainy
+2024-01-07,Bangalore,South Indian,91,33852,21,39,Rainy
+2024-01-07,Bangalore,Chinese,133,37772,21,39,Rainy
+2024-01-07,Bangalore,Fast Food,145,37845,21,39,Rainy
+2024-01-07,Bangalore,Biryani,84,29736,21,39,Rainy
+2024-01-07,Delhi,North Indian,79,17696,28,0,Clear
+2024-01-07,Delhi,South Indian,56,14448,28,0,Clear
+2024-01-07,Delhi,Chinese,65,31980,28,0,Clear
+2024-01-07,Delhi,Fast Food,75,26700,28,0,Clear
+2024-01-07,Delhi,Biryani,78,28782,28,0,Clear
+2024-01-08,Indore,North Indian,54,18684,30,0,Clear
+2024-01-08,Indore,South Indian,61,15067,30,0,Clear
+2024-01-08,Indore,Chinese,66,26796,30,0,Clear
+2024-01-08,Indore,Fast Food,90,41670,30,0,Clear
+2024-01-08,Indore,Biryani,52,20904,30,0,Clear
+2024-01-08,Bhopal,North Indian,136,62832,25,44,Rainy
+2024-01-08,Bhopal,South Indian,120,44520,25,44,Rainy
+2024-01-08,Bhopal,Chinese,117,46800,25,44,Rainy
+2024-01-08,Bhopal,Fast Food,122,43798,25,44,Rainy
+2024-01-08,Bhopal,Biryani,147,55860,25,44,Rainy
+2024-01-08,Bangalore,North Indian,80,34080,26,0,Clear
+2024-01-08,Bangalore,South Indian,83,30544,26,0,Clear
+2024-01-08,Bangalore,Chinese,52,25740,26,0,Clear
+2024-01-08,Bangalore,Fast Food,72,32616,26,0,Clear
+2024-01-08,Bangalore,Biryani,63,24318,26,0,Clear
+2024-01-08,Delhi,North Indian,83,18592,27,0,Cloudy
+2024-01-08,Delhi,South Indian,53,23903,27,0,Cloudy
+2024-01-08,Delhi,Chinese,72,17496,27,0,Cloudy
+2024-01-08,Delhi,Fast Food,95,34010,27,0,Cloudy
+2024-01-08,Delhi,Biryani,60,17820,27,0,Cloudy
+2024-01-09,Indore,North Indian,86,29240,30,0,Clear
+2024-01-09,Indore,South Indian,55,18645,30,0,Clear
+2024-01-09,Indore,Chinese,66,24024,30,0,Clear
+2024-01-09,Indore,Fast Food,85,21590,30,0,Clear
+2024-01-09,Indore,Biryani,81,21789,30,0,Clear
+2024-01-09,Bhopal,North Indian,95,40375,28,0,Clear
+2024-01-09,Bhopal,South Indian,97,38024,28,0,Clear
+2024-01-09,Bhopal,Chinese,63,28602,28,0,Clear
+2024-01-09,Bhopal,Fast Food,84,32508,28,0,Clear
+2024-01-09,Bhopal,Biryani,58,16008,28,0,Clear
+2024-01-09,Bangalore,North Indian,92,28888,30,0,Clear
+2024-01-09,Bangalore,South Indian,56,26768,30,0,Clear
+2024-01-09,Bangalore,Chinese,61,15860,30,0,Clear
+2024-01-09,Bangalore,Fast Food,97,45202,30,0,Clear
+2024-01-09,Bangalore,Biryani,51,22236,30,0,Clear
+2024-01-09,Delhi,North Indian,108,23544,25,34,Rainy
+2024-01-09,Delhi,South Indian,94,44650,25,34,Rainy
+2024-01-09,Delhi,Chinese,114,44688,25,34,Rainy
+2024-01-09,Delhi,Fast Food,154,56210,25,34,Rainy
+2024-01-09,Delhi,Biryani,87,33930,25,34,Rainy
+2024-01-10,Indore,North Indian,88,36784,27,0,Clear
+2024-01-10,Indore,South Indian,85,40035,27,0,Clear
+2024-01-10,Indore,Chinese,91,29120,27,0,Clear
+2024-01-10,Indore,Fast Food,51,18054,27,0,Clear
+2024-01-10,Indore,Biryani,76,26068,27,0,Clear
+2024-01-10,Bhopal,North Indian,66,18282,38,0,Hot
+2024-01-10,Bhopal,South Indian,40,9960,38,0,Hot
+2024-01-10,Bhopal,Chinese,48,18048,38,0,Hot
+2024-01-10,Bhopal,Fast Food,68,31416,38,0,Hot
+2024-01-10,Bhopal,Biryani,56,18088,38,0,Hot
+2024-01-10,Bangalore,North Indian,88,41184,29,0,Clear
+2024-01-10,Bangalore,South Indian,93,29667,29,0,Clear
+2024-01-10,Bangalore,Chinese,91,25116,29,0,Clear
+2024-01-10,Bangalore,Fast Food,84,36876,29,0,Clear
+2024-01-10,Bangalore,Biryani,56,25760,29,0,Clear
+2024-01-10,Delhi,North Indian,88,35640,27,0,Clear
+2024-01-10,Delhi,South Indian,53,26288,27,0,Clear
+2024-01-10,Delhi,Chinese,53,21889,27,0,Clear
+2024-01-10,Delhi,Fast Food,88,36696,27,0,Clear
+2024-01-10,Delhi,Biryani,68,31620,27,0,Clear
+2024-01-11,Indore,North Indian,84,25956,28,0,Clear
+2024-01-11,Indore,South Indian,85,38505,28,0,Clear
+2024-01-11,Indore,Chinese,59,28556,28,0,Clear
+2024-01-11,Indore,Fast Food,84,25788,28,0,Clear
+2024-01-11,Indore,Biryani,57,22002,28,0,Clear
+2024-01-11,Bhopal,North Indian,69,22908,31,0,Cloudy
+2024-01-11,Bhopal,South Indian,80,18880,31,0,Cloudy
+2024-01-11,Bhopal,Chinese,72,28152,31,0,Cloudy
+2024-01-11,Bhopal,Fast Food,69,15318,31,0,Cloudy
+2024-01-11,Bhopal,Biryani,62,25420,31,0,Cloudy
+2024-01-11,Bangalore,North Indian,90,33300,21,13,Rainy
+2024-01-11,Bangalore,South Indian,141,37506,21,13,Rainy
+2024-01-11,Bangalore,Chinese,145,38425,21,13,Rainy
+2024-01-11,Bangalore,Fast Food,91,32214,21,13,Rainy
+2024-01-11,Bangalore,Biryani,88,18920,21,13,Rainy
+2024-01-11,Delhi,North Indian,66,21714,28,0,Clear
+2024-01-11,Delhi,South Indian,65,22815,28,0,Clear
+2024-01-11,Delhi,Chinese,60,19320,28,0,Clear
+2024-01-11,Delhi,Fast Food,72,14616,28,0,Clear
+2024-01-11,Delhi,Biryani,74,24716,28,0,Clear
+2024-01-12,Indore,North Indian,149,59749,24,19,Rainy
+2024-01-12,Indore,South Indian,76,26372,24,19,Rainy
+2024-01-12,Indore,Chinese,84,40236,24,19,Rainy
+2024-01-12,Indore,Fast Food,163,36838,24,19,Rainy
+2024-01-12,Indore,Biryani,78,17940,24,19,Rainy
+2024-01-12,Bhopal,North Indian,78,20982,39,0,Hot
+2024-01-12,Bhopal,South Indian,65,26455,39,0,Hot
+2024-01-12,Bhopal,Chinese,64,16064,39,0,Hot
+2024-01-12,Bhopal,Fast Food,66,29370,39,0,Hot
+2024-01-12,Bhopal,Biryani,68,17000,39,0,Hot
+2024-01-12,Bangalore,North Indian,50,11900,27,0,Clear
+2024-01-12,Bangalore,South Indian,55,25520,27,0,Clear
+2024-01-12,Bangalore,Chinese,91,37037,27,0,Clear
+2024-01-12,Bangalore,Fast Food,57,17385,27,0,Clear
+2024-01-12,Bangalore,Biryani,89,28124,27,0,Clear
+2024-01-12,Delhi,North Indian,174,69774,25,47,Rainy
+2024-01-12,Delhi,South Indian,88,21384,25,47,Rainy
+2024-01-12,Delhi,Chinese,87,31581,25,47,Rainy
+2024-01-12,Delhi,Fast Food,115,38985,25,47,Rainy
+2024-01-12,Delhi,Biryani,142,45156,25,47,Rainy
+2024-01-13,Indore,North Indian,98,31948,25,0,Clear
+2024-01-13,Indore,South Indian,62,27962,25,0,Clear
+2024-01-13,Indore,Chinese,95,41420,25,0,Clear
+2024-01-13,Indore,Fast Food,99,46431,25,0,Clear
+2024-01-13,Indore,Biryani,77,24640,25,0,Clear
+2024-01-13,Bhopal,North Indian,88,41976,26,0,Cloudy
+2024-01-13,Bhopal,South Indian,97,42777,26,0,Cloudy
+2024-01-13,Bhopal,Chinese,84,25536,26,0,Cloudy
+2024-01-13,Bhopal,Fast Food,75,17850,26,0,Cloudy
+2024-01-13,Bhopal,Biryani,93,21204,26,0,Cloudy
+2024-01-13,Bangalore,North Indian,78,38142,28,0,Cloudy
+2024-01-13,Bangalore,South Indian,72,34632,28,0,Cloudy
+2024-01-13,Bangalore,Chinese,71,18673,28,0,Cloudy
+2024-01-13,Bangalore,Fast Food,96,45984,28,0,Cloudy
+2024-01-13,Bangalore,Biryani,71,22436,28,0,Cloudy
+2024-01-13,Delhi,North Indian,108,36828,21,47,Rainy
+2024-01-13,Delhi,South Indian,91,41496,21,47,Rainy
+2024-01-13,Delhi,Chinese,94,19082,21,47,Rainy
+2024-01-13,Delhi,Fast Food,178,55536,21,47,Rainy
+2024-01-13,Delhi,Biryani,103,48925,21,47,Rainy
+2024-01-14,Indore,North Indian,58,17516,29,0,Cloudy
+2024-01-14,Indore,South Indian,85,33660,29,0,Cloudy
+2024-01-14,Indore,Chinese,93,37200,29,0,Cloudy
+2024-01-14,Indore,Fast Food,57,25251,29,0,Cloudy
+2024-01-14,Indore,Biryani,85,25585,29,0,Cloudy
+2024-01-14,Bhopal,North Indian,41,18204,35,0,Hot
+2024-01-14,Bhopal,South Indian,50,20550,35,0,Hot
+2024-01-14,Bhopal,Chinese,49,12642,35,0,Hot
+2024-01-14,Bhopal,Fast Food,66,28710,35,0,Hot
+2024-01-14,Bhopal,Biryani,56,18704,35,0,Hot
+2024-01-14,Bangalore,North Indian,58,12528,28,0,Clear
+2024-01-14,Bangalore,South Indian,62,15934,28,0,Clear
+2024-01-14,Bangalore,Chinese,76,33212,28,0,Clear
+2024-01-14,Bangalore,Fast Food,56,25144,28,0,Clear
+2024-01-14,Bangalore,Biryani,69,33258,28,0,Clear
+2024-01-14,Delhi,North Indian,50,11000,30,0,Clear
+2024-01-14,Delhi,South Indian,82,35506,30,0,Clear
+2024-01-14,Delhi,Chinese,94,31020,30,0,Clear
+2024-01-14,Delhi,Fast Food,65,26390,30,0,Clear
+2024-01-14,Delhi,Biryani,56,14896,30,0,Clear
+2024-01-15,Indore,North Indian,63,20601,25,0,Clear
+2024-01-15,Indore,South Indian,69,23322,25,0,Clear
+2024-01-15,Indore,Chinese,91,39221,25,0,Clear
+2024-01-15,Indore,Fast Food,99,40689,25,0,Clear
+2024-01-15,Indore,Biryani,56,19768,25,0,Clear
+2024-01-15,Bhopal,North Indian,93,30132,31,0,Clear
+2024-01-15,Bhopal,South Indian,57,24738,31,0,Clear
+2024-01-15,Bhopal,Chinese,74,35076,31,0,Clear
+2024-01-15,Bhopal,Fast Food,93,18786,31,0,Clear
+2024-01-15,Bhopal,Biryani,93,43617,31,0,Clear
+2024-01-15,Bangalore,North Indian,69,29256,30,0,Clear
+2024-01-15,Bangalore,South Indian,50,15150,30,0,Clear
+2024-01-15,Bangalore,Chinese,70,19530,30,0,Clear
+2024-01-15,Bangalore,Fast Food,75,33750,30,0,Clear
+2024-01-15,Bangalore,Biryani,52,11076,30,0,Clear
+2024-01-15,Delhi,North Indian,99,36432,28,0,Cloudy
+2024-01-15,Delhi,South Indian,95,26220,28,0,Cloudy
+2024-01-15,Delhi,Chinese,59,14219,28,0,Cloudy
+2024-01-15,Delhi,Fast Food,65,29900,28,0,Cloudy
+2024-01-15,Delhi,Biryani,61,13847,28,0,Cloudy
+2024-01-16,Indore,North Indian,85,35190,31,0,Clear
+2024-01-16,Indore,South Indian,51,23307,31,0,Clear
+2024-01-16,Indore,Chinese,58,26448,31,0,Clear
+2024-01-16,Indore,Fast Food,78,33462,31,0,Clear
+2024-01-16,Indore,Biryani,92,38088,31,0,Clear
+2024-01-16,Bhopal,North Indian,97,40934,25,44,Rainy
+2024-01-16,Bhopal,South Indian,103,48513,25,44,Rainy
+2024-01-16,Bhopal,Chinese,130,40300,25,44,Rainy
+2024-01-16,Bhopal,Fast Food,165,42570,25,44,Rainy
+2024-01-16,Bhopal,Biryani,132,37224,25,44,Rainy
+2024-01-16,Bangalore,North Indian,178,87576,22,26,Rainy
+2024-01-16,Bangalore,South Indian,129,62307,22,26,Rainy
+2024-01-16,Bangalore,Chinese,129,26445,22,26,Rainy
+2024-01-16,Bangalore,Fast Food,99,30096,22,26,Rainy
+2024-01-16,Bangalore,Biryani,93,30132,22,26,Rainy
+2024-01-16,Delhi,North Indian,140,55020,23,26,Rainy
+2024-01-16,Delhi,South Indian,121,52393,23,26,Rainy
+2024-01-16,Delhi,Chinese,115,30360,23,26,Rainy
+2024-01-16,Delhi,Fast Food,93,41850,23,26,Rainy
+2024-01-16,Delhi,Biryani,144,31392,23,26,Rainy
+2024-01-17,Indore,North Indian,55,24970,29,0,Clear
+2024-01-17,Indore,South Indian,93,45756,29,0,Clear
+2024-01-17,Indore,Chinese,71,29678,29,0,Clear
+2024-01-17,Indore,Fast Food,86,37238,29,0,Clear
+2024-01-17,Indore,Biryani,55,20295,29,0,Clear
+2024-01-17,Bhopal,North Indian,58,16762,40,0,Hot
+2024-01-17,Bhopal,South Indian,77,25179,40,0,Hot
+2024-01-17,Bhopal,Chinese,62,22816,40,0,Hot
+2024-01-17,Bhopal,Fast Food,59,13334,40,0,Hot
+2024-01-17,Bhopal,Biryani,66,27258,40,0,Hot
+2024-01-17,Bangalore,North Indian,62,30132,26,0,Cloudy
+2024-01-17,Bangalore,South Indian,65,13975,26,0,Cloudy
+2024-01-17,Bangalore,Chinese,98,47922,26,0,Cloudy
+2024-01-17,Bangalore,Fast Food,65,25545,26,0,Cloudy
+2024-01-17,Bangalore,Biryani,63,19215,26,0,Cloudy
+2024-01-17,Delhi,North Indian,76,15656,26,0,Clear
+2024-01-17,Delhi,South Indian,72,31032,26,0,Clear
+2024-01-17,Delhi,Chinese,95,38950,26,0,Clear
+2024-01-17,Delhi,Fast Food,53,16536,26,0,Clear
+2024-01-17,Delhi,Biryani,51,24276,26,0,Clear
+2024-01-18,Indore,North Indian,95,31065,25,49,Rainy
+2024-01-18,Indore,South Indian,106,51304,25,49,Rainy
+2024-01-18,Indore,Chinese,112,33264,25,49,Rainy
+2024-01-18,Indore,Fast Food,127,59055,25,49,Rainy
+2024-01-18,Indore,Biryani,117,56043,25,49,Rainy
+2024-01-18,Bhopal,North Indian,56,24248,40,0,Hot
+2024-01-18,Bhopal,South Indian,45,14085,40,0,Hot
+2024-01-18,Bhopal,Chinese,64,29760,40,0,Hot
+2024-01-18,Bhopal,Fast Food,77,21252,40,0,Hot
+2024-01-18,Bhopal,Biryani,76,21280,40,0,Hot
+2024-01-18,Bangalore,North Indian,153,46359,21,47,Rainy
+2024-01-18,Bangalore,South Indian,76,27132,21,47,Rainy
+2024-01-18,Bangalore,Chinese,145,31465,21,47,Rainy
+2024-01-18,Bangalore,Fast Food,144,63504,21,47,Rainy
+2024-01-18,Bangalore,Biryani,90,34740,21,47,Rainy
+2024-01-18,Delhi,North Indian,50,16400,31,0,Cloudy
+2024-01-18,Delhi,South Indian,58,24418,31,0,Cloudy
+2024-01-18,Delhi,Chinese,56,18536,31,0,Cloudy
+2024-01-18,Delhi,Fast Food,97,20564,31,0,Cloudy
+2024-01-18,Delhi,Biryani,61,15189,31,0,Cloudy
+2024-01-19,Indore,North Indian,129,33540,25,45,Rainy
+2024-01-19,Indore,South Indian,135,35370,25,45,Rainy
+2024-01-19,Indore,Chinese,84,37884,25,45,Rainy
+2024-01-19,Indore,Fast Food,95,24605,25,45,Rainy
+2024-01-19,Indore,Biryani,133,44688,25,45,Rainy
+2024-01-19,Bhopal,North Indian,144,54576,22,27,Rainy
+2024-01-19,Bhopal,South Indian,94,24346,22,27,Rainy
+2024-01-19,Bhopal,Chinese,132,48048,22,27,Rainy
+2024-01-19,Bhopal,Fast Food,160,46400,22,27,Rainy
+2024-01-19,Bhopal,Biryani,99,42867,22,27,Rainy
+2024-01-19,Bangalore,North Indian,67,26398,30,0,Clear
+2024-01-19,Bangalore,South Indian,83,21663,30,0,Clear
+2024-01-19,Bangalore,Chinese,59,13452,30,0,Clear
+2024-01-19,Bangalore,Fast Food,56,20104,30,0,Clear
+2024-01-19,Bangalore,Biryani,62,29884,30,0,Clear
+2024-01-19,Delhi,North Indian,64,16448,30,0,Clear
+2024-01-19,Delhi,South Indian,63,27531,30,0,Clear
+2024-01-19,Delhi,Chinese,75,22275,30,0,Clear
+2024-01-19,Delhi,Fast Food,99,31779,30,0,Clear
+2024-01-19,Delhi,Biryani,97,35599,30,0,Clear
+2024-01-20,Indore,North Indian,79,16669,28,0,Cloudy
+2024-01-20,Indore,South Indian,93,25854,28,0,Cloudy
+2024-01-20,Indore,Chinese,74,25604,28,0,Cloudy
+2024-01-20,Indore,Fast Food,84,26880,28,0,Cloudy
+2024-01-20,Indore,Biryani,89,32040,28,0,Cloudy
+2024-01-20,Bhopal,North Indian,118,36934,20,27,Rainy
+2024-01-20,Bhopal,South Indian,102,46614,20,27,Rainy
+2024-01-20,Bhopal,Chinese,145,31755,20,27,Rainy
+2024-01-20,Bhopal,Fast Food,149,46786,20,27,Rainy
+2024-01-20,Bhopal,Biryani,93,39804,20,27,Rainy
+2024-01-20,Bangalore,North Indian,81,25515,28,0,Clear
+2024-01-20,Bangalore,South Indian,67,29480,28,0,Clear
+2024-01-20,Bangalore,Chinese,57,12540,28,0,Clear
+2024-01-20,Bangalore,Fast Food,76,24168,28,0,Clear
+2024-01-20,Bangalore,Biryani,88,28160,28,0,Clear
+2024-01-20,Delhi,North Indian,90,29970,25,0,Clear
+2024-01-20,Delhi,South Indian,83,38263,25,0,Clear
+2024-01-20,Delhi,Chinese,84,21168,25,0,Clear
+2024-01-20,Delhi,Fast Food,78,27534,25,0,Clear
+2024-01-20,Delhi,Biryani,68,26520,25,0,Clear
+2024-01-21,Indore,North Indian,97,40158,27,0,Clear
+2024-01-21,Indore,South Indian,86,35432,27,0,Clear
+2024-01-21,Indore,Chinese,50,20350,27,0,Clear
+2024-01-21,Indore,Fast Food,56,11480,27,0,Clear
+2024-01-21,Indore,Biryani,78,31434,27,0,Clear
+2024-01-21,Bhopal,North Indian,97,38994,26,0,Clear
+2024-01-21,Bhopal,South Indian,94,31584,26,0,Clear
+2024-01-21,Bhopal,Chinese,77,16786,26,0,Clear
+2024-01-21,Bhopal,Fast Food,72,14904,26,0,Clear
+2024-01-21,Bhopal,Biryani,54,15822,26,0,Clear
+2024-01-21,Bangalore,North Indian,84,35028,30,0,Clear
+2024-01-21,Bangalore,South Indian,84,22008,30,0,Clear
+2024-01-21,Bangalore,Chinese,56,14560,30,0,Clear
+2024-01-21,Bangalore,Fast Food,62,29822,30,0,Clear
+2024-01-21,Bangalore,Biryani,84,36792,30,0,Clear
+2024-01-21,Delhi,North Indian,147,40866,20,43,Rainy
+2024-01-21,Delhi,South Indian,96,35712,20,43,Rainy
+2024-01-21,Delhi,Chinese,115,45770,20,43,Rainy
+2024-01-21,Delhi,Fast Food,153,41157,20,43,Rainy
+2024-01-21,Delhi,Biryani,123,33825,20,43,Rainy
+2024-01-22,Indore,North Indian,82,24026,31,0,Clear
+2024-01-22,Indore,South Indian,80,17680,31,0,Clear
+2024-01-22,Indore,Chinese,61,22936,31,0,Clear
+2024-01-22,Indore,Fast Food,85,37570,31,0,Clear
+2024-01-22,Indore,Biryani,67,26666,31,0,Clear
+2024-01-22,Bhopal,North Indian,75,28425,29,0,Clear
+2024-01-22,Bhopal,South Indian,70,18550,29,0,Clear
+2024-01-22,Bhopal,Chinese,70,24220,29,0,Clear
+2024-01-22,Bhopal,Fast Food,79,31284,29,0,Clear
+2024-01-22,Bhopal,Biryani,95,37525,29,0,Clear
+2024-01-22,Bangalore,North Indian,88,29480,28,0,Clear
+2024-01-22,Bangalore,South Indian,63,20727,28,0,Clear
+2024-01-22,Bangalore,Chinese,97,25511,28,0,Clear
+2024-01-22,Bangalore,Fast Food,55,22330,28,0,Clear
+2024-01-22,Bangalore,Biryani,77,15862,28,0,Clear
+2024-01-22,Delhi,North Indian,77,29799,31,0,Clear
+2024-01-22,Delhi,South Indian,63,23436,31,0,Clear
+2024-01-22,Delhi,Chinese,63,19215,31,0,Clear
+2024-01-22,Delhi,Fast Food,96,34080,31,0,Clear
+2024-01-22,Delhi,Biryani,77,28028,31,0,Clear
+2024-01-23,Indore,North Indian,64,17856,28,0,Clear
+2024-01-23,Indore,South Indian,94,33746,28,0,Clear
+2024-01-23,Indore,Chinese,51,11067,28,0,Clear
+2024-01-23,Indore,Fast Food,95,19760,28,0,Clear
+2024-01-23,Indore,Biryani,70,34860,28,0,Clear
+2024-01-23,Bhopal,North Indian,60,27540,29,0,Cloudy
+2024-01-23,Bhopal,South Indian,55,22385,29,0,Cloudy
+2024-01-23,Bhopal,Chinese,52,15340,29,0,Cloudy
+2024-01-23,Bhopal,Fast Food,72,20664,29,0,Cloudy
+2024-01-23,Bhopal,Biryani,66,22572,29,0,Cloudy
+2024-01-23,Bangalore,North Indian,54,11124,30,0,Cloudy
+2024-01-23,Bangalore,South Indian,79,18802,30,0,Cloudy
+2024-01-23,Bangalore,Chinese,95,28310,30,0,Cloudy
+2024-01-23,Bangalore,Fast Food,87,34539,30,0,Cloudy
+2024-01-23,Bangalore,Biryani,90,27720,30,0,Cloudy
+2024-01-23,Delhi,North Indian,81,35964,28,0,Clear
+2024-01-23,Delhi,South Indian,55,12540,28,0,Clear
+2024-01-23,Delhi,Chinese,89,30794,28,0,Clear
+2024-01-23,Delhi,Fast Food,59,23600,28,0,Clear
+2024-01-23,Delhi,Biryani,68,22100,28,0,Clear
+2024-01-24,Indore,North Indian,61,28426,28,0,Clear
+2024-01-24,Indore,South Indian,62,21080,28,0,Clear
+2024-01-24,Indore,Chinese,62,23932,28,0,Clear
+2024-01-24,Indore,Fast Food,88,21296,28,0,Clear
+2024-01-24,Indore,Biryani,66,31746,28,0,Clear
+2024-01-24,Bhopal,North Indian,57,14820,38,0,Hot
+2024-01-24,Bhopal,South Indian,56,25648,38,0,Hot
+2024-01-24,Bhopal,Chinese,44,14080,38,0,Hot
+2024-01-24,Bhopal,Fast Food,55,26895,38,0,Hot
+2024-01-24,Bhopal,Biryani,60,19740,38,0,Hot
+2024-01-24,Bangalore,North Indian,77,30415,26,0,Clear
+2024-01-24,Bangalore,South Indian,80,23840,26,0,Clear
+2024-01-24,Bangalore,Chinese,81,33048,26,0,Clear
+2024-01-24,Bangalore,Fast Food,63,29988,26,0,Clear
+2024-01-24,Bangalore,Biryani,93,28272,26,0,Clear
+2024-01-24,Delhi,North Indian,53,25493,27,0,Clear
+2024-01-24,Delhi,South Indian,96,42336,27,0,Clear
+2024-01-24,Delhi,Chinese,91,22750,27,0,Clear
+2024-01-24,Delhi,Fast Food,63,20979,27,0,Clear
+2024-01-24,Delhi,Biryani,55,27115,27,0,Clear
+2024-01-25,Indore,North Indian,82,22714,26,0,Cloudy
+2024-01-25,Indore,South Indian,59,14691,26,0,Cloudy
+2024-01-25,Indore,Chinese,56,24024,26,0,Cloudy
+2024-01-25,Indore,Fast Food,55,24365,26,0,Cloudy
+2024-01-25,Indore,Biryani,70,17570,26,0,Cloudy
+2024-01-25,Bhopal,North Indian,109,44690,20,43,Rainy
+2024-01-25,Bhopal,South Indian,123,42558,20,43,Rainy
+2024-01-25,Bhopal,Chinese,91,20202,20,43,Rainy
+2024-01-25,Bhopal,Fast Food,117,39195,20,43,Rainy
+2024-01-25,Bhopal,Biryani,87,40455,20,43,Rainy
+2024-01-25,Bangalore,North Indian,41,8487,39,0,Hot
+2024-01-25,Bangalore,South Indian,58,21924,39,0,Hot
+2024-01-25,Bangalore,Chinese,40,11880,39,0,Hot
+2024-01-25,Bangalore,Fast Food,63,15246,39,0,Hot
+2024-01-25,Bangalore,Biryani,77,34265,39,0,Hot
+2024-01-25,Delhi,North Indian,96,46848,26,0,Cloudy
+2024-01-25,Delhi,South Indian,75,33900,26,0,Cloudy
+2024-01-25,Delhi,Chinese,80,26080,26,0,Cloudy
+2024-01-25,Delhi,Fast Food,97,30943,26,0,Cloudy
+2024-01-25,Delhi,Biryani,93,19902,26,0,Cloudy
+2024-01-26,Indore,North Indian,158,36656,24,20,Rainy
+2024-01-26,Indore,South Indian,117,55926,24,20,Rainy
+2024-01-26,Indore,Chinese,103,38522,24,20,Rainy
+2024-01-26,Indore,Fast Food,138,45402,24,20,Rainy
+2024-01-26,Indore,Biryani,96,34656,24,20,Rainy
+2024-01-26,Bhopal,North Indian,75,37350,31,0,Clear
+2024-01-26,Bhopal,South Indian,63,20286,31,0,Clear
+2024-01-26,Bhopal,Chinese,52,20644,31,0,Clear
+2024-01-26,Bhopal,Fast Food,87,31929,31,0,Clear
+2024-01-26,Bhopal,Biryani,89,19313,31,0,Clear
+2024-01-26,Bangalore,North Indian,71,18957,26,0,Clear
+2024-01-26,Bangalore,South Indian,71,27051,26,0,Clear
+2024-01-26,Bangalore,Chinese,67,16147,26,0,Clear
+2024-01-26,Bangalore,Fast Food,78,28626,26,0,Clear
+2024-01-26,Bangalore,Biryani,53,16536,26,0,Clear
+2024-01-26,Delhi,North Indian,95,27170,25,0,Clear
+2024-01-26,Delhi,South Indian,89,43076,25,0,Clear
+2024-01-26,Delhi,Chinese,72,26784,25,0,Clear
+2024-01-26,Delhi,Fast Food,81,24786,25,0,Clear
+2024-01-26,Delhi,Biryani,73,14965,25,0,Clear
+2024-01-27,Indore,North Indian,172,66392,25,35,Rainy
+2024-01-27,Indore,South Indian,106,37418,25,35,Rainy
+2024-01-27,Indore,Chinese,87,25752,25,35,Rainy
+2024-01-27,Indore,Fast Food,108,42444,25,35,Rainy
+2024-01-27,Indore,Biryani,82,27142,25,35,Rainy
+2024-01-27,Bhopal,North Indian,68,14008,38,0,Hot
+2024-01-27,Bhopal,South Indian,47,18377,38,0,Hot
+2024-01-27,Bhopal,Chinese,42,8820,38,0,Hot
+2024-01-27,Bhopal,Fast Food,50,15600,38,0,Hot
+2024-01-27,Bhopal,Biryani,59,14160,38,0,Hot
+2024-01-27,Bangalore,North Indian,57,12825,29,0,Clear
+2024-01-27,Bangalore,South Indian,50,15550,29,0,Clear
+2024-01-27,Bangalore,Chinese,95,22990,29,0,Clear
+2024-01-27,Bangalore,Fast Food,53,18391,29,0,Clear
+2024-01-27,Bangalore,Biryani,74,23384,29,0,Clear
+2024-01-27,Delhi,North Indian,90,31320,31,0,Clear
+2024-01-27,Delhi,South Indian,90,36450,31,0,Clear
+2024-01-27,Delhi,Chinese,61,17019,31,0,Clear
+2024-01-27,Delhi,Fast Food,97,22310,31,0,Clear
+2024-01-27,Delhi,Biryani,51,10812,31,0,Clear
+2024-01-28,Indore,North Indian,66,23760,26,0,Clear
+2024-01-28,Indore,South Indian,66,25212,26,0,Clear
+2024-01-28,Indore,Chinese,68,27540,26,0,Clear
+2024-01-28,Indore,Fast Food,53,10706,26,0,Clear
+2024-01-28,Indore,Biryani,83,24900,26,0,Clear
+2024-01-28,Bhopal,North Indian,72,31104,25,0,Cloudy
+2024-01-28,Bhopal,South Indian,92,41308,25,0,Cloudy
+2024-01-28,Bhopal,Chinese,54,13230,25,0,Cloudy
+2024-01-28,Bhopal,Fast Food,66,13662,25,0,Cloudy
+2024-01-28,Bhopal,Biryani,86,29154,25,0,Cloudy
+2024-01-28,Bangalore,North Indian,93,28923,20,20,Rainy
+2024-01-28,Bangalore,South Indian,97,46172,20,20,Rainy
+2024-01-28,Bangalore,Chinese,108,36612,20,20,Rainy
+2024-01-28,Bangalore,Fast Food,97,22989,20,20,Rainy
+2024-01-28,Bangalore,Biryani,78,33150,20,20,Rainy
+2024-01-28,Delhi,North Indian,72,20016,36,0,Hot
+2024-01-28,Delhi,South Indian,44,10648,36,0,Hot
+2024-01-28,Delhi,Chinese,74,35594,36,0,Hot
+2024-01-28,Delhi,Fast Food,70,23030,36,0,Hot
+2024-01-28,Delhi,Biryani,56,26488,36,0,Hot
+2024-01-29,Indore,North Indian,109,46652,21,22,Rainy
+2024-01-29,Indore,South Indian,123,30873,21,22,Rainy
+2024-01-29,Indore,Chinese,127,58928,21,22,Rainy
+2024-01-29,Indore,Fast Food,158,33022,21,22,Rainy
+2024-01-29,Indore,Biryani,94,45872,21,22,Rainy
+2024-01-29,Bhopal,North Indian,58,12876,28,0,Clear
+2024-01-29,Bhopal,South Indian,98,47236,28,0,Clear
+2024-01-29,Bhopal,Chinese,68,24480,28,0,Clear
+2024-01-29,Bhopal,Fast Food,80,38960,28,0,Clear
+2024-01-29,Bhopal,Biryani,75,19575,28,0,Clear
+2024-01-29,Bangalore,North Indian,55,27225,28,0,Cloudy
+2024-01-29,Bangalore,South Indian,52,17420,28,0,Cloudy
+2024-01-29,Bangalore,Chinese,71,31737,28,0,Cloudy
+2024-01-29,Bangalore,Fast Food,69,18285,28,0,Cloudy
+2024-01-29,Bangalore,Biryani,62,22754,28,0,Cloudy
+2024-01-29,Delhi,North Indian,84,27216,30,0,Clear
+2024-01-29,Delhi,South Indian,55,24310,30,0,Clear
+2024-01-29,Delhi,Chinese,54,26676,30,0,Clear
+2024-01-29,Delhi,Fast Food,95,19760,30,0,Clear
+2024-01-29,Delhi,Biryani,67,21373,30,0,Clear
+2024-01-30,Indore,North Indian,70,18830,29,0,Cloudy
+2024-01-30,Indore,South Indian,60,14640,29,0,Cloudy
+2024-01-30,Indore,Chinese,81,16443,29,0,Cloudy
+2024-01-30,Indore,Fast Food,69,32637,29,0,Cloudy
+2024-01-30,Indore,Biryani,53,21783,29,0,Cloudy
+2024-01-30,Bhopal,North Indian,80,21600,28,0,Clear
+2024-01-30,Bhopal,South Indian,67,29078,28,0,Clear
+2024-01-30,Bhopal,Chinese,73,26426,28,0,Clear
+2024-01-30,Bhopal,Fast Food,62,13640,28,0,Clear
+2024-01-30,Bhopal,Biryani,58,19662,28,0,Clear
+2024-01-30,Bangalore,North Indian,85,24055,26,0,Cloudy
+2024-01-30,Bangalore,South Indian,89,28747,26,0,Cloudy
+2024-01-30,Bangalore,Chinese,61,18971,26,0,Cloudy
+2024-01-30,Bangalore,Fast Food,81,27864,26,0,Cloudy
+2024-01-30,Bangalore,Biryani,54,19170,26,0,Cloudy
+2024-01-30,Delhi,North Indian,54,26784,27,0,Clear
+2024-01-30,Delhi,South Indian,94,44556,27,0,Clear
+2024-01-30,Delhi,Chinese,90,42660,27,0,Clear
+2024-01-30,Delhi,Fast Food,71,16401,27,0,Clear
+2024-01-30,Delhi,Biryani,91,24843,27,0,Clear
+2024-01-31,Indore,North Indian,90,25470,28,0,Clear
+2024-01-31,Indore,South Indian,59,23600,28,0,Clear
+2024-01-31,Indore,Chinese,93,45849,28,0,Clear
+2024-01-31,Indore,Fast Food,50,17950,28,0,Clear
+2024-01-31,Indore,Biryani,96,43488,28,0,Clear
+2024-01-31,Bhopal,North Indian,75,36450,36,0,Hot
+2024-01-31,Bhopal,South Indian,45,21420,36,0,Hot
+2024-01-31,Bhopal,Chinese,47,10810,36,0,Hot
+2024-01-31,Bhopal,Fast Food,78,36894,36,0,Hot
+2024-01-31,Bhopal,Biryani,49,9800,36,0,Hot
+2024-01-31,Bangalore,North Indian,84,40572,28,0,Clear
+2024-01-31,Bangalore,South Indian,76,25460,28,0,Clear
+2024-01-31,Bangalore,Chinese,51,17034,28,0,Clear
+2024-01-31,Bangalore,Fast Food,72,18648,28,0,Clear
+2024-01-31,Bangalore,Biryani,70,17850,28,0,Clear
+2024-01-31,Delhi,North Indian,46,19872,35,0,Hot
+2024-01-31,Delhi,South Indian,76,29488,35,0,Hot
+2024-01-31,Delhi,Chinese,46,17618,35,0,Hot
+2024-01-31,Delhi,Fast Food,68,21420,35,0,Hot
+2024-01-31,Delhi,Biryani,70,18970,35,0,Hot
+2024-02-01,Indore,North Indian,84,25452,30,0,Clear
+2024-02-01,Indore,South Indian,56,14840,30,0,Clear
+2024-02-01,Indore,Chinese,66,16896,30,0,Clear
+2024-02-01,Indore,Fast Food,54,11502,30,0,Clear
+2024-02-01,Indore,Biryani,77,23870,30,0,Clear
+2024-02-01,Bhopal,North Indian,89,35600,25,0,Cloudy
+2024-02-01,Bhopal,South Indian,54,21114,25,0,Cloudy
+2024-02-01,Bhopal,Chinese,72,14976,25,0,Cloudy
+2024-02-01,Bhopal,Fast Food,79,28914,25,0,Cloudy
+2024-02-01,Bhopal,Biryani,80,35920,25,0,Cloudy
+2024-02-01,Bangalore,North Indian,65,21255,29,0,Clear
+2024-02-01,Bangalore,South Indian,55,22990,29,0,Clear
+2024-02-01,Bangalore,Chinese,75,17550,29,0,Clear
+2024-02-01,Bangalore,Fast Food,50,16150,29,0,Clear
+2024-02-01,Bangalore,Biryani,76,25384,29,0,Clear
+2024-02-01,Delhi,North Indian,91,22841,29,0,Clear
+2024-02-01,Delhi,South Indian,69,18009,29,0,Clear
+2024-02-01,Delhi,Chinese,77,30107,29,0,Clear
+2024-02-01,Delhi,Fast Food,61,18849,29,0,Clear
+2024-02-01,Delhi,Biryani,52,12168,29,0,Clear
+2024-02-02,Indore,North Indian,73,34967,30,0,Cloudy
+2024-02-02,Indore,South Indian,97,31040,30,0,Cloudy
+2024-02-02,Indore,Chinese,55,19580,30,0,Cloudy
+2024-02-02,Indore,Fast Food,53,13091,30,0,Cloudy
+2024-02-02,Indore,Biryani,77,23716,30,0,Cloudy
+2024-02-02,Bhopal,North Indian,111,54390,23,16,Rainy
+2024-02-02,Bhopal,South Indian,133,48013,23,16,Rainy
+2024-02-02,Bhopal,Chinese,147,70707,23,16,Rainy
+2024-02-02,Bhopal,Fast Food,90,41040,23,16,Rainy
+2024-02-02,Bhopal,Biryani,129,53406,23,16,Rainy
+2024-02-02,Bangalore,North Indian,135,43065,23,38,Rainy
+2024-02-02,Bangalore,South Indian,106,27666,23,38,Rainy
+2024-02-02,Bangalore,Chinese,130,60450,23,38,Rainy
+2024-02-02,Bangalore,Fast Food,124,38812,23,38,Rainy
+2024-02-02,Bangalore,Biryani,87,23838,23,38,Rainy
+2024-02-02,Delhi,North Indian,77,21406,35,0,Hot
+2024-02-02,Delhi,South Indian,41,11521,35,0,Hot
+2024-02-02,Delhi,Chinese,65,16445,35,0,Hot
+2024-02-02,Delhi,Fast Food,76,27968,35,0,Hot
+2024-02-02,Delhi,Biryani,43,13502,35,0,Hot
+2024-02-03,Indore,North Indian,138,34638,24,47,Rainy
+2024-02-03,Indore,South Indian,88,41888,24,47,Rainy
+2024-02-03,Indore,Chinese,124,26536,24,47,Rainy
+2024-02-03,Indore,Fast Food,154,50666,24,47,Rainy
+2024-02-03,Indore,Biryani,99,40689,24,47,Rainy
+2024-02-03,Bhopal,North Indian,64,22656,37,0,Hot
+2024-02-03,Bhopal,South Indian,50,22650,37,0,Hot
+2024-02-03,Bhopal,Chinese,60,13260,37,0,Hot
+2024-02-03,Bhopal,Fast Food,69,20217,37,0,Hot
+2024-02-03,Bhopal,Biryani,54,26460,37,0,Hot
+2024-02-03,Bangalore,North Indian,56,23464,41,0,Hot
+2024-02-03,Bangalore,South Indian,75,36450,41,0,Hot
+2024-02-03,Bangalore,Chinese,55,24860,41,0,Hot
+2024-02-03,Bangalore,Fast Food,69,20355,41,0,Hot
+2024-02-03,Bangalore,Biryani,78,33306,41,0,Hot
+2024-02-03,Delhi,North Indian,79,34049,28,0,Cloudy
+2024-02-03,Delhi,South Indian,61,12993,28,0,Cloudy
+2024-02-03,Delhi,Chinese,85,25415,28,0,Cloudy
+2024-02-03,Delhi,Fast Food,61,22631,28,0,Cloudy
+2024-02-03,Delhi,Biryani,53,17384,28,0,Cloudy
+2024-02-04,Indore,North Indian,85,37740,31,0,Clear
+2024-02-04,Indore,South Indian,65,31005,31,0,Clear
+2024-02-04,Indore,Chinese,91,38311,31,0,Clear
+2024-02-04,Indore,Fast Food,75,17175,31,0,Clear
+2024-02-04,Indore,Biryani,83,35026,31,0,Clear
+2024-02-04,Bhopal,North Indian,76,36480,26,0,Clear
+2024-02-04,Bhopal,South Indian,98,29988,26,0,Clear
+2024-02-04,Bhopal,Chinese,62,26164,26,0,Clear
+2024-02-04,Bhopal,Fast Food,71,28187,26,0,Clear
+2024-02-04,Bhopal,Biryani,95,21660,26,0,Clear
+2024-02-04,Bangalore,North Indian,78,23868,26,0,Clear
+2024-02-04,Bangalore,South Indian,90,32310,26,0,Clear
+2024-02-04,Bangalore,Chinese,56,24248,26,0,Clear
+2024-02-04,Bangalore,Fast Food,81,37665,26,0,Clear
+2024-02-04,Bangalore,Biryani,75,32775,26,0,Clear
+2024-02-04,Delhi,North Indian,50,23150,25,0,Clear
+2024-02-04,Delhi,South Indian,56,16352,25,0,Clear
+2024-02-04,Delhi,Chinese,90,22590,25,0,Clear
+2024-02-04,Delhi,Fast Food,69,28704,25,0,Clear
+2024-02-04,Delhi,Biryani,76,20444,25,0,Clear
+2024-02-05,Indore,North Indian,99,48015,27,0,Cloudy
+2024-02-05,Indore,South Indian,72,29664,27,0,Cloudy
+2024-02-05,Indore,Chinese,85,19465,27,0,Cloudy
+2024-02-05,Indore,Fast Food,82,24190,27,0,Cloudy
+2024-02-05,Indore,Biryani,57,14136,27,0,Cloudy
+2024-02-05,Bhopal,North Indian,54,21222,31,0,Clear
+2024-02-05,Bhopal,South Indian,51,16728,31,0,Clear
+2024-02-05,Bhopal,Chinese,91,36582,31,0,Clear
+2024-02-05,Bhopal,Fast Food,76,24700,31,0,Clear
+2024-02-05,Bhopal,Biryani,82,25584,31,0,Clear
+2024-02-05,Bangalore,North Indian,62,26412,29,0,Clear
+2024-02-05,Bangalore,South Indian,95,29925,29,0,Clear
+2024-02-05,Bangalore,Chinese,68,25296,29,0,Clear
+2024-02-05,Bangalore,Fast Food,97,20564,29,0,Clear
+2024-02-05,Bangalore,Biryani,92,20700,29,0,Clear
+2024-02-05,Delhi,North Indian,63,28854,41,0,Hot
+2024-02-05,Delhi,South Indian,51,14739,41,0,Hot
+2024-02-05,Delhi,Chinese,56,25816,41,0,Hot
+2024-02-05,Delhi,Fast Food,68,28492,41,0,Hot
+2024-02-05,Delhi,Biryani,54,26298,41,0,Hot
+2024-02-06,Indore,North Indian,97,35017,24,49,Rainy
+2024-02-06,Indore,South Indian,144,53712,24,49,Rainy
+2024-02-06,Indore,Chinese,132,46992,24,49,Rainy
+2024-02-06,Indore,Fast Food,99,43560,24,49,Rainy
+2024-02-06,Indore,Biryani,129,34959,24,49,Rainy
+2024-02-06,Bhopal,North Indian,83,26809,26,0,Cloudy
+2024-02-06,Bhopal,South Indian,83,34113,26,0,Cloudy
+2024-02-06,Bhopal,Chinese,80,39680,26,0,Cloudy
+2024-02-06,Bhopal,Fast Food,90,39150,26,0,Cloudy
+2024-02-06,Bhopal,Biryani,60,13260,26,0,Cloudy
+2024-02-06,Bangalore,North Indian,90,24660,28,0,Clear
+2024-02-06,Bangalore,South Indian,93,38409,28,0,Clear
+2024-02-06,Bangalore,Chinese,66,25410,28,0,Clear
+2024-02-06,Bangalore,Fast Food,80,23440,28,0,Clear
+2024-02-06,Bangalore,Biryani,99,47916,28,0,Clear
+2024-02-06,Delhi,North Indian,151,36844,22,23,Rainy
+2024-02-06,Delhi,South Indian,121,24684,22,23,Rainy
+2024-02-06,Delhi,Chinese,99,41580,22,23,Rainy
+2024-02-06,Delhi,Fast Food,158,41554,22,23,Rainy
+2024-02-06,Delhi,Biryani,103,43466,22,23,Rainy
+2024-02-07,Indore,North Indian,145,31610,21,17,Rainy
+2024-02-07,Indore,South Indian,136,41616,21,17,Rainy
+2024-02-07,Indore,Chinese,105,35070,21,17,Rainy
+2024-02-07,Indore,Fast Food,153,47583,21,17,Rainy
+2024-02-07,Indore,Biryani,132,54120,21,17,Rainy
+2024-02-07,Bhopal,North Indian,172,55728,24,38,Rainy
+2024-02-07,Bhopal,South Indian,139,66303,24,38,Rainy
+2024-02-07,Bhopal,Chinese,117,23985,24,38,Rainy
+2024-02-07,Bhopal,Fast Food,102,25908,24,38,Rainy
+2024-02-07,Bhopal,Biryani,84,40572,24,38,Rainy
+2024-02-07,Bangalore,North Indian,93,38409,29,0,Clear
+2024-02-07,Bangalore,South Indian,99,31581,29,0,Clear
+2024-02-07,Bangalore,Chinese,81,28593,29,0,Clear
+2024-02-07,Bangalore,Fast Food,95,43225,29,0,Clear
+2024-02-07,Bangalore,Biryani,96,46848,29,0,Clear
+2024-02-07,Delhi,North Indian,102,45288,23,42,Rainy
+2024-02-07,Delhi,South Indian,136,28288,23,42,Rainy
+2024-02-07,Delhi,Chinese,91,32123,23,42,Rainy
+2024-02-07,Delhi,Fast Food,129,45021,23,42,Rainy
+2024-02-07,Delhi,Biryani,99,27126,23,42,Rainy
+2024-02-08,Indore,North Indian,76,35112,27,0,Cloudy
+2024-02-08,Indore,South Indian,65,15015,27,0,Cloudy
+2024-02-08,Indore,Chinese,52,20436,27,0,Cloudy
+2024-02-08,Indore,Fast Food,80,31120,27,0,Cloudy
+2024-02-08,Indore,Biryani,69,33120,27,0,Cloudy
+2024-02-08,Bhopal,North Indian,113,52093,20,38,Rainy
+2024-02-08,Bhopal,South Indian,147,42336,20,38,Rainy
+2024-02-08,Bhopal,Chinese,87,29754,20,38,Rainy
+2024-02-08,Bhopal,Fast Food,169,75374,20,38,Rainy
+2024-02-08,Bhopal,Biryani,115,49795,20,38,Rainy
+2024-02-08,Bangalore,North Indian,63,18900,30,0,Clear
+2024-02-08,Bangalore,South Indian,60,16500,30,0,Clear
+2024-02-08,Bangalore,Chinese,93,18972,30,0,Clear
+2024-02-08,Bangalore,Fast Food,93,23343,30,0,Clear
+2024-02-08,Bangalore,Biryani,77,33187,30,0,Clear
+2024-02-08,Delhi,North Indian,91,20202,27,0,Clear
+2024-02-08,Delhi,South Indian,55,26180,27,0,Clear
+2024-02-08,Delhi,Chinese,53,11554,27,0,Clear
+2024-02-08,Delhi,Fast Food,56,14280,27,0,Clear
+2024-02-08,Delhi,Biryani,66,32010,27,0,Clear
+2024-02-09,Indore,North Indian,56,16576,39,0,Hot
+2024-02-09,Indore,South Indian,41,17548,39,0,Hot
+2024-02-09,Indore,Chinese,60,28440,39,0,Hot
+2024-02-09,Indore,Fast Food,60,25560,39,0,Hot
+2024-02-09,Indore,Biryani,58,13978,39,0,Hot
+2024-02-09,Bhopal,North Indian,86,32938,31,0,Cloudy
+2024-02-09,Bhopal,South Indian,98,43904,31,0,Cloudy
+2024-02-09,Bhopal,Chinese,58,12702,31,0,Cloudy
+2024-02-09,Bhopal,Fast Food,73,15987,31,0,Cloudy
+2024-02-09,Bhopal,Biryani,93,31713,31,0,Cloudy
+2024-02-09,Bangalore,North Indian,58,21692,30,0,Clear
+2024-02-09,Bangalore,South Indian,86,26918,30,0,Clear
+2024-02-09,Bangalore,Chinese,58,22620,30,0,Clear
+2024-02-09,Bangalore,Fast Food,63,20160,30,0,Clear
+2024-02-09,Bangalore,Biryani,92,21160,30,0,Clear
+2024-02-09,Delhi,North Indian,50,18050,26,0,Cloudy
+2024-02-09,Delhi,South Indian,83,34528,26,0,Cloudy
+2024-02-09,Delhi,Chinese,97,28324,26,0,Cloudy
+2024-02-09,Delhi,Fast Food,73,31901,26,0,Cloudy
+2024-02-09,Delhi,Biryani,72,26208,26,0,Cloudy
+2024-02-10,Indore,North Indian,98,47334,29,0,Clear
+2024-02-10,Indore,South Indian,73,14819,29,0,Clear
+2024-02-10,Indore,Chinese,53,23108,29,0,Clear
+2024-02-10,Indore,Fast Food,79,25754,29,0,Clear
+2024-02-10,Indore,Biryani,76,31160,29,0,Clear
+2024-02-10,Bhopal,North Indian,61,24827,27,0,Cloudy
+2024-02-10,Bhopal,South Indian,98,26264,27,0,Cloudy
+2024-02-10,Bhopal,Chinese,64,26432,27,0,Cloudy
+2024-02-10,Bhopal,Fast Food,98,35280,27,0,Cloudy
+2024-02-10,Bhopal,Biryani,94,28200,27,0,Cloudy
+2024-02-10,Bangalore,North Indian,65,30940,25,0,Clear
+2024-02-10,Bangalore,South Indian,74,27898,25,0,Clear
+2024-02-10,Bangalore,Chinese,67,28475,25,0,Clear
+2024-02-10,Bangalore,Fast Food,58,21460,25,0,Clear
+2024-02-10,Bangalore,Biryani,73,35332,25,0,Clear
+2024-02-10,Delhi,North Indian,63,15120,30,0,Clear
+2024-02-10,Delhi,South Indian,93,20925,30,0,Clear
+2024-02-10,Delhi,Chinese,51,12801,30,0,Clear
+2024-02-10,Delhi,Fast Food,91,26845,30,0,Clear
+2024-02-10,Delhi,Biryani,60,16620,30,0,Clear
+2024-02-11,Indore,North Indian,127,51562,23,15,Rainy
+2024-02-11,Indore,South Indian,85,32555,23,15,Rainy
+2024-02-11,Indore,Chinese,79,29388,23,15,Rainy
+2024-02-11,Indore,Fast Food,131,36811,23,15,Rainy
+2024-02-11,Indore,Biryani,87,29406,23,15,Rainy
+2024-02-11,Bhopal,North Indian,55,25960,36,0,Hot
+2024-02-11,Bhopal,South Indian,44,13508,36,0,Hot
+2024-02-11,Bhopal,Chinese,75,24525,36,0,Hot
+2024-02-11,Bhopal,Fast Food,67,13601,36,0,Hot
+2024-02-11,Bhopal,Biryani,49,18081,36,0,Hot
+2024-02-11,Bangalore,North Indian,55,17105,39,0,Hot
+2024-02-11,Bangalore,South Indian,64,20288,39,0,Hot
+2024-02-11,Bangalore,Chinese,74,30266,39,0,Hot
+2024-02-11,Bangalore,Fast Food,73,27594,39,0,Hot
+2024-02-11,Bangalore,Biryani,48,9888,39,0,Hot
+2024-02-11,Delhi,North Indian,85,25415,25,0,Clear
+2024-02-11,Delhi,South Indian,71,14555,25,0,Clear
+2024-02-11,Delhi,Chinese,70,22470,25,0,Clear
+2024-02-11,Delhi,Fast Food,66,23628,25,0,Clear
+2024-02-11,Delhi,Biryani,67,21172,25,0,Clear
+2024-02-12,Indore,North Indian,67,15209,25,0,Cloudy
+2024-02-12,Indore,South Indian,85,23460,25,0,Cloudy
+2024-02-12,Indore,Chinese,99,20592,25,0,Cloudy
+2024-02-12,Indore,Fast Food,75,33600,25,0,Cloudy
+2024-02-12,Indore,Biryani,60,12180,25,0,Cloudy
+2024-02-12,Bhopal,North Indian,76,30172,37,0,Hot
+2024-02-12,Bhopal,South Indian,76,19000,37,0,Hot
+2024-02-12,Bhopal,Chinese,74,31524,37,0,Hot
+2024-02-12,Bhopal,Fast Food,70,33670,37,0,Hot
+2024-02-12,Bhopal,Biryani,40,19240,37,0,Hot
+2024-02-12,Bangalore,North Indian,85,40545,28,0,Clear
+2024-02-12,Bangalore,South Indian,74,19240,28,0,Clear
+2024-02-12,Bangalore,Chinese,86,36292,28,0,Clear
+2024-02-12,Bangalore,Fast Food,79,22910,28,0,Clear
+2024-02-12,Bangalore,Biryani,90,29070,28,0,Clear
+2024-02-12,Delhi,North Indian,100,37400,23,44,Rainy
+2024-02-12,Delhi,South Indian,81,34101,23,44,Rainy
+2024-02-12,Delhi,Chinese,139,42673,23,44,Rainy
+2024-02-12,Delhi,Fast Food,102,43044,23,44,Rainy
+2024-02-12,Delhi,Biryani,141,66552,23,44,Rainy
+2024-02-13,Indore,North Indian,63,16128,26,0,Clear
+2024-02-13,Indore,South Indian,90,23220,26,0,Clear
+2024-02-13,Indore,Chinese,54,19440,26,0,Clear
+2024-02-13,Indore,Fast Food,59,12508,26,0,Clear
+2024-02-13,Indore,Biryani,51,23511,26,0,Clear
+2024-02-13,Bhopal,North Indian,99,26730,31,0,Clear
+2024-02-13,Bhopal,South Indian,63,26901,31,0,Clear
+2024-02-13,Bhopal,Chinese,66,20922,31,0,Clear
+2024-02-13,Bhopal,Fast Food,54,24084,31,0,Clear
+2024-02-13,Bhopal,Biryani,86,36808,31,0,Clear
+2024-02-13,Bangalore,North Indian,93,28179,29,0,Clear
+2024-02-13,Bangalore,South Indian,87,17922,29,0,Clear
+2024-02-13,Bangalore,Chinese,64,30848,29,0,Clear
+2024-02-13,Bangalore,Fast Food,61,21960,29,0,Clear
+2024-02-13,Bangalore,Biryani,82,36818,29,0,Clear
+2024-02-13,Delhi,North Indian,98,47236,29,0,Clear
+2024-02-13,Delhi,South Indian,93,31806,29,0,Clear
+2024-02-13,Delhi,Chinese,57,18468,29,0,Clear
+2024-02-13,Delhi,Fast Food,71,25063,29,0,Clear
+2024-02-13,Delhi,Biryani,63,18081,29,0,Clear
+2024-02-14,Indore,North Indian,115,27140,24,34,Rainy
+2024-02-14,Indore,South Indian,136,67184,24,34,Rainy
+2024-02-14,Indore,Chinese,99,22671,24,34,Rainy
+2024-02-14,Indore,Fast Food,136,29376,24,34,Rainy
+2024-02-14,Indore,Biryani,76,28348,24,34,Rainy
+2024-02-14,Bhopal,North Indian,70,18830,28,0,Cloudy
+2024-02-14,Bhopal,South Indian,58,17168,28,0,Cloudy
+2024-02-14,Bhopal,Chinese,58,16530,28,0,Cloudy
+2024-02-14,Bhopal,Fast Food,78,22230,28,0,Cloudy
+2024-02-14,Bhopal,Biryani,83,33449,28,0,Cloudy
+2024-02-14,Bangalore,North Indian,57,25251,30,0,Cloudy
+2024-02-14,Bangalore,South Indian,50,18950,30,0,Cloudy
+2024-02-14,Bangalore,Chinese,53,11183,30,0,Cloudy
+2024-02-14,Bangalore,Fast Food,99,38709,30,0,Cloudy
+2024-02-14,Bangalore,Biryani,79,31837,30,0,Cloudy
+2024-02-14,Delhi,North Indian,49,20041,36,0,Hot
+2024-02-14,Delhi,South Indian,49,10927,36,0,Hot
+2024-02-14,Delhi,Chinese,76,16948,36,0,Hot
+2024-02-14,Delhi,Fast Food,51,14178,36,0,Hot
+2024-02-14,Delhi,Biryani,76,23636,36,0,Hot
+2024-02-15,Indore,North Indian,91,29666,27,0,Clear
+2024-02-15,Indore,South Indian,55,22220,27,0,Clear
+2024-02-15,Indore,Chinese,65,23205,27,0,Clear
+2024-02-15,Indore,Fast Food,69,18492,27,0,Clear
+2024-02-15,Indore,Biryani,62,25296,27,0,Clear
+2024-02-15,Bhopal,North Indian,95,21850,26,0,Clear
+2024-02-15,Bhopal,South Indian,85,19040,26,0,Clear
+2024-02-15,Bhopal,Chinese,76,20824,26,0,Clear
+2024-02-15,Bhopal,Fast Food,88,39072,26,0,Clear
+2024-02-15,Bhopal,Biryani,83,39508,26,0,Clear
+2024-02-15,Bangalore,North Indian,97,35114,25,0,Clear
+2024-02-15,Bangalore,South Indian,56,19432,25,0,Clear
+2024-02-15,Bangalore,Chinese,62,19344,25,0,Clear
+2024-02-15,Bangalore,Fast Food,90,41670,25,0,Clear
+2024-02-15,Bangalore,Biryani,89,22873,25,0,Clear
+2024-02-15,Delhi,North Indian,89,41474,31,0,Clear
+2024-02-15,Delhi,South Indian,65,28145,31,0,Clear
+2024-02-15,Delhi,Chinese,92,28612,31,0,Clear
+2024-02-15,Delhi,Fast Food,94,21620,31,0,Clear
+2024-02-15,Delhi,Biryani,76,25536,31,0,Clear
+2024-02-16,Indore,North Indian,80,37600,28,0,Clear
+2024-02-16,Indore,South Indian,83,35358,28,0,Clear
+2024-02-16,Indore,Chinese,92,31464,28,0,Clear
+2024-02-16,Indore,Fast Food,74,30562,28,0,Clear
+2024-02-16,Indore,Biryani,83,27556,28,0,Clear
+2024-02-16,Bhopal,North Indian,76,21584,41,0,Hot
+2024-02-16,Bhopal,South Indian,49,18571,41,0,Hot
+2024-02-16,Bhopal,Chinese,71,20590,41,0,Hot
+2024-02-16,Bhopal,Fast Food,44,10076,41,0,Hot
+2024-02-16,Bhopal,Biryani,51,15147,41,0,Hot
+2024-02-16,Bangalore,North Indian,111,44178,20,46,Rainy
+2024-02-16,Bangalore,South Indian,84,41328,20,46,Rainy
+2024-02-16,Bangalore,Chinese,87,33756,20,46,Rainy
+2024-02-16,Bangalore,Fast Food,142,70006,20,46,Rainy
+2024-02-16,Bangalore,Biryani,81,38961,20,46,Rainy
+2024-02-16,Delhi,North Indian,50,16300,29,0,Clear
+2024-02-16,Delhi,South Indian,78,29016,29,0,Clear
+2024-02-16,Delhi,Chinese,70,15540,29,0,Clear
+2024-02-16,Delhi,Fast Food,51,15300,29,0,Clear
+2024-02-16,Delhi,Biryani,73,26061,29,0,Clear
+2024-02-17,Indore,North Indian,124,42036,21,28,Rainy
+2024-02-17,Indore,South Indian,100,33600,21,28,Rainy
+2024-02-17,Indore,Chinese,117,41184,21,28,Rainy
+2024-02-17,Indore,Fast Food,178,55180,21,28,Rainy
+2024-02-17,Indore,Biryani,81,17658,21,28,Rainy
+2024-02-17,Bhopal,North Indian,86,26230,29,0,Cloudy
+2024-02-17,Bhopal,South Indian,94,21714,29,0,Cloudy
+2024-02-17,Bhopal,Chinese,55,25465,29,0,Cloudy
+2024-02-17,Bhopal,Fast Food,81,39609,29,0,Cloudy
+2024-02-17,Bhopal,Biryani,55,18480,29,0,Cloudy
+2024-02-17,Bangalore,North Indian,80,16960,27,0,Clear
+2024-02-17,Bangalore,South Indian,50,20000,27,0,Clear
+2024-02-17,Bangalore,Chinese,62,16802,27,0,Clear
+2024-02-17,Bangalore,Fast Food,92,33488,27,0,Clear
+2024-02-17,Bangalore,Biryani,65,18005,27,0,Clear
+2024-02-17,Delhi,North Indian,72,16632,30,0,Cloudy
+2024-02-17,Delhi,South Indian,86,21242,30,0,Cloudy
+2024-02-17,Delhi,Chinese,90,25830,30,0,Cloudy
+2024-02-17,Delhi,Fast Food,57,14820,30,0,Cloudy
+2024-02-17,Delhi,Biryani,80,38000,30,0,Cloudy
+2024-02-18,Indore,North Indian,59,21948,36,0,Hot
+2024-02-18,Indore,South Indian,45,12735,36,0,Hot
+2024-02-18,Indore,Chinese,63,27342,36,0,Hot
+2024-02-18,Indore,Fast Food,63,24885,36,0,Hot
+2024-02-18,Indore,Biryani,49,19404,36,0,Hot
+2024-02-18,Bhopal,North Indian,89,33197,31,0,Clear
+2024-02-18,Bhopal,South Indian,57,28329,31,0,Clear
+2024-02-18,Bhopal,Chinese,88,37752,31,0,Clear
+2024-02-18,Bhopal,Fast Food,89,42631,31,0,Clear
+2024-02-18,Bhopal,Biryani,62,27280,31,0,Clear
+2024-02-18,Bangalore,North Indian,70,27020,29,0,Cloudy
+2024-02-18,Bangalore,South Indian,91,22477,29,0,Cloudy
+2024-02-18,Bangalore,Chinese,69,29463,29,0,Cloudy
+2024-02-18,Bangalore,Fast Food,50,10250,29,0,Cloudy
+2024-02-18,Bangalore,Biryani,98,37436,29,0,Cloudy
+2024-02-18,Delhi,North Indian,92,22080,30,0,Clear
+2024-02-18,Delhi,South Indian,95,31825,30,0,Clear
+2024-02-18,Delhi,Chinese,64,18368,30,0,Clear
+2024-02-18,Delhi,Fast Food,93,29853,30,0,Clear
+2024-02-18,Delhi,Biryani,76,17936,30,0,Clear
+2024-02-19,Indore,North Indian,54,18576,26,0,Clear
+2024-02-19,Indore,South Indian,94,29516,26,0,Clear
+2024-02-19,Indore,Chinese,96,35712,26,0,Clear
+2024-02-19,Indore,Fast Food,97,28130,26,0,Clear
+2024-02-19,Indore,Biryani,70,22400,26,0,Clear
+2024-02-19,Bhopal,North Indian,82,34522,28,0,Clear
+2024-02-19,Bhopal,South Indian,71,15052,28,0,Clear
+2024-02-19,Bhopal,Chinese,71,24708,28,0,Clear
+2024-02-19,Bhopal,Fast Food,97,43068,28,0,Clear
+2024-02-19,Bhopal,Biryani,59,27258,28,0,Clear
+2024-02-19,Bangalore,North Indian,59,25252,30,0,Cloudy
+2024-02-19,Bangalore,South Indian,93,21111,30,0,Cloudy
+2024-02-19,Bangalore,Chinese,90,29610,30,0,Cloudy
+2024-02-19,Bangalore,Fast Food,92,35788,30,0,Cloudy
+2024-02-19,Bangalore,Biryani,61,14457,30,0,Cloudy
+2024-02-19,Delhi,North Indian,64,18304,28,0,Clear
+2024-02-19,Delhi,South Indian,87,40629,28,0,Clear
+2024-02-19,Delhi,Chinese,99,36828,28,0,Clear
+2024-02-19,Delhi,Fast Food,72,22680,28,0,Clear
+2024-02-19,Delhi,Biryani,74,31228,28,0,Clear
+2024-02-20,Indore,North Indian,51,16881,29,0,Cloudy
+2024-02-20,Indore,South Indian,62,16430,29,0,Cloudy
+2024-02-20,Indore,Chinese,52,22360,29,0,Cloudy
+2024-02-20,Indore,Fast Food,57,23655,29,0,Cloudy
+2024-02-20,Indore,Biryani,83,27805,29,0,Cloudy
+2024-02-20,Bhopal,North Indian,93,34038,30,0,Clear
+2024-02-20,Bhopal,South Indian,57,15789,30,0,Clear
+2024-02-20,Bhopal,Chinese,72,32472,30,0,Clear
+2024-02-20,Bhopal,Fast Food,51,10353,30,0,Clear
+2024-02-20,Bhopal,Biryani,53,15582,30,0,Clear
+2024-02-20,Bangalore,North Indian,176,76384,24,23,Rainy
+2024-02-20,Bangalore,South Indian,84,21252,24,23,Rainy
+2024-02-20,Bangalore,Chinese,99,32373,24,23,Rainy
+2024-02-20,Bangalore,Fast Food,131,58819,24,23,Rainy
+2024-02-20,Bangalore,Biryani,139,63384,24,23,Rainy
+2024-02-20,Delhi,North Indian,75,31125,27,0,Clear
+2024-02-20,Delhi,South Indian,70,25270,27,0,Clear
+2024-02-20,Delhi,Chinese,54,19278,27,0,Clear
+2024-02-20,Delhi,Fast Food,88,22880,27,0,Clear
+2024-02-20,Delhi,Biryani,51,24582,27,0,Clear
+2024-02-21,Indore,North Indian,52,13312,30,0,Clear
+2024-02-21,Indore,South Indian,64,20864,30,0,Clear
+2024-02-21,Indore,Chinese,91,18928,30,0,Clear
+2024-02-21,Indore,Fast Food,65,29315,30,0,Clear
+2024-02-21,Indore,Biryani,62,18972,30,0,Clear
+2024-02-21,Bhopal,North Indian,72,24624,28,0,Clear
+2024-02-21,Bhopal,South Indian,59,25311,28,0,Clear
+2024-02-21,Bhopal,Chinese,94,33652,28,0,Clear
+2024-02-21,Bhopal,Fast Food,91,38584,28,0,Clear
+2024-02-21,Bhopal,Biryani,60,19380,28,0,Clear
+2024-02-21,Bangalore,North Indian,113,33222,24,34,Rainy
+2024-02-21,Bangalore,South Indian,82,40426,24,34,Rainy
+2024-02-21,Bangalore,Chinese,136,28016,24,34,Rainy
+2024-02-21,Bangalore,Fast Food,129,30960,24,34,Rainy
+2024-02-21,Bangalore,Biryani,112,35056,24,34,Rainy
+2024-02-21,Delhi,North Indian,60,18720,29,0,Cloudy
+2024-02-21,Delhi,South Indian,69,14766,29,0,Cloudy
+2024-02-21,Delhi,Chinese,98,38808,29,0,Cloudy
+2024-02-21,Delhi,Fast Food,58,19024,29,0,Cloudy
+2024-02-21,Delhi,Biryani,92,37812,29,0,Cloudy
+2024-02-22,Indore,North Indian,93,21297,20,29,Rainy
+2024-02-22,Indore,South Indian,132,60720,20,29,Rainy
+2024-02-22,Indore,Chinese,81,18792,20,29,Rainy
+2024-02-22,Indore,Fast Food,95,34295,20,29,Rainy
+2024-02-22,Indore,Biryani,142,64042,20,29,Rainy
+2024-02-22,Bhopal,North Indian,56,27440,25,0,Clear
+2024-02-22,Bhopal,South Indian,59,21948,25,0,Clear
+2024-02-22,Bhopal,Chinese,54,23544,25,0,Clear
+2024-02-22,Bhopal,Fast Food,80,20880,25,0,Clear
+2024-02-22,Bhopal,Biryani,55,16555,25,0,Clear
+2024-02-22,Bangalore,North Indian,174,42804,22,17,Rainy
+2024-02-22,Bangalore,South Indian,133,35245,22,17,Rainy
+2024-02-22,Bangalore,Chinese,127,26797,22,17,Rainy
+2024-02-22,Bangalore,Fast Food,162,38070,22,17,Rainy
+2024-02-22,Bangalore,Biryani,96,31872,22,17,Rainy
+2024-02-22,Delhi,North Indian,149,64219,23,44,Rainy
+2024-02-22,Delhi,South Indian,93,19623,23,44,Rainy
+2024-02-22,Delhi,Chinese,117,44928,23,44,Rainy
+2024-02-22,Delhi,Fast Food,113,37516,23,44,Rainy
+2024-02-22,Delhi,Biryani,136,49504,23,44,Rainy
+2024-02-23,Indore,North Indian,56,27888,37,0,Hot
+2024-02-23,Indore,South Indian,43,16168,37,0,Hot
+2024-02-23,Indore,Chinese,72,23904,37,0,Hot
+2024-02-23,Indore,Fast Food,72,19656,37,0,Hot
+2024-02-23,Indore,Biryani,59,13688,37,0,Hot
+2024-02-23,Bhopal,North Indian,75,24375,30,0,Clear
+2024-02-23,Bhopal,South Indian,90,39150,30,0,Clear
+2024-02-23,Bhopal,Chinese,80,36880,30,0,Clear
+2024-02-23,Bhopal,Fast Food,66,29238,30,0,Clear
+2024-02-23,Bhopal,Biryani,74,25308,30,0,Clear
+2024-02-23,Bangalore,North Indian,79,18565,25,0,Clear
+2024-02-23,Bangalore,South Indian,50,16100,25,0,Clear
+2024-02-23,Bangalore,Chinese,63,12789,25,0,Clear
+2024-02-23,Bangalore,Fast Food,66,31878,25,0,Clear
+2024-02-23,Bangalore,Biryani,70,27300,25,0,Clear
+2024-02-23,Delhi,North Indian,96,33120,25,0,Clear
+2024-02-23,Delhi,South Indian,84,36624,25,0,Clear
+2024-02-23,Delhi,Chinese,97,22698,25,0,Clear
+2024-02-23,Delhi,Fast Food,99,30789,25,0,Clear
+2024-02-23,Delhi,Biryani,83,27888,25,0,Clear
+2024-02-24,Indore,North Indian,63,25704,28,0,Cloudy
+2024-02-24,Indore,South Indian,58,20068,28,0,Cloudy
+2024-02-24,Indore,Chinese,72,14832,28,0,Cloudy
+2024-02-24,Indore,Fast Food,74,35298,28,0,Cloudy
+2024-02-24,Indore,Biryani,68,23460,28,0,Cloudy
+2024-02-24,Bhopal,North Indian,63,24948,25,0,Cloudy
+2024-02-24,Bhopal,South Indian,84,24864,25,0,Cloudy
+2024-02-24,Bhopal,Chinese,66,28908,25,0,Cloudy
+2024-02-24,Bhopal,Fast Food,55,12650,25,0,Cloudy
+2024-02-24,Bhopal,Biryani,84,37044,25,0,Cloudy
+2024-02-24,Bangalore,North Indian,96,37536,25,0,Clear
+2024-02-24,Bangalore,South Indian,50,21550,25,0,Clear
+2024-02-24,Bangalore,Chinese,65,14495,25,0,Clear
+2024-02-24,Bangalore,Fast Food,67,29815,25,0,Clear
+2024-02-24,Bangalore,Biryani,98,38514,25,0,Clear
+2024-02-24,Delhi,North Indian,60,18960,25,0,Cloudy
+2024-02-24,Delhi,South Indian,71,20235,25,0,Cloudy
+2024-02-24,Delhi,Chinese,90,20610,25,0,Cloudy
+2024-02-24,Delhi,Fast Food,63,26460,25,0,Cloudy
+2024-02-24,Delhi,Biryani,75,33525,25,0,Cloudy
+2024-02-25,Indore,North Indian,67,21105,35,0,Hot
+2024-02-25,Indore,South Indian,54,22572,35,0,Hot
+2024-02-25,Indore,Chinese,68,20400,35,0,Hot
+2024-02-25,Indore,Fast Food,76,21432,35,0,Hot
+2024-02-25,Indore,Biryani,55,16500,35,0,Hot
+2024-02-25,Bhopal,North Indian,93,45942,26,0,Clear
+2024-02-25,Bhopal,South Indian,87,31842,26,0,Clear
+2024-02-25,Bhopal,Chinese,51,24531,26,0,Clear
+2024-02-25,Bhopal,Fast Food,90,41040,26,0,Clear
+2024-02-25,Bhopal,Biryani,95,25270,26,0,Clear
+2024-02-25,Bangalore,North Indian,95,31920,29,0,Cloudy
+2024-02-25,Bangalore,South Indian,79,17222,29,0,Cloudy
+2024-02-25,Bangalore,Chinese,71,22081,29,0,Cloudy
+2024-02-25,Bangalore,Fast Food,86,30874,29,0,Cloudy
+2024-02-25,Bangalore,Biryani,53,21942,29,0,Cloudy
+2024-02-25,Delhi,North Indian,54,25758,27,0,Clear
+2024-02-25,Delhi,South Indian,58,27028,27,0,Clear
+2024-02-25,Delhi,Chinese,88,31768,27,0,Clear
+2024-02-25,Delhi,Fast Food,65,25220,27,0,Clear
+2024-02-25,Delhi,Biryani,66,21846,27,0,Clear
+2024-02-26,Indore,North Indian,82,19598,31,0,Cloudy
+2024-02-26,Indore,South Indian,88,41888,31,0,Cloudy
+2024-02-26,Indore,Chinese,99,40590,31,0,Cloudy
+2024-02-26,Indore,Fast Food,96,22368,31,0,Cloudy
+2024-02-26,Indore,Biryani,99,38709,31,0,Cloudy
+2024-02-26,Bhopal,North Indian,176,51216,25,21,Rainy
+2024-02-26,Bhopal,South Indian,118,50976,25,21,Rainy
+2024-02-26,Bhopal,Chinese,100,35100,25,21,Rainy
+2024-02-26,Bhopal,Fast Food,91,18564,25,21,Rainy
+2024-02-26,Bhopal,Biryani,132,63096,25,21,Rainy
+2024-02-26,Bangalore,North Indian,50,16200,31,0,Clear
+2024-02-26,Bangalore,South Indian,60,17100,31,0,Clear
+2024-02-26,Bangalore,Chinese,57,11628,31,0,Clear
+2024-02-26,Bangalore,Fast Food,56,14952,31,0,Clear
+2024-02-26,Bangalore,Biryani,68,23120,31,0,Clear
+2024-02-26,Delhi,North Indian,54,14742,29,0,Clear
+2024-02-26,Delhi,South Indian,73,24382,29,0,Clear
+2024-02-26,Delhi,Chinese,70,23590,29,0,Clear
+2024-02-26,Delhi,Fast Food,89,37024,29,0,Clear
+2024-02-26,Delhi,Biryani,81,29970,29,0,Clear
+2024-02-27,Indore,North Indian,61,29829,30,0,Clear
+2024-02-27,Indore,South Indian,91,23933,30,0,Clear
+2024-02-27,Indore,Chinese,88,25872,30,0,Clear
+2024-02-27,Indore,Fast Food,85,28220,30,0,Clear
+2024-02-27,Indore,Biryani,92,33948,30,0,Clear
+2024-02-27,Bhopal,North Indian,59,22774,30,0,Clear
+2024-02-27,Bhopal,South Indian,58,28594,30,0,Clear
+2024-02-27,Bhopal,Chinese,68,25228,30,0,Clear
+2024-02-27,Bhopal,Fast Food,64,21312,30,0,Clear
+2024-02-27,Bhopal,Biryani,88,24728,30,0,Clear
+2024-02-27,Bangalore,North Indian,61,21106,26,0,Clear
+2024-02-27,Bangalore,South Indian,54,15120,26,0,Clear
+2024-02-27,Bangalore,Chinese,89,25009,26,0,Clear
+2024-02-27,Bangalore,Fast Food,81,36774,26,0,Clear
+2024-02-27,Bangalore,Biryani,62,30504,26,0,Clear
+2024-02-27,Delhi,North Indian,93,42687,27,0,Clear
+2024-02-27,Delhi,South Indian,73,32996,27,0,Clear
+2024-02-27,Delhi,Chinese,64,30784,27,0,Clear
+2024-02-27,Delhi,Fast Food,93,20460,27,0,Clear
+2024-02-27,Delhi,Biryani,86,21500,27,0,Clear
+2024-02-28,Indore,North Indian,45,22455,37,0,Hot
+2024-02-28,Indore,South Indian,40,9040,37,0,Hot
+2024-02-28,Indore,Chinese,46,19780,37,0,Hot
+2024-02-28,Indore,Fast Food,72,31248,37,0,Hot
+2024-02-28,Indore,Biryani,52,23504,37,0,Hot
+2024-02-28,Bhopal,North Indian,77,18480,28,0,Cloudy
+2024-02-28,Bhopal,South Indian,84,21504,28,0,Cloudy
+2024-02-28,Bhopal,Chinese,66,24486,28,0,Cloudy
+2024-02-28,Bhopal,Fast Food,59,13216,28,0,Cloudy
+2024-02-28,Bhopal,Biryani,81,37017,28,0,Cloudy
+2024-02-28,Bangalore,North Indian,74,18130,29,0,Clear
+2024-02-28,Bangalore,South Indian,89,33998,29,0,Clear
+2024-02-28,Bangalore,Chinese,94,30362,29,0,Clear
+2024-02-28,Bangalore,Fast Food,51,17442,29,0,Clear
+2024-02-28,Bangalore,Biryani,82,21320,29,0,Clear
+2024-02-28,Delhi,North Indian,68,18224,27,0,Clear
+2024-02-28,Delhi,South Indian,53,13621,27,0,Clear
+2024-02-28,Delhi,Chinese,53,18232,27,0,Clear
+2024-02-28,Delhi,Fast Food,75,28275,27,0,Clear
+2024-02-28,Delhi,Biryani,90,36180,27,0,Clear
+2024-02-29,Indore,North Indian,97,20273,21,11,Rainy
+2024-02-29,Indore,South Indian,112,43344,21,11,Rainy
+2024-02-29,Indore,Chinese,106,51516,21,11,Rainy
+2024-02-29,Indore,Fast Food,147,42189,21,11,Rainy
+2024-02-29,Indore,Biryani,94,25662,21,11,Rainy
+2024-02-29,Bhopal,North Indian,169,61347,22,48,Rainy
+2024-02-29,Bhopal,South Indian,99,19800,22,48,Rainy
+2024-02-29,Bhopal,Chinese,79,26702,22,48,Rainy
+2024-02-29,Bhopal,Fast Food,120,50880,22,48,Rainy
+2024-02-29,Bhopal,Biryani,141,47376,22,48,Rainy
+2024-02-29,Bangalore,North Indian,106,45686,20,33,Rainy
+2024-02-29,Bangalore,South Indian,129,58824,20,33,Rainy
+2024-02-29,Bangalore,Chinese,148,62456,20,33,Rainy
+2024-02-29,Bangalore,Fast Food,135,55215,20,33,Rainy
+2024-02-29,Bangalore,Biryani,85,34935,20,33,Rainy
+2024-02-29,Delhi,North Indian,52,17888,26,0,Clear
+2024-02-29,Delhi,South Indian,80,28320,26,0,Clear
+2024-02-29,Delhi,Chinese,96,36480,26,0,Clear
+2024-02-29,Delhi,Fast Food,67,23316,26,0,Clear
+2024-02-29,Delhi,Biryani,86,38442,26,0,Clear
+2024-03-01,Indore,North Indian,80,23760,31,0,Clear
+2024-03-01,Indore,South Indian,93,21204,31,0,Clear
+2024-03-01,Indore,Chinese,77,37114,31,0,Clear
+2024-03-01,Indore,Fast Food,63,20412,31,0,Clear
+2024-03-01,Indore,Biryani,76,24472,31,0,Clear
+2024-03-01,Bhopal,North Indian,87,31755,25,0,Cloudy
+2024-03-01,Bhopal,South Indian,72,22752,25,0,Cloudy
+2024-03-01,Bhopal,Chinese,75,18450,25,0,Cloudy
+2024-03-01,Bhopal,Fast Food,52,23036,25,0,Cloudy
+2024-03-01,Bhopal,Biryani,54,18846,25,0,Cloudy
+2024-03-01,Bangalore,North Indian,57,12654,30,0,Cloudy
+2024-03-01,Bangalore,South Indian,54,25488,30,0,Cloudy
+2024-03-01,Bangalore,Chinese,73,15622,30,0,Cloudy
+2024-03-01,Bangalore,Fast Food,99,45342,30,0,Cloudy
+2024-03-01,Bangalore,Biryani,83,38097,30,0,Cloudy
+2024-03-01,Delhi,North Indian,85,27540,27,0,Cloudy
+2024-03-01,Delhi,South Indian,97,30846,27,0,Cloudy
+2024-03-01,Delhi,Chinese,57,21090,27,0,Cloudy
+2024-03-01,Delhi,Fast Food,98,31164,27,0,Cloudy
+2024-03-01,Delhi,Biryani,69,20010,27,0,Cloudy
+2024-03-02,Indore,North Indian,63,12852,28,0,Cloudy
+2024-03-02,Indore,South Indian,84,17472,28,0,Cloudy
+2024-03-02,Indore,Chinese,97,21922,28,0,Cloudy
+2024-03-02,Indore,Fast Food,79,25991,28,0,Cloudy
+2024-03-02,Indore,Biryani,79,36024,28,0,Cloudy
+2024-03-02,Bhopal,North Indian,78,25428,27,0,Clear
+2024-03-02,Bhopal,South Indian,81,31671,27,0,Clear
+2024-03-02,Bhopal,Chinese,55,21560,27,0,Clear
+2024-03-02,Bhopal,Fast Food,99,36630,27,0,Clear
+2024-03-02,Bhopal,Biryani,53,20246,27,0,Clear
+2024-03-02,Bangalore,North Indian,80,34880,31,0,Clear
+2024-03-02,Bangalore,South Indian,90,43470,31,0,Clear
+2024-03-02,Bangalore,Chinese,78,16692,31,0,Clear
+2024-03-02,Bangalore,Fast Food,75,26550,31,0,Clear
+2024-03-02,Bangalore,Biryani,73,23506,31,0,Clear
+2024-03-02,Delhi,North Indian,90,23940,30,0,Cloudy
+2024-03-02,Delhi,South Indian,62,15376,30,0,Cloudy
+2024-03-02,Delhi,Chinese,85,25585,30,0,Cloudy
+2024-03-02,Delhi,Fast Food,71,26483,30,0,Cloudy
+2024-03-02,Delhi,Biryani,98,46844,30,0,Cloudy
+2024-03-03,Indore,North Indian,64,20288,30,0,Clear
+2024-03-03,Indore,South Indian,80,38480,30,0,Clear
+2024-03-03,Indore,Chinese,64,20672,30,0,Clear
+2024-03-03,Indore,Fast Food,51,16371,30,0,Clear
+2024-03-03,Indore,Biryani,85,22780,30,0,Clear
+2024-03-03,Bhopal,North Indian,117,41301,25,21,Rainy
+2024-03-03,Bhopal,South Indian,141,67680,25,21,Rainy
+2024-03-03,Bhopal,Chinese,93,37758,25,21,Rainy
+2024-03-03,Bhopal,Fast Food,126,36666,25,21,Rainy
+2024-03-03,Bhopal,Biryani,127,63119,25,21,Rainy
+2024-03-03,Bangalore,North Indian,98,22344,25,0,Clear
+2024-03-03,Bangalore,South Indian,75,21900,25,0,Clear
+2024-03-03,Bangalore,Chinese,90,30330,25,0,Clear
+2024-03-03,Bangalore,Fast Food,60,29760,25,0,Clear
+2024-03-03,Bangalore,Biryani,60,13920,25,0,Clear
+2024-03-03,Delhi,North Indian,95,28500,28,0,Clear
+2024-03-03,Delhi,South Indian,98,35574,28,0,Clear
+2024-03-03,Delhi,Chinese,58,13572,28,0,Clear
+2024-03-03,Delhi,Fast Food,84,24024,28,0,Clear
+2024-03-03,Delhi,Biryani,98,45668,28,0,Clear
+2024-03-04,Indore,North Indian,82,34440,29,0,Clear
+2024-03-04,Indore,South Indian,61,17324,29,0,Clear
+2024-03-04,Indore,Chinese,96,43872,29,0,Clear
+2024-03-04,Indore,Fast Food,64,14848,29,0,Clear
+2024-03-04,Indore,Biryani,89,31150,29,0,Clear
+2024-03-04,Bhopal,North Indian,57,13167,27,0,Clear
+2024-03-04,Bhopal,South Indian,70,29260,27,0,Clear
+2024-03-04,Bhopal,Chinese,71,18531,27,0,Clear
+2024-03-04,Bhopal,Fast Food,55,20460,27,0,Clear
+2024-03-04,Bhopal,Biryani,55,22605,27,0,Clear
+2024-03-04,Bangalore,North Indian,68,33728,40,0,Hot
+2024-03-04,Bangalore,South Indian,60,14400,40,0,Hot
+2024-03-04,Bangalore,Chinese,75,20625,40,0,Hot
+2024-03-04,Bangalore,Fast Food,54,22950,40,0,Hot
+2024-03-04,Bangalore,Biryani,66,20526,40,0,Hot
+2024-03-04,Delhi,North Indian,95,38855,29,0,Clear
+2024-03-04,Delhi,South Indian,85,17170,29,0,Clear
+2024-03-04,Delhi,Chinese,50,14600,29,0,Clear
+2024-03-04,Delhi,Fast Food,86,34830,29,0,Clear
+2024-03-04,Delhi,Biryani,98,21756,29,0,Clear
+2024-03-05,Indore,North Indian,135,29430,22,35,Rainy
+2024-03-05,Indore,South Indian,81,26892,22,35,Rainy
+2024-03-05,Indore,Chinese,88,43472,22,35,Rainy
+2024-03-05,Indore,Fast Food,127,60960,22,35,Rainy
+2024-03-05,Indore,Biryani,130,33540,22,35,Rainy
+2024-03-05,Bhopal,North Indian,57,16530,35,0,Hot
+2024-03-05,Bhopal,South Indian,68,25092,35,0,Hot
+2024-03-05,Bhopal,Chinese,67,30552,35,0,Hot
+2024-03-05,Bhopal,Fast Food,69,28566,35,0,Hot
+2024-03-05,Bhopal,Biryani,72,32472,35,0,Hot
+2024-03-05,Bangalore,North Indian,52,11388,38,0,Hot
+2024-03-05,Bangalore,South Indian,61,20252,38,0,Hot
+2024-03-05,Bangalore,Chinese,76,32072,38,0,Hot
+2024-03-05,Bangalore,Fast Food,60,15000,38,0,Hot
+2024-03-05,Bangalore,Biryani,66,28908,38,0,Hot
+2024-03-05,Delhi,North Indian,87,39672,30,0,Clear
+2024-03-05,Delhi,South Indian,98,34496,30,0,Clear
+2024-03-05,Delhi,Chinese,85,39780,30,0,Clear
+2024-03-05,Delhi,Fast Food,57,18753,30,0,Clear
+2024-03-05,Delhi,Biryani,84,17220,30,0,Clear
+2024-03-06,Indore,North Indian,81,21465,25,0,Clear
+2024-03-06,Indore,South Indian,58,25694,25,0,Clear
+2024-03-06,Indore,Chinese,71,19383,25,0,Clear
+2024-03-06,Indore,Fast Food,79,23305,25,0,Clear
+2024-03-06,Indore,Biryani,88,27632,25,0,Clear
+2024-03-06,Bhopal,North Indian,117,56511,25,21,Rainy
+2024-03-06,Bhopal,South Indian,90,38070,25,21,Rainy
+2024-03-06,Bhopal,Chinese,127,27686,25,21,Rainy
+2024-03-06,Bhopal,Fast Food,95,39235,25,21,Rainy
+2024-03-06,Bhopal,Biryani,114,27588,25,21,Rainy
+2024-03-06,Bangalore,North Indian,60,19740,26,0,Clear
+2024-03-06,Bangalore,South Indian,52,17732,26,0,Clear
+2024-03-06,Bangalore,Chinese,59,12154,26,0,Clear
+2024-03-06,Bangalore,Fast Food,59,12331,26,0,Clear
+2024-03-06,Bangalore,Biryani,63,15876,26,0,Clear
+2024-03-06,Delhi,North Indian,96,40704,25,0,Clear
+2024-03-06,Delhi,South Indian,84,29820,25,0,Clear
+2024-03-06,Delhi,Chinese,76,33364,25,0,Clear
+2024-03-06,Delhi,Fast Food,68,27540,25,0,Clear
+2024-03-06,Delhi,Biryani,71,28968,25,0,Clear
+2024-03-07,Indore,North Indian,138,42642,25,32,Rainy
+2024-03-07,Indore,South Indian,82,32062,25,32,Rainy
+2024-03-07,Indore,Chinese,100,39000,25,32,Rainy
+2024-03-07,Indore,Fast Food,115,28060,25,32,Rainy
+2024-03-07,Indore,Biryani,91,25025,25,32,Rainy
+2024-03-07,Bhopal,North Indian,160,51680,24,27,Rainy
+2024-03-07,Bhopal,South Indian,117,30420,24,27,Rainy
+2024-03-07,Bhopal,Chinese,132,56496,24,27,Rainy
+2024-03-07,Bhopal,Fast Food,176,80960,24,27,Rainy
+2024-03-07,Bhopal,Biryani,124,30876,24,27,Rainy
+2024-03-07,Bangalore,North Indian,136,33592,22,41,Rainy
+2024-03-07,Bangalore,South Indian,117,48555,22,41,Rainy
+2024-03-07,Bangalore,Chinese,81,33777,22,41,Rainy
+2024-03-07,Bangalore,Fast Food,135,43200,22,41,Rainy
+2024-03-07,Bangalore,Biryani,138,52992,22,41,Rainy
+2024-03-07,Delhi,North Indian,124,35836,20,45,Rainy
+2024-03-07,Delhi,South Indian,79,39105,20,45,Rainy
+2024-03-07,Delhi,Chinese,139,47955,20,45,Rainy
+2024-03-07,Delhi,Fast Food,122,43920,20,45,Rainy
+2024-03-07,Delhi,Biryani,127,58039,20,45,Rainy
+2024-03-08,Indore,North Indian,75,17775,26,0,Clear
+2024-03-08,Indore,South Indian,70,32130,26,0,Clear
+2024-03-08,Indore,Chinese,52,17992,26,0,Clear
+2024-03-08,Indore,Fast Food,59,15576,26,0,Clear
+2024-03-08,Indore,Biryani,92,41216,26,0,Clear
+2024-03-08,Bhopal,North Indian,78,25428,29,0,Cloudy
+2024-03-08,Bhopal,South Indian,69,20907,29,0,Cloudy
+2024-03-08,Bhopal,Chinese,92,22264,29,0,Cloudy
+2024-03-08,Bhopal,Fast Food,85,17000,29,0,Cloudy
+2024-03-08,Bhopal,Biryani,97,42680,29,0,Cloudy
+2024-03-08,Bangalore,North Indian,87,38541,25,0,Clear
+2024-03-08,Bangalore,South Indian,87,18531,25,0,Clear
+2024-03-08,Bangalore,Chinese,76,33820,25,0,Clear
+2024-03-08,Bangalore,Fast Food,86,38098,25,0,Clear
+2024-03-08,Bangalore,Biryani,90,19170,25,0,Clear
+2024-03-08,Delhi,North Indian,102,28050,25,21,Rainy
+2024-03-08,Delhi,South Indian,114,31008,25,21,Rainy
+2024-03-08,Delhi,Chinese,99,42471,25,21,Rainy
+2024-03-08,Delhi,Fast Food,145,37845,25,21,Rainy
+2024-03-08,Delhi,Biryani,126,52542,25,21,Rainy
+2024-03-09,Indore,North Indian,86,29240,25,0,Clear
+2024-03-09,Indore,South Indian,87,22881,25,0,Clear
+2024-03-09,Indore,Chinese,85,28050,25,0,Clear
+2024-03-09,Indore,Fast Food,58,22156,25,0,Clear
+2024-03-09,Indore,Biryani,86,32078,25,0,Clear
+2024-03-09,Bhopal,North Indian,81,36288,25,0,Cloudy
+2024-03-09,Bhopal,South Indian,75,36225,25,0,Cloudy
+2024-03-09,Bhopal,Chinese,58,21518,25,0,Cloudy
+2024-03-09,Bhopal,Fast Food,98,31556,25,0,Cloudy
+2024-03-09,Bhopal,Biryani,65,27105,25,0,Cloudy
+2024-03-09,Bangalore,North Indian,76,32756,38,0,Hot
+2024-03-09,Bangalore,South Indian,40,10120,38,0,Hot
+2024-03-09,Bangalore,Chinese,78,29484,38,0,Hot
+2024-03-09,Bangalore,Fast Food,79,22041,38,0,Hot
+2024-03-09,Bangalore,Biryani,51,15453,38,0,Hot
+2024-03-09,Delhi,North Indian,99,21681,26,0,Clear
+2024-03-09,Delhi,South Indian,92,45540,26,0,Clear
+2024-03-09,Delhi,Chinese,88,18216,26,0,Clear
+2024-03-09,Delhi,Fast Food,61,14945,26,0,Clear
+2024-03-09,Delhi,Biryani,56,24864,26,0,Clear
+2024-03-10,Indore,North Indian,43,9030,35,0,Hot
+2024-03-10,Indore,South Indian,59,17169,35,0,Hot
+2024-03-10,Indore,Chinese,42,16884,35,0,Hot
+2024-03-10,Indore,Fast Food,52,20228,35,0,Hot
+2024-03-10,Indore,Biryani,55,24915,35,0,Hot
+2024-03-10,Bhopal,North Indian,174,63510,22,42,Rainy
+2024-03-10,Bhopal,South Indian,121,38841,22,42,Rainy
+2024-03-10,Bhopal,Chinese,115,33695,22,42,Rainy
+2024-03-10,Bhopal,Fast Food,158,48822,22,42,Rainy
+2024-03-10,Bhopal,Biryani,109,27795,22,42,Rainy
+2024-03-10,Bangalore,North Indian,93,44454,31,0,Clear
+2024-03-10,Bangalore,South Indian,57,19722,31,0,Clear
+2024-03-10,Bangalore,Chinese,76,26904,31,0,Clear
+2024-03-10,Bangalore,Fast Food,91,22022,31,0,Clear
+2024-03-10,Bangalore,Biryani,56,12544,31,0,Clear
+2024-03-10,Delhi,North Indian,95,20805,25,0,Cloudy
+2024-03-10,Delhi,South Indian,78,19734,25,0,Cloudy
+2024-03-10,Delhi,Chinese,76,34884,25,0,Cloudy
+2024-03-10,Delhi,Fast Food,56,12712,25,0,Cloudy
+2024-03-10,Delhi,Biryani,84,38640,25,0,Cloudy
+2024-03-11,Indore,North Indian,61,17568,26,0,Cloudy
+2024-03-11,Indore,South Indian,62,29574,26,0,Cloudy
+2024-03-11,Indore,Chinese,74,26640,26,0,Cloudy
+2024-03-11,Indore,Fast Food,81,19521,26,0,Cloudy
+2024-03-11,Indore,Biryani,53,22525,26,0,Cloudy
+2024-03-11,Bhopal,North Indian,81,21708,30,0,Cloudy
+2024-03-11,Bhopal,South Indian,90,22410,30,0,Cloudy
+2024-03-11,Bhopal,Chinese,86,37840,30,0,Cloudy
+2024-03-11,Bhopal,Fast Food,92,40664,30,0,Cloudy
+2024-03-11,Bhopal,Biryani,50,13500,30,0,Cloudy
+2024-03-11,Bangalore,North Indian,73,27229,40,0,Hot
+2024-03-11,Bangalore,South Indian,77,28413,40,0,Hot
+2024-03-11,Bangalore,Chinese,71,23217,40,0,Hot
+2024-03-11,Bangalore,Fast Food,49,19012,40,0,Hot
+2024-03-11,Bangalore,Biryani,48,20256,40,0,Hot
+2024-03-11,Delhi,North Indian,108,36288,22,32,Rainy
+2024-03-11,Delhi,South Indian,88,23936,22,32,Rainy
+2024-03-11,Delhi,Chinese,85,20485,22,32,Rainy
+2024-03-11,Delhi,Fast Food,165,41580,22,32,Rainy
+2024-03-11,Delhi,Biryani,132,43560,22,32,Rainy
+2024-03-12,Indore,North Indian,80,36400,29,0,Clear
+2024-03-12,Indore,South Indian,50,14400,29,0,Clear
+2024-03-12,Indore,Chinese,54,21924,29,0,Clear
+2024-03-12,Indore,Fast Food,55,23870,29,0,Clear
+2024-03-12,Indore,Biryani,65,26910,29,0,Clear
+2024-03-12,Bhopal,North Indian,69,24288,26,0,Clear
+2024-03-12,Bhopal,South Indian,82,23780,26,0,Clear
+2024-03-12,Bhopal,Chinese,97,29197,26,0,Clear
+2024-03-12,Bhopal,Fast Food,66,24684,26,0,Clear
+2024-03-12,Bhopal,Biryani,87,24621,26,0,Clear
+2024-03-12,Bangalore,North Indian,91,38584,31,0,Clear
+2024-03-12,Bangalore,South Indian,68,21352,31,0,Clear
+2024-03-12,Bangalore,Chinese,91,40950,31,0,Clear
+2024-03-12,Bangalore,Fast Food,58,12470,31,0,Clear
+2024-03-12,Bangalore,Biryani,85,24650,31,0,Clear
+2024-03-12,Delhi,North Indian,58,11774,27,0,Cloudy
+2024-03-12,Delhi,South Indian,56,21112,27,0,Cloudy
+2024-03-12,Delhi,Chinese,58,17574,27,0,Cloudy
+2024-03-12,Delhi,Fast Food,85,41905,27,0,Cloudy
+2024-03-12,Delhi,Biryani,88,20768,27,0,Cloudy
+2024-03-13,Indore,North Indian,40,18720,39,0,Hot
+2024-03-13,Indore,South Indian,60,19500,39,0,Hot
+2024-03-13,Indore,Chinese,46,19596,39,0,Hot
+2024-03-13,Indore,Fast Food,76,15808,39,0,Hot
+2024-03-13,Indore,Biryani,69,23322,39,0,Hot
+2024-03-13,Bhopal,North Indian,50,15200,29,0,Clear
+2024-03-13,Bhopal,South Indian,67,23383,29,0,Clear
+2024-03-13,Bhopal,Chinese,58,28826,29,0,Clear
+2024-03-13,Bhopal,Fast Food,54,18846,29,0,Clear
+2024-03-13,Bhopal,Biryani,57,17385,29,0,Clear
+2024-03-13,Bangalore,North Indian,51,23919,28,0,Clear
+2024-03-13,Bangalore,South Indian,56,24136,28,0,Clear
+2024-03-13,Bangalore,Chinese,50,24550,28,0,Clear
+2024-03-13,Bangalore,Fast Food,84,39564,28,0,Clear
+2024-03-13,Bangalore,Biryani,66,27654,28,0,Clear
+2024-03-13,Delhi,North Indian,72,21528,25,0,Clear
+2024-03-13,Delhi,South Indian,51,24021,25,0,Clear
+2024-03-13,Delhi,Chinese,68,21964,25,0,Clear
+2024-03-13,Delhi,Fast Food,91,42952,25,0,Clear
+2024-03-13,Delhi,Biryani,76,30932,25,0,Clear
+2024-03-14,Indore,North Indian,120,33480,20,25,Rainy
+2024-03-14,Indore,South Indian,84,36372,20,25,Rainy
+2024-03-14,Indore,Chinese,141,39057,20,25,Rainy
+2024-03-14,Indore,Fast Food,106,38054,20,25,Rainy
+2024-03-14,Indore,Biryani,97,40061,20,25,Rainy
+2024-03-14,Bhopal,North Indian,50,21800,28,0,Cloudy
+2024-03-14,Bhopal,South Indian,98,45080,28,0,Cloudy
+2024-03-14,Bhopal,Chinese,59,23541,28,0,Cloudy
+2024-03-14,Bhopal,Fast Food,59,15399,28,0,Cloudy
+2024-03-14,Bhopal,Biryani,91,36218,28,0,Cloudy
+2024-03-14,Bangalore,North Indian,98,43316,30,0,Clear
+2024-03-14,Bangalore,South Indian,86,41882,30,0,Clear
+2024-03-14,Bangalore,Chinese,53,20935,30,0,Clear
+2024-03-14,Bangalore,Fast Food,66,15840,30,0,Clear
+2024-03-14,Bangalore,Biryani,52,12116,30,0,Clear
+2024-03-14,Delhi,North Indian,54,22518,26,0,Clear
+2024-03-14,Delhi,South Indian,51,12036,26,0,Clear
+2024-03-14,Delhi,Chinese,82,33128,26,0,Clear
+2024-03-14,Delhi,Fast Food,87,22533,26,0,Clear
+2024-03-14,Delhi,Biryani,98,30576,26,0,Clear
+2024-03-15,Indore,North Indian,144,46512,22,42,Rainy
+2024-03-15,Indore,South Indian,145,61770,22,42,Rainy
+2024-03-15,Indore,Chinese,117,52884,22,42,Rainy
+2024-03-15,Indore,Fast Food,145,62785,22,42,Rainy
+2024-03-15,Indore,Biryani,84,37548,22,42,Rainy
+2024-03-15,Bhopal,North Indian,51,17340,37,0,Hot
+2024-03-15,Bhopal,South Indian,64,27776,37,0,Hot
+2024-03-15,Bhopal,Chinese,56,26320,37,0,Hot
+2024-03-15,Bhopal,Fast Food,64,28160,37,0,Hot
+2024-03-15,Bhopal,Biryani,60,21360,37,0,Hot
+2024-03-15,Bangalore,North Indian,81,39852,31,0,Cloudy
+2024-03-15,Bangalore,South Indian,55,24200,31,0,Cloudy
+2024-03-15,Bangalore,Chinese,53,24698,31,0,Cloudy
+2024-03-15,Bangalore,Fast Food,72,15336,31,0,Cloudy
+2024-03-15,Bangalore,Biryani,93,38595,31,0,Cloudy
+2024-03-15,Delhi,North Indian,65,25220,31,0,Clear
+2024-03-15,Delhi,South Indian,87,33147,31,0,Clear
+2024-03-15,Delhi,Chinese,64,16640,31,0,Clear
+2024-03-15,Delhi,Fast Food,69,20907,31,0,Clear
+2024-03-15,Delhi,Biryani,91,31941,31,0,Clear
+2024-03-16,Indore,North Indian,95,20140,27,0,Clear
+2024-03-16,Indore,South Indian,58,26390,27,0,Clear
+2024-03-16,Indore,Chinese,80,35840,27,0,Clear
+2024-03-16,Indore,Fast Food,52,17420,27,0,Clear
+2024-03-16,Indore,Biryani,87,39759,27,0,Clear
+2024-03-16,Bhopal,North Indian,129,62307,21,29,Rainy
+2024-03-16,Bhopal,South Indian,142,39760,21,29,Rainy
+2024-03-16,Bhopal,Chinese,105,39795,21,29,Rainy
+2024-03-16,Bhopal,Fast Food,120,25440,21,29,Rainy
+2024-03-16,Bhopal,Biryani,129,27348,21,29,Rainy
+2024-03-16,Bangalore,North Indian,81,27783,26,0,Clear
+2024-03-16,Bangalore,South Indian,52,25636,26,0,Clear
+2024-03-16,Bangalore,Chinese,71,33512,26,0,Clear
+2024-03-16,Bangalore,Fast Food,69,27186,26,0,Clear
+2024-03-16,Bangalore,Biryani,81,19116,26,0,Clear
+2024-03-16,Delhi,North Indian,97,42001,27,0,Clear
+2024-03-16,Delhi,South Indian,98,24794,27,0,Clear
+2024-03-16,Delhi,Chinese,98,23226,27,0,Clear
+2024-03-16,Delhi,Fast Food,58,16472,27,0,Clear
+2024-03-16,Delhi,Biryani,92,24104,27,0,Clear
+2024-03-17,Indore,North Indian,73,25404,25,0,Clear
+2024-03-17,Indore,South Indian,75,21450,25,0,Clear
+2024-03-17,Indore,Chinese,88,25960,25,0,Clear
+2024-03-17,Indore,Fast Food,67,17688,25,0,Clear
+2024-03-17,Indore,Biryani,77,20020,25,0,Clear
+2024-03-17,Bhopal,North Indian,120,30720,21,31,Rainy
+2024-03-17,Bhopal,South Indian,94,23970,21,31,Rainy
+2024-03-17,Bhopal,Chinese,82,40016,21,31,Rainy
+2024-03-17,Bhopal,Fast Food,160,64800,21,31,Rainy
+2024-03-17,Bhopal,Biryani,100,26900,21,31,Rainy
+2024-03-17,Bangalore,North Indian,90,32580,29,0,Clear
+2024-03-17,Bangalore,South Indian,86,38786,29,0,Clear
+2024-03-17,Bangalore,Chinese,86,22532,29,0,Clear
+2024-03-17,Bangalore,Fast Food,91,33943,29,0,Clear
+2024-03-17,Bangalore,Biryani,92,21804,29,0,Clear
+2024-03-17,Delhi,North Indian,61,17995,31,0,Clear
+2024-03-17,Delhi,South Indian,98,45668,31,0,Clear
+2024-03-17,Delhi,Chinese,87,32712,31,0,Clear
+2024-03-17,Delhi,Fast Food,97,37539,31,0,Clear
+2024-03-17,Delhi,Biryani,59,12449,31,0,Clear
+2024-03-18,Indore,North Indian,44,15972,41,0,Hot
+2024-03-18,Indore,South Indian,65,31915,41,0,Hot
+2024-03-18,Indore,Chinese,52,24804,41,0,Hot
+2024-03-18,Indore,Fast Food,72,30528,41,0,Hot
+2024-03-18,Indore,Biryani,77,28028,41,0,Hot
+2024-03-18,Bhopal,North Indian,140,53900,20,12,Rainy
+2024-03-18,Bhopal,South Indian,87,35757,20,12,Rainy
+2024-03-18,Bhopal,Chinese,94,41172,20,12,Rainy
+2024-03-18,Bhopal,Fast Food,142,35926,20,12,Rainy
+2024-03-18,Bhopal,Biryani,135,36450,20,12,Rainy
+2024-03-18,Bangalore,North Indian,80,30800,28,0,Clear
+2024-03-18,Bangalore,South Indian,86,33540,28,0,Clear
+2024-03-18,Bangalore,Chinese,63,19026,28,0,Clear
+2024-03-18,Bangalore,Fast Food,93,28179,28,0,Clear
+2024-03-18,Bangalore,Biryani,53,20193,28,0,Clear
+2024-03-18,Delhi,North Indian,52,21372,31,0,Cloudy
+2024-03-18,Delhi,South Indian,64,23808,31,0,Cloudy
+2024-03-18,Delhi,Chinese,58,12528,31,0,Cloudy
+2024-03-18,Delhi,Fast Food,51,17187,31,0,Cloudy
+2024-03-18,Delhi,Biryani,74,29526,31,0,Cloudy
+2024-03-19,Indore,North Indian,86,36722,27,0,Clear
+2024-03-19,Indore,South Indian,93,43803,27,0,Clear
+2024-03-19,Indore,Chinese,94,44650,27,0,Clear
+2024-03-19,Indore,Fast Food,71,29252,27,0,Clear
+2024-03-19,Indore,Biryani,56,12712,27,0,Clear
+2024-03-19,Bhopal,North Indian,65,20410,26,0,Clear
+2024-03-19,Bhopal,South Indian,64,19200,26,0,Clear
+2024-03-19,Bhopal,Chinese,54,12420,26,0,Clear
+2024-03-19,Bhopal,Fast Food,78,36738,26,0,Clear
+2024-03-19,Bhopal,Biryani,59,27966,26,0,Clear
+2024-03-19,Bangalore,North Indian,160,53120,22,29,Rainy
+2024-03-19,Bangalore,South Indian,145,33350,22,29,Rainy
+2024-03-19,Bangalore,Chinese,76,29108,22,29,Rainy
+2024-03-19,Bangalore,Fast Food,118,23718,22,29,Rainy
+2024-03-19,Bangalore,Biryani,93,46221,22,29,Rainy
+2024-03-19,Delhi,North Indian,54,12258,26,0,Clear
+2024-03-19,Delhi,South Indian,71,16969,26,0,Clear
+2024-03-19,Delhi,Chinese,73,25915,26,0,Clear
+2024-03-19,Delhi,Fast Food,59,21417,26,0,Clear
+2024-03-19,Delhi,Biryani,53,18179,26,0,Clear
+2024-03-20,Indore,North Indian,97,23474,22,30,Rainy
+2024-03-20,Indore,South Indian,129,38442,22,30,Rainy
+2024-03-20,Indore,Chinese,96,36480,22,30,Rainy
+2024-03-20,Indore,Fast Food,111,25086,22,30,Rainy
+2024-03-20,Indore,Biryani,91,30849,22,30,Rainy
+2024-03-20,Bhopal,North Indian,83,40006,25,0,Clear
+2024-03-20,Bhopal,South Indian,88,25344,25,0,Clear
+2024-03-20,Bhopal,Chinese,68,26860,25,0,Clear
+2024-03-20,Bhopal,Fast Food,95,20330,25,0,Clear
+2024-03-20,Bhopal,Biryani,81,22842,25,0,Clear
+2024-03-20,Bangalore,North Indian,64,27456,26,0,Cloudy
+2024-03-20,Bangalore,South Indian,60,24600,26,0,Cloudy
+2024-03-20,Bangalore,Chinese,68,24684,26,0,Cloudy
+2024-03-20,Bangalore,Fast Food,97,22310,26,0,Cloudy
+2024-03-20,Bangalore,Biryani,90,44910,26,0,Cloudy
+2024-03-20,Delhi,North Indian,84,37128,31,0,Cloudy
+2024-03-20,Delhi,South Indian,79,19829,31,0,Cloudy
+2024-03-20,Delhi,Chinese,87,42543,31,0,Cloudy
+2024-03-20,Delhi,Fast Food,64,16064,31,0,Cloudy
+2024-03-20,Delhi,Biryani,62,27714,31,0,Cloudy
+2024-03-21,Indore,North Indian,52,14924,27,0,Clear
+2024-03-21,Indore,South Indian,77,20251,27,0,Clear
+2024-03-21,Indore,Chinese,67,25326,27,0,Clear
+2024-03-21,Indore,Fast Food,67,18157,27,0,Clear
+2024-03-21,Indore,Biryani,76,27588,27,0,Clear
+2024-03-21,Bhopal,North Indian,55,20240,26,0,Clear
+2024-03-21,Bhopal,South Indian,65,28275,26,0,Clear
+2024-03-21,Bhopal,Chinese,98,44394,26,0,Clear
+2024-03-21,Bhopal,Fast Food,76,24320,26,0,Clear
+2024-03-21,Bhopal,Biryani,60,27180,26,0,Clear
+2024-03-21,Bangalore,North Indian,93,36363,29,0,Clear
+2024-03-21,Bangalore,South Indian,72,14544,29,0,Clear
+2024-03-21,Bangalore,Chinese,66,13926,29,0,Clear
+2024-03-21,Bangalore,Fast Food,93,40548,29,0,Clear
+2024-03-21,Bangalore,Biryani,89,41563,29,0,Clear
+2024-03-21,Delhi,North Indian,126,58086,25,22,Rainy
+2024-03-21,Delhi,South Indian,148,44400,25,22,Rainy
+2024-03-21,Delhi,Chinese,111,50838,25,22,Rainy
+2024-03-21,Delhi,Fast Food,95,28595,25,22,Rainy
+2024-03-21,Delhi,Biryani,129,36894,25,22,Rainy
+2024-03-22,Indore,North Indian,69,16008,26,0,Cloudy
+2024-03-22,Indore,South Indian,95,37430,26,0,Cloudy
+2024-03-22,Indore,Chinese,86,19952,26,0,Cloudy
+2024-03-22,Indore,Fast Food,72,23544,26,0,Cloudy
+2024-03-22,Indore,Biryani,52,22360,26,0,Cloudy
+2024-03-22,Bhopal,North Indian,87,36366,31,0,Clear
+2024-03-22,Bhopal,South Indian,70,30030,31,0,Clear
+2024-03-22,Bhopal,Chinese,84,41916,31,0,Clear
+2024-03-22,Bhopal,Fast Food,61,24522,31,0,Clear
+2024-03-22,Bhopal,Biryani,82,37802,31,0,Clear
+2024-03-22,Bangalore,North Indian,98,40768,26,0,Clear
+2024-03-22,Bangalore,South Indian,63,14490,26,0,Clear
+2024-03-22,Bangalore,Chinese,81,21303,26,0,Clear
+2024-03-22,Bangalore,Fast Food,62,18228,26,0,Clear
+2024-03-22,Bangalore,Biryani,93,41199,26,0,Clear
+2024-03-22,Delhi,North Indian,172,78948,25,33,Rainy
+2024-03-22,Delhi,South Indian,81,34587,25,33,Rainy
+2024-03-22,Delhi,Chinese,120,34920,25,33,Rainy
+2024-03-22,Delhi,Fast Food,90,19620,25,33,Rainy
+2024-03-22,Delhi,Biryani,91,31486,25,33,Rainy
+2024-03-23,Indore,North Indian,93,44547,27,0,Clear
+2024-03-23,Indore,South Indian,72,31176,27,0,Clear
+2024-03-23,Indore,Chinese,65,29705,27,0,Clear
+2024-03-23,Indore,Fast Food,78,21294,27,0,Clear
+2024-03-23,Indore,Biryani,74,16502,27,0,Clear
+2024-03-23,Bhopal,North Indian,84,17388,30,0,Cloudy
+2024-03-23,Bhopal,South Indian,99,48807,30,0,Cloudy
+2024-03-23,Bhopal,Chinese,52,22828,30,0,Cloudy
+2024-03-23,Bhopal,Fast Food,59,13511,30,0,Cloudy
+2024-03-23,Bhopal,Biryani,65,30290,30,0,Cloudy
+2024-03-23,Bangalore,North Indian,60,12540,31,0,Clear
+2024-03-23,Bangalore,South Indian,77,33572,31,0,Clear
+2024-03-23,Bangalore,Chinese,58,12296,31,0,Clear
+2024-03-23,Bangalore,Fast Food,94,46624,31,0,Clear
+2024-03-23,Bangalore,Biryani,94,20868,31,0,Clear
+2024-03-23,Delhi,North Indian,91,24388,27,0,Cloudy
+2024-03-23,Delhi,South Indian,99,22869,27,0,Cloudy
+2024-03-23,Delhi,Chinese,53,12190,27,0,Cloudy
+2024-03-23,Delhi,Fast Food,85,41820,27,0,Cloudy
+2024-03-23,Delhi,Biryani,80,26000,27,0,Cloudy
+2024-03-24,Indore,North Indian,99,42372,25,0,Clear
+2024-03-24,Indore,South Indian,88,24464,25,0,Clear
+2024-03-24,Indore,Chinese,60,26160,25,0,Clear
+2024-03-24,Indore,Fast Food,72,31752,25,0,Clear
+2024-03-24,Indore,Biryani,57,12426,25,0,Clear
+2024-03-24,Bhopal,North Indian,68,19788,35,0,Hot
+2024-03-24,Bhopal,South Indian,75,15075,35,0,Hot
+2024-03-24,Bhopal,Chinese,69,14904,35,0,Hot
+2024-03-24,Bhopal,Fast Food,70,16100,35,0,Hot
+2024-03-24,Bhopal,Biryani,44,20284,35,0,Hot
+2024-03-24,Bangalore,North Indian,63,21357,30,0,Cloudy
+2024-03-24,Bangalore,South Indian,85,31450,30,0,Cloudy
+2024-03-24,Bangalore,Chinese,69,22080,30,0,Cloudy
+2024-03-24,Bangalore,Fast Food,56,22008,30,0,Cloudy
+2024-03-24,Bangalore,Biryani,75,26850,30,0,Cloudy
+2024-03-24,Delhi,North Indian,90,27540,31,0,Cloudy
+2024-03-24,Delhi,South Indian,75,18450,31,0,Cloudy
+2024-03-24,Delhi,Chinese,57,14478,31,0,Cloudy
+2024-03-24,Delhi,Fast Food,84,19404,31,0,Cloudy
+2024-03-24,Delhi,Biryani,57,27132,31,0,Cloudy
+2024-03-25,Indore,North Indian,70,33810,38,0,Hot
+2024-03-25,Indore,South Indian,46,12466,38,0,Hot
+2024-03-25,Indore,Chinese,58,24186,38,0,Hot
+2024-03-25,Indore,Fast Food,77,30184,38,0,Hot
+2024-03-25,Indore,Biryani,61,23058,38,0,Hot
+2024-03-25,Bhopal,North Indian,89,28569,26,0,Clear
+2024-03-25,Bhopal,South Indian,60,27480,26,0,Clear
+2024-03-25,Bhopal,Chinese,56,16688,26,0,Clear
+2024-03-25,Bhopal,Fast Food,99,33858,26,0,Clear
+2024-03-25,Bhopal,Biryani,89,32752,26,0,Clear
+2024-03-25,Bangalore,North Indian,54,16902,26,0,Clear
+2024-03-25,Bangalore,South Indian,87,30363,26,0,Clear
+2024-03-25,Bangalore,Chinese,76,27664,26,0,Clear
+2024-03-25,Bangalore,Fast Food,71,34009,26,0,Clear
+2024-03-25,Bangalore,Biryani,60,20760,26,0,Clear
+2024-03-25,Delhi,North Indian,94,20022,27,0,Clear
+2024-03-25,Delhi,South Indian,78,35334,27,0,Clear
+2024-03-25,Delhi,Chinese,53,19716,27,0,Clear
+2024-03-25,Delhi,Fast Food,85,17000,27,0,Clear
+2024-03-25,Delhi,Biryani,79,26939,27,0,Clear
+2024-03-26,Indore,North Indian,102,23460,20,27,Rainy
+2024-03-26,Indore,South Indian,112,54656,20,27,Rainy
+2024-03-26,Indore,Chinese,132,63624,20,27,Rainy
+2024-03-26,Indore,Fast Food,99,34947,20,27,Rainy
+2024-03-26,Indore,Biryani,82,33456,20,27,Rainy
+2024-03-26,Bhopal,North Indian,98,48412,31,0,Clear
+2024-03-26,Bhopal,South Indian,95,32015,31,0,Clear
+2024-03-26,Bhopal,Chinese,96,46848,31,0,Clear
+2024-03-26,Bhopal,Fast Food,98,42042,31,0,Clear
+2024-03-26,Bhopal,Biryani,87,24273,31,0,Clear
+2024-03-26,Bangalore,North Indian,50,24400,27,0,Clear
+2024-03-26,Bangalore,South Indian,83,36105,27,0,Clear
+2024-03-26,Bangalore,Chinese,99,41382,27,0,Clear
+2024-03-26,Bangalore,Fast Food,61,28609,27,0,Clear
+2024-03-26,Bangalore,Biryani,75,27675,27,0,Clear
+2024-03-26,Delhi,North Indian,65,21645,25,0,Clear
+2024-03-26,Delhi,South Indian,62,22196,25,0,Clear
+2024-03-26,Delhi,Chinese,60,27480,25,0,Clear
+2024-03-26,Delhi,Fast Food,69,34431,25,0,Clear
+2024-03-26,Delhi,Biryani,97,37733,25,0,Clear
+2024-03-27,Indore,North Indian,98,48314,30,0,Clear
+2024-03-27,Indore,South Indian,75,35550,30,0,Clear
+2024-03-27,Indore,Chinese,93,43431,30,0,Clear
+2024-03-27,Indore,Fast Food,59,27258,30,0,Clear
+2024-03-27,Indore,Biryani,54,23652,30,0,Clear
+2024-03-27,Bhopal,North Indian,52,11908,29,0,Cloudy
+2024-03-27,Bhopal,South Indian,99,21978,29,0,Cloudy
+2024-03-27,Bhopal,Chinese,99,45738,29,0,Cloudy
+2024-03-27,Bhopal,Fast Food,78,21528,29,0,Cloudy
+2024-03-27,Bhopal,Biryani,56,17696,29,0,Cloudy
+2024-03-27,Bangalore,North Indian,94,28388,31,0,Clear
+2024-03-27,Bangalore,South Indian,93,38781,31,0,Clear
+2024-03-27,Bangalore,Chinese,85,19550,31,0,Clear
+2024-03-27,Bangalore,Fast Food,77,24563,31,0,Clear
+2024-03-27,Bangalore,Biryani,73,28981,31,0,Clear
+2024-03-27,Delhi,North Indian,73,26207,30,0,Clear
+2024-03-27,Delhi,South Indian,73,21681,30,0,Clear
+2024-03-27,Delhi,Chinese,55,11385,30,0,Clear
+2024-03-27,Delhi,Fast Food,70,24640,30,0,Clear
+2024-03-27,Delhi,Biryani,82,19352,30,0,Clear
+2024-03-28,Indore,North Indian,80,30800,27,0,Clear
+2024-03-28,Indore,South Indian,57,18468,27,0,Clear
+2024-03-28,Indore,Chinese,68,26180,27,0,Clear
+2024-03-28,Indore,Fast Food,96,38688,27,0,Clear
+2024-03-28,Indore,Biryani,94,39762,27,0,Clear
+2024-03-28,Bhopal,North Indian,67,19229,30,0,Clear
+2024-03-28,Bhopal,South Indian,63,19341,30,0,Clear
+2024-03-28,Bhopal,Chinese,50,18150,30,0,Clear
+2024-03-28,Bhopal,Fast Food,73,21827,30,0,Clear
+2024-03-28,Bhopal,Biryani,54,13554,30,0,Clear
+2024-03-28,Bangalore,North Indian,94,37882,28,0,Clear
+2024-03-28,Bangalore,South Indian,70,23170,28,0,Clear
+2024-03-28,Bangalore,Chinese,75,22425,28,0,Clear
+2024-03-28,Bangalore,Fast Food,76,17784,28,0,Clear
+2024-03-28,Bangalore,Biryani,78,25038,28,0,Clear
+2024-03-28,Delhi,North Indian,135,43605,22,16,Rainy
+2024-03-28,Delhi,South Indian,96,44448,22,16,Rainy
+2024-03-28,Delhi,Chinese,81,29403,22,16,Rainy
+2024-03-28,Delhi,Fast Food,93,44547,22,16,Rainy
+2024-03-28,Delhi,Biryani,124,35960,22,16,Rainy
+2024-03-29,Indore,North Indian,63,20160,41,0,Hot
+2024-03-29,Indore,South Indian,54,11232,41,0,Hot
+2024-03-29,Indore,Chinese,74,20128,41,0,Hot
+2024-03-29,Indore,Fast Food,46,19090,41,0,Hot
+2024-03-29,Indore,Biryani,42,18522,41,0,Hot
+2024-03-29,Bhopal,North Indian,71,28187,25,0,Clear
+2024-03-29,Bhopal,South Indian,92,34500,25,0,Clear
+2024-03-29,Bhopal,Chinese,77,33495,25,0,Clear
+2024-03-29,Bhopal,Fast Food,66,15048,25,0,Clear
+2024-03-29,Bhopal,Biryani,67,23316,25,0,Clear
+2024-03-29,Bangalore,North Indian,84,41076,29,0,Clear
+2024-03-29,Bangalore,South Indian,90,29520,29,0,Clear
+2024-03-29,Bangalore,Chinese,97,33174,29,0,Clear
+2024-03-29,Bangalore,Fast Food,69,20907,29,0,Clear
+2024-03-29,Bangalore,Biryani,50,18500,29,0,Clear
+2024-03-29,Delhi,North Indian,83,40338,30,0,Clear
+2024-03-29,Delhi,South Indian,77,26411,30,0,Clear
+2024-03-29,Delhi,Chinese,51,20502,30,0,Clear
+2024-03-29,Delhi,Fast Food,80,21200,30,0,Clear
+2024-03-29,Delhi,Biryani,87,27405,30,0,Clear
+2024-03-30,Indore,North Indian,93,32736,23,14,Rainy
+2024-03-30,Indore,South Indian,94,34498,23,14,Rainy
+2024-03-30,Indore,Chinese,138,59478,23,14,Rainy
+2024-03-30,Indore,Fast Food,133,42028,23,14,Rainy
+2024-03-30,Indore,Biryani,139,33082,23,14,Rainy
+2024-03-30,Bhopal,North Indian,72,16488,38,0,Hot
+2024-03-30,Bhopal,South Indian,48,22224,38,0,Hot
+2024-03-30,Bhopal,Chinese,76,16872,38,0,Hot
+2024-03-30,Bhopal,Fast Food,76,26904,38,0,Hot
+2024-03-30,Bhopal,Biryani,74,16132,38,0,Hot
+2024-03-30,Bangalore,North Indian,172,73960,22,12,Rainy
+2024-03-30,Bangalore,South Indian,85,34765,22,12,Rainy
+2024-03-30,Bangalore,Chinese,84,26628,22,12,Rainy
+2024-03-30,Bangalore,Fast Food,109,34553,22,12,Rainy
+2024-03-30,Bangalore,Biryani,75,33300,22,12,Rainy
+2024-03-30,Delhi,North Indian,96,27264,27,0,Cloudy
+2024-03-30,Delhi,South Indian,71,26412,27,0,Cloudy
+2024-03-30,Delhi,Chinese,90,36450,27,0,Cloudy
+2024-03-30,Delhi,Fast Food,71,32944,27,0,Cloudy
+2024-03-30,Delhi,Biryani,87,28797,27,0,Cloudy

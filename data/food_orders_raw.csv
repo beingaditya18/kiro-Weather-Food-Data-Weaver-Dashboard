@@ -1,0 +1,1801 @@
+date,city,cuisine,order_count,order_value
+2024-01-01,Indore,North Indian,91,28392
+2024-01-01,Indore,South Indian,100,38500
+2024-01-01,Indore,Chinese,105,48195
+2024-01-01,Indore,Fast Food,147,45717
+2024-01-01,Indore,Biryani,82,16564
+2024-01-01,Bhopal,North Indian,64,13184
+2024-01-01,Bhopal,South Indian,84,27468
+2024-01-01,Bhopal,Chinese,51,18258
+2024-01-01,Bhopal,Fast Food,75,17775
+2024-01-01,Bhopal,Biryani,68,23936
+2024-01-01,Bangalore,North Indian,85,25670
+2024-01-01,Bangalore,South Indian,70,21350
+2024-01-01,Bangalore,Chinese,60,21660
+2024-01-01,Bangalore,Fast Food,80,33200
+2024-01-01,Bangalore,Biryani,62,18352
+2024-01-01,Delhi,North Indian,76,35644
+2024-01-01,Delhi,South Indian,86,42570
+2024-01-01,Delhi,Chinese,88,24464
+2024-01-01,Delhi,Fast Food,88,33440
+2024-01-01,Delhi,Biryani,60,27600
+2024-01-02,Indore,North Indian,54,15336
+2024-01-02,Indore,South Indian,64,26368
+2024-01-02,Indore,Chinese,60,17940
+2024-01-02,Indore,Fast Food,66,27456
+2024-01-02,Indore,Biryani,99,34155
+2024-01-02,Bhopal,North Indian,41,10824
+2024-01-02,Bhopal,South Indian,70,32970
+2024-01-02,Bhopal,Chinese,74,29230
+2024-01-02,Bhopal,Fast Food,53,24592
+2024-01-02,Bhopal,Biryani,64,16384
+2024-01-02,Bangalore,North Indian,51,22644
+2024-01-02,Bangalore,South Indian,74,25382
+2024-01-02,Bangalore,Chinese,92,40940
+2024-01-02,Bangalore,Fast Food,96,39840
+2024-01-02,Bangalore,Biryani,56,12768
+2024-01-02,Delhi,North Indian,87,39150
+2024-01-02,Delhi,South Indian,72,24480
+2024-01-02,Delhi,Chinese,76,19380
+2024-01-02,Delhi,Fast Food,82,21484
+2024-01-02,Delhi,Biryani,83,31789
+2024-01-03,Indore,North Indian,60,17520
+2024-01-03,Indore,South Indian,63,23814
+2024-01-03,Indore,Chinese,77,19250
+2024-01-03,Indore,Fast Food,57,16644
+2024-01-03,Indore,Biryani,70,33740
+2024-01-03,Bhopal,North Indian,84,35196
+2024-01-03,Bhopal,South Indian,65,16510
+2024-01-03,Bhopal,Chinese,54,24246
+2024-01-03,Bhopal,Fast Food,74,26196
+2024-01-03,Bhopal,Biryani,63,28602
+2024-01-03,Bangalore,North Indian,59,23423
+2024-01-03,Bangalore,South Indian,90,24930
+2024-01-03,Bangalore,Chinese,86,27520
+2024-01-03,Bangalore,Fast Food,53,25387
+2024-01-03,Bangalore,Biryani,97,43068
+2024-01-03,Delhi,North Indian,43,9546
+2024-01-03,Delhi,South Indian,68,28968
+2024-01-03,Delhi,Chinese,42,14070
+2024-01-03,Delhi,Fast Food,64,13440
+2024-01-03,Delhi,Biryani,62,15624
+2024-01-04,Indore,North Indian,48,23376
+2024-01-04,Indore,South Indian,58,14094
+2024-01-04,Indore,Chinese,72,20232
+2024-01-04,Indore,Fast Food,79,32627
+2024-01-04,Indore,Biryani,62,16740
+2024-01-04,Bhopal,North Indian,89,24030
+2024-01-04,Bhopal,South Indian,77,29491
+2024-01-04,Bhopal,Chinese,92,37076
+2024-01-04,Bhopal,Fast Food,54,17874
+2024-01-04,Bhopal,Biryani,59,28261
+2024-01-04,Bangalore,North Indian,79,26070
+2024-01-04,Bangalore,South Indian,89,20826
+2024-01-04,Bangalore,Chinese,86,32078
+2024-01-04,Bangalore,Fast Food,93,45105
+2024-01-04,Bangalore,Biryani,67,16281
+2024-01-04,Delhi,North Indian,65,20150
+2024-01-04,Delhi,South Indian,72,30024
+2024-01-04,Delhi,Chinese,49,16905
+2024-01-04,Delhi,Fast Food,47,20680
+2024-01-04,Delhi,Biryani,48,22608
+2024-01-05,Indore,North Indian,70,33460
+2024-01-05,Indore,South Indian,68,20536
+2024-01-05,Indore,Chinese,62,22568
+2024-01-05,Indore,Fast Food,71,35429
+2024-01-05,Indore,Biryani,55,17930
+2024-01-05,Bhopal,North Indian,109,50794
+2024-01-05,Bhopal,South Indian,124,53320
+2024-01-05,Bhopal,Chinese,87,33147
+2024-01-05,Bhopal,Fast Food,108,38664
+2024-01-05,Bhopal,Biryani,138,40710
+2024-01-05,Bangalore,North Indian,62,15624
+2024-01-05,Bangalore,South Indian,52,24752
+2024-01-05,Bangalore,Chinese,66,18876
+2024-01-05,Bangalore,Fast Food,73,25988
+2024-01-05,Bangalore,Biryani,85,18870
+2024-01-05,Delhi,North Indian,78,30888
+2024-01-05,Delhi,South Indian,81,28350
+2024-01-05,Delhi,Chinese,77,26334
+2024-01-05,Delhi,Fast Food,59,23187
+2024-01-05,Delhi,Biryani,60,13080
+2024-01-06,Indore,North Indian,71,27477
+2024-01-06,Indore,South Indian,98,22540
+2024-01-06,Indore,Chinese,63,25011
+2024-01-06,Indore,Fast Food,92,44620
+2024-01-06,Indore,Biryani,68,21896
+2024-01-06,Bhopal,North Indian,79,21646
+2024-01-06,Bhopal,South Indian,78,32838
+2024-01-06,Bhopal,Chinese,73,22338
+2024-01-06,Bhopal,Fast Food,76,33060
+2024-01-06,Bhopal,Biryani,83,20252
+2024-01-06,Bangalore,North Indian,131,49911
+2024-01-06,Bangalore,South Indian,139,54210
+2024-01-06,Bangalore,Chinese,88,21296
+2024-01-06,Bangalore,Fast Food,158,60356
+2024-01-06,Bangalore,Biryani,139,54071
+2024-01-06,Delhi,North Indian,87,24099
+2024-01-06,Delhi,South Indian,89,35511
+2024-01-06,Delhi,Chinese,67,18894
+2024-01-06,Delhi,Fast Food,70,24920
+2024-01-06,Delhi,Biryani,76,27664
+2024-01-07,Indore,North Indian,69,19458
+2024-01-07,Indore,South Indian,51,15453
+2024-01-07,Indore,Chinese,55,16390
+2024-01-07,Indore,Fast Food,42,19278
+2024-01-07,Indore,Biryani,68,25840
+2024-01-07,Bhopal,North Indian,90,22500
+2024-01-07,Bhopal,South Indian,79,28124
+2024-01-07,Bhopal,Chinese,108,28944
+2024-01-07,Bhopal,Fast Food,109,24416
+2024-01-07,Bhopal,Biryani,129,59598
+2024-01-07,Bangalore,North Indian,178,38448
+2024-01-07,Bangalore,South Indian,91,33852
+2024-01-07,Bangalore,Chinese,133,37772
+2024-01-07,Bangalore,Fast Food,145,37845
+2024-01-07,Bangalore,Biryani,84,29736
+2024-01-07,Delhi,North Indian,79,17696
+2024-01-07,Delhi,South Indian,56,14448
+2024-01-07,Delhi,Chinese,65,31980
+2024-01-07,Delhi,Fast Food,75,26700
+2024-01-07,Delhi,Biryani,78,28782
+2024-01-08,Indore,North Indian,54,18684
+2024-01-08,Indore,South Indian,61,15067
+2024-01-08,Indore,Chinese,66,26796
+2024-01-08,Indore,Fast Food,90,41670
+2024-01-08,Indore,Biryani,52,20904
+2024-01-08,Bhopal,North Indian,136,62832
+2024-01-08,Bhopal,South Indian,120,44520
+2024-01-08,Bhopal,Chinese,117,46800
+2024-01-08,Bhopal,Fast Food,122,43798
+2024-01-08,Bhopal,Biryani,147,55860
+2024-01-08,Bangalore,North Indian,80,34080
+2024-01-08,Bangalore,South Indian,83,30544
+2024-01-08,Bangalore,Chinese,52,25740
+2024-01-08,Bangalore,Fast Food,72,32616
+2024-01-08,Bangalore,Biryani,63,24318
+2024-01-08,Delhi,North Indian,83,18592
+2024-01-08,Delhi,South Indian,53,23903
+2024-01-08,Delhi,Chinese,72,17496
+2024-01-08,Delhi,Fast Food,95,34010
+2024-01-08,Delhi,Biryani,60,17820
+2024-01-09,Indore,North Indian,86,29240
+2024-01-09,Indore,South Indian,55,18645
+2024-01-09,Indore,Chinese,66,24024
+2024-01-09,Indore,Fast Food,85,21590
+2024-01-09,Indore,Biryani,81,21789
+2024-01-09,Bhopal,North Indian,95,40375
+2024-01-09,Bhopal,South Indian,97,38024
+2024-01-09,Bhopal,Chinese,63,28602
+2024-01-09,Bhopal,Fast Food,84,32508
+2024-01-09,Bhopal,Biryani,58,16008
+2024-01-09,Bangalore,North Indian,92,28888
+2024-01-09,Bangalore,South Indian,56,26768
+2024-01-09,Bangalore,Chinese,61,15860
+2024-01-09,Bangalore,Fast Food,97,45202
+2024-01-09,Bangalore,Biryani,51,22236
+2024-01-09,Delhi,North Indian,108,23544
+2024-01-09,Delhi,South Indian,94,44650
+2024-01-09,Delhi,Chinese,114,44688
+2024-01-09,Delhi,Fast Food,154,56210
+2024-01-09,Delhi,Biryani,87,33930
+2024-01-10,Indore,North Indian,88,36784
+2024-01-10,Indore,South Indian,85,40035
+2024-01-10,Indore,Chinese,91,29120
+2024-01-10,Indore,Fast Food,51,18054
+2024-01-10,Indore,Biryani,76,26068
+2024-01-10,Bhopal,North Indian,66,18282
+2024-01-10,Bhopal,South Indian,40,9960
+2024-01-10,Bhopal,Chinese,48,18048
+2024-01-10,Bhopal,Fast Food,68,31416
+2024-01-10,Bhopal,Biryani,56,18088
+2024-01-10,Bangalore,North Indian,88,41184
+2024-01-10,Bangalore,South Indian,93,29667
+2024-01-10,Bangalore,Chinese,91,25116
+2024-01-10,Bangalore,Fast Food,84,36876
+2024-01-10,Bangalore,Biryani,56,25760
+2024-01-10,Delhi,North Indian,88,35640
+2024-01-10,Delhi,South Indian,53,26288
+2024-01-10,Delhi,Chinese,53,21889
+2024-01-10,Delhi,Fast Food,88,36696
+2024-01-10,Delhi,Biryani,68,31620
+2024-01-11,Indore,North Indian,84,25956
+2024-01-11,Indore,South Indian,85,38505
+2024-01-11,Indore,Chinese,59,28556
+2024-01-11,Indore,Fast Food,84,25788
+2024-01-11,Indore,Biryani,57,22002
+2024-01-11,Bhopal,North Indian,69,22908
+2024-01-11,Bhopal,South Indian,80,18880
+2024-01-11,Bhopal,Chinese,72,28152
+2024-01-11,Bhopal,Fast Food,69,15318
+2024-01-11,Bhopal,Biryani,62,25420
+2024-01-11,Bangalore,North Indian,90,33300
+2024-01-11,Bangalore,South Indian,141,37506
+2024-01-11,Bangalore,Chinese,145,38425
+2024-01-11,Bangalore,Fast Food,91,32214
+2024-01-11,Bangalore,Biryani,88,18920
+2024-01-11,Delhi,North Indian,66,21714
+2024-01-11,Delhi,South Indian,65,22815
+2024-01-11,Delhi,Chinese,60,19320
+2024-01-11,Delhi,Fast Food,72,14616
+2024-01-11,Delhi,Biryani,74,24716
+2024-01-12,Indore,North Indian,149,59749
+2024-01-12,Indore,South Indian,76,26372
+2024-01-12,Indore,Chinese,84,40236
+2024-01-12,Indore,Fast Food,163,36838
+2024-01-12,Indore,Biryani,78,17940
+2024-01-12,Bhopal,North Indian,78,20982
+2024-01-12,Bhopal,South Indian,65,26455
+2024-01-12,Bhopal,Chinese,64,16064
+2024-01-12,Bhopal,Fast Food,66,29370
+2024-01-12,Bhopal,Biryani,68,17000
+2024-01-12,Bangalore,North Indian,50,11900
+2024-01-12,Bangalore,South Indian,55,25520
+2024-01-12,Bangalore,Chinese,91,37037
+2024-01-12,Bangalore,Fast Food,57,17385
+2024-01-12,Bangalore,Biryani,89,28124
+2024-01-12,Delhi,North Indian,174,69774
+2024-01-12,Delhi,South Indian,88,21384
+2024-01-12,Delhi,Chinese,87,31581
+2024-01-12,Delhi,Fast Food,115,38985
+2024-01-12,Delhi,Biryani,142,45156
+2024-01-13,Indore,North Indian,98,31948
+2024-01-13,Indore,South Indian,62,27962
+2024-01-13,Indore,Chinese,95,41420
+2024-01-13,Indore,Fast Food,99,46431
+2024-01-13,Indore,Biryani,77,24640
+2024-01-13,Bhopal,North Indian,88,41976
+2024-01-13,Bhopal,South Indian,97,42777
+2024-01-13,Bhopal,Chinese,84,25536
+2024-01-13,Bhopal,Fast Food,75,17850
+2024-01-13,Bhopal,Biryani,93,21204
+2024-01-13,Bangalore,North Indian,78,38142
+2024-01-13,Bangalore,South Indian,72,34632
+2024-01-13,Bangalore,Chinese,71,18673
+2024-01-13,Bangalore,Fast Food,96,45984
+2024-01-13,Bangalore,Biryani,71,22436
+2024-01-13,Delhi,North Indian,108,36828
+2024-01-13,Delhi,South Indian,91,41496
+2024-01-13,Delhi,Chinese,94,19082
+2024-01-13,Delhi,Fast Food,178,55536
+2024-01-13,Delhi,Biryani,103,48925
+2024-01-14,Indore,North Indian,58,17516
+2024-01-14,Indore,South Indian,85,33660
+2024-01-14,Indore,Chinese,93,37200
+2024-01-14,Indore,Fast Food,57,25251
+2024-01-14,Indore,Biryani,85,25585
+2024-01-14,Bhopal,North Indian,41,18204
+2024-01-14,Bhopal,South Indian,50,20550
+2024-01-14,Bhopal,Chinese,49,12642
+2024-01-14,Bhopal,Fast Food,66,28710
+2024-01-14,Bhopal,Biryani,56,18704
+2024-01-14,Bangalore,North Indian,58,12528
+2024-01-14,Bangalore,South Indian,62,15934
+2024-01-14,Bangalore,Chinese,76,33212
+2024-01-14,Bangalore,Fast Food,56,25144
+2024-01-14,Bangalore,Biryani,69,33258
+2024-01-14,Delhi,North Indian,50,11000
+2024-01-14,Delhi,South Indian,82,35506
+2024-01-14,Delhi,Chinese,94,31020
+2024-01-14,Delhi,Fast Food,65,26390
+2024-01-14,Delhi,Biryani,56,14896
+2024-01-15,Indore,North Indian,63,20601
+2024-01-15,Indore,South Indian,69,23322
+2024-01-15,Indore,Chinese,91,39221
+2024-01-15,Indore,Fast Food,99,40689
+2024-01-15,Indore,Biryani,56,19768
+2024-01-15,Bhopal,North Indian,93,30132
+2024-01-15,Bhopal,South Indian,57,24738
+2024-01-15,Bhopal,Chinese,74,35076
+2024-01-15,Bhopal,Fast Food,93,18786
+2024-01-15,Bhopal,Biryani,93,43617
+2024-01-15,Bangalore,North Indian,69,29256
+2024-01-15,Bangalore,South Indian,50,15150
+2024-01-15,Bangalore,Chinese,70,19530
+2024-01-15,Bangalore,Fast Food,75,33750
+2024-01-15,Bangalore,Biryani,52,11076
+2024-01-15,Delhi,North Indian,99,36432
+2024-01-15,Delhi,South Indian,95,26220
+2024-01-15,Delhi,Chinese,59,14219
+2024-01-15,Delhi,Fast Food,65,29900
+2024-01-15,Delhi,Biryani,61,13847
+2024-01-16,Indore,North Indian,85,35190
+2024-01-16,Indore,South Indian,51,23307
+2024-01-16,Indore,Chinese,58,26448
+2024-01-16,Indore,Fast Food,78,33462
+2024-01-16,Indore,Biryani,92,38088
+2024-01-16,Bhopal,North Indian,97,40934
+2024-01-16,Bhopal,South Indian,103,48513
+2024-01-16,Bhopal,Chinese,130,40300
+2024-01-16,Bhopal,Fast Food,165,42570
+2024-01-16,Bhopal,Biryani,132,37224
+2024-01-16,Bangalore,North Indian,178,87576
+2024-01-16,Bangalore,South Indian,129,62307
+2024-01-16,Bangalore,Chinese,129,26445
+2024-01-16,Bangalore,Fast Food,99,30096
+2024-01-16,Bangalore,Biryani,93,30132
+2024-01-16,Delhi,North Indian,140,55020
+2024-01-16,Delhi,South Indian,121,52393
+2024-01-16,Delhi,Chinese,115,30360
+2024-01-16,Delhi,Fast Food,93,41850
+2024-01-16,Delhi,Biryani,144,31392
+2024-01-17,Indore,North Indian,55,24970
+2024-01-17,Indore,South Indian,93,45756
+2024-01-17,Indore,Chinese,71,29678
+2024-01-17,Indore,Fast Food,86,37238
+2024-01-17,Indore,Biryani,55,20295
+2024-01-17,Bhopal,North Indian,58,16762
+2024-01-17,Bhopal,South Indian,77,25179
+2024-01-17,Bhopal,Chinese,62,22816
+2024-01-17,Bhopal,Fast Food,59,13334
+2024-01-17,Bhopal,Biryani,66,27258
+2024-01-17,Bangalore,North Indian,62,30132
+2024-01-17,Bangalore,South Indian,65,13975
+2024-01-17,Bangalore,Chinese,98,47922
+2024-01-17,Bangalore,Fast Food,65,25545
+2024-01-17,Bangalore,Biryani,63,19215
+2024-01-17,Delhi,North Indian,76,15656
+2024-01-17,Delhi,South Indian,72,31032
+2024-01-17,Delhi,Chinese,95,38950
+2024-01-17,Delhi,Fast Food,53,16536
+2024-01-17,Delhi,Biryani,51,24276
+2024-01-18,Indore,North Indian,95,31065
+2024-01-18,Indore,South Indian,106,51304
+2024-01-18,Indore,Chinese,112,33264
+2024-01-18,Indore,Fast Food,127,59055
+2024-01-18,Indore,Biryani,117,56043
+2024-01-18,Bhopal,North Indian,56,24248
+2024-01-18,Bhopal,South Indian,45,14085
+2024-01-18,Bhopal,Chinese,64,29760
+2024-01-18,Bhopal,Fast Food,77,21252
+2024-01-18,Bhopal,Biryani,76,21280
+2024-01-18,Bangalore,North Indian,153,46359
+2024-01-18,Bangalore,South Indian,76,27132
+2024-01-18,Bangalore,Chinese,145,31465
+2024-01-18,Bangalore,Fast Food,144,63504
+2024-01-18,Bangalore,Biryani,90,34740
+2024-01-18,Delhi,North Indian,50,16400
+2024-01-18,Delhi,South Indian,58,24418
+2024-01-18,Delhi,Chinese,56,18536
+2024-01-18,Delhi,Fast Food,97,20564
+2024-01-18,Delhi,Biryani,61,15189
+2024-01-19,Indore,North Indian,129,33540
+2024-01-19,Indore,South Indian,135,35370
+2024-01-19,Indore,Chinese,84,37884
+2024-01-19,Indore,Fast Food,95,24605
+2024-01-19,Indore,Biryani,133,44688
+2024-01-19,Bhopal,North Indian,144,54576
+2024-01-19,Bhopal,South Indian,94,24346
+2024-01-19,Bhopal,Chinese,132,48048
+2024-01-19,Bhopal,Fast Food,160,46400
+2024-01-19,Bhopal,Biryani,99,42867
+2024-01-19,Bangalore,North Indian,67,26398
+2024-01-19,Bangalore,South Indian,83,21663
+2024-01-19,Bangalore,Chinese,59,13452
+2024-01-19,Bangalore,Fast Food,56,20104
+2024-01-19,Bangalore,Biryani,62,29884
+2024-01-19,Delhi,North Indian,64,16448
+2024-01-19,Delhi,South Indian,63,27531
+2024-01-19,Delhi,Chinese,75,22275
+2024-01-19,Delhi,Fast Food,99,31779
+2024-01-19,Delhi,Biryani,97,35599
+2024-01-20,Indore,North Indian,79,16669
+2024-01-20,Indore,South Indian,93,25854
+2024-01-20,Indore,Chinese,74,25604
+2024-01-20,Indore,Fast Food,84,26880
+2024-01-20,Indore,Biryani,89,32040
+2024-01-20,Bhopal,North Indian,118,36934
+2024-01-20,Bhopal,South Indian,102,46614
+2024-01-20,Bhopal,Chinese,145,31755
+2024-01-20,Bhopal,Fast Food,149,46786
+2024-01-20,Bhopal,Biryani,93,39804
+2024-01-20,Bangalore,North Indian,81,25515
+2024-01-20,Bangalore,South Indian,67,29480
+2024-01-20,Bangalore,Chinese,57,12540
+2024-01-20,Bangalore,Fast Food,76,24168
+2024-01-20,Bangalore,Biryani,88,28160
+2024-01-20,Delhi,North Indian,90,29970
+2024-01-20,Delhi,South Indian,83,38263
+2024-01-20,Delhi,Chinese,84,21168
+2024-01-20,Delhi,Fast Food,78,27534
+2024-01-20,Delhi,Biryani,68,26520
+2024-01-21,Indore,North Indian,97,40158
+2024-01-21,Indore,South Indian,86,35432
+2024-01-21,Indore,Chinese,50,20350
+2024-01-21,Indore,Fast Food,56,11480
+2024-01-21,Indore,Biryani,78,31434
+2024-01-21,Bhopal,North Indian,97,38994
+2024-01-21,Bhopal,South Indian,94,31584
+2024-01-21,Bhopal,Chinese,77,16786
+2024-01-21,Bhopal,Fast Food,72,14904
+2024-01-21,Bhopal,Biryani,54,15822
+2024-01-21,Bangalore,North Indian,84,35028
+2024-01-21,Bangalore,South Indian,84,22008
+2024-01-21,Bangalore,Chinese,56,14560
+2024-01-21,Bangalore,Fast Food,62,29822
+2024-01-21,Bangalore,Biryani,84,36792
+2024-01-21,Delhi,North Indian,147,40866
+2024-01-21,Delhi,South Indian,96,35712
+2024-01-21,Delhi,Chinese,115,45770
+2024-01-21,Delhi,Fast Food,153,41157
+2024-01-21,Delhi,Biryani,123,33825
+2024-01-22,Indore,North Indian,82,24026
+2024-01-22,Indore,South Indian,80,17680
+2024-01-22,Indore,Chinese,61,22936
+2024-01-22,Indore,Fast Food,85,37570
+2024-01-22,Indore,Biryani,67,26666
+2024-01-22,Bhopal,North Indian,75,28425
+2024-01-22,Bhopal,South Indian,70,18550
+2024-01-22,Bhopal,Chinese,70,24220
+2024-01-22,Bhopal,Fast Food,79,31284
+2024-01-22,Bhopal,Biryani,95,37525
+2024-01-22,Bangalore,North Indian,88,29480
+2024-01-22,Bangalore,South Indian,63,20727
+2024-01-22,Bangalore,Chinese,97,25511
+2024-01-22,Bangalore,Fast Food,55,22330
+2024-01-22,Bangalore,Biryani,77,15862
+2024-01-22,Delhi,North Indian,77,29799
+2024-01-22,Delhi,South Indian,63,23436
+2024-01-22,Delhi,Chinese,63,19215
+2024-01-22,Delhi,Fast Food,96,34080
+2024-01-22,Delhi,Biryani,77,28028
+2024-01-23,Indore,North Indian,64,17856
+2024-01-23,Indore,South Indian,94,33746
+2024-01-23,Indore,Chinese,51,11067
+2024-01-23,Indore,Fast Food,95,19760
+2024-01-23,Indore,Biryani,70,34860
+2024-01-23,Bhopal,North Indian,60,27540
+2024-01-23,Bhopal,South Indian,55,22385
+2024-01-23,Bhopal,Chinese,52,15340
+2024-01-23,Bhopal,Fast Food,72,20664
+2024-01-23,Bhopal,Biryani,66,22572
+2024-01-23,Bangalore,North Indian,54,11124
+2024-01-23,Bangalore,South Indian,79,18802
+2024-01-23,Bangalore,Chinese,95,28310
+2024-01-23,Bangalore,Fast Food,87,34539
+2024-01-23,Bangalore,Biryani,90,27720
+2024-01-23,Delhi,North Indian,81,35964
+2024-01-23,Delhi,South Indian,55,12540
+2024-01-23,Delhi,Chinese,89,30794
+2024-01-23,Delhi,Fast Food,59,23600
+2024-01-23,Delhi,Biryani,68,22100
+2024-01-24,Indore,North Indian,61,28426
+2024-01-24,Indore,South Indian,62,21080
+2024-01-24,Indore,Chinese,62,23932
+2024-01-24,Indore,Fast Food,88,21296
+2024-01-24,Indore,Biryani,66,31746
+2024-01-24,Bhopal,North Indian,57,14820
+2024-01-24,Bhopal,South Indian,56,25648
+2024-01-24,Bhopal,Chinese,44,14080
+2024-01-24,Bhopal,Fast Food,55,26895
+2024-01-24,Bhopal,Biryani,60,19740
+2024-01-24,Bangalore,North Indian,77,30415
+2024-01-24,Bangalore,South Indian,80,23840
+2024-01-24,Bangalore,Chinese,81,33048
+2024-01-24,Bangalore,Fast Food,63,29988
+2024-01-24,Bangalore,Biryani,93,28272
+2024-01-24,Delhi,North Indian,53,25493
+2024-01-24,Delhi,South Indian,96,42336
+2024-01-24,Delhi,Chinese,91,22750
+2024-01-24,Delhi,Fast Food,63,20979
+2024-01-24,Delhi,Biryani,55,27115
+2024-01-25,Indore,North Indian,82,22714
+2024-01-25,Indore,South Indian,59,14691
+2024-01-25,Indore,Chinese,56,24024
+2024-01-25,Indore,Fast Food,55,24365
+2024-01-25,Indore,Biryani,70,17570
+2024-01-25,Bhopal,North Indian,109,44690
+2024-01-25,Bhopal,South Indian,123,42558
+2024-01-25,Bhopal,Chinese,91,20202
+2024-01-25,Bhopal,Fast Food,117,39195
+2024-01-25,Bhopal,Biryani,87,40455
+2024-01-25,Bangalore,North Indian,41,8487
+2024-01-25,Bangalore,South Indian,58,21924
+2024-01-25,Bangalore,Chinese,40,11880
+2024-01-25,Bangalore,Fast Food,63,15246
+2024-01-25,Bangalore,Biryani,77,34265
+2024-01-25,Delhi,North Indian,96,46848
+2024-01-25,Delhi,South Indian,75,33900
+2024-01-25,Delhi,Chinese,80,26080
+2024-01-25,Delhi,Fast Food,97,30943
+2024-01-25,Delhi,Biryani,93,19902
+2024-01-26,Indore,North Indian,158,36656
+2024-01-26,Indore,South Indian,117,55926
+2024-01-26,Indore,Chinese,103,38522
+2024-01-26,Indore,Fast Food,138,45402
+2024-01-26,Indore,Biryani,96,34656
+2024-01-26,Bhopal,North Indian,75,37350
+2024-01-26,Bhopal,South Indian,63,20286
+2024-01-26,Bhopal,Chinese,52,20644
+2024-01-26,Bhopal,Fast Food,87,31929
+2024-01-26,Bhopal,Biryani,89,19313
+2024-01-26,Bangalore,North Indian,71,18957
+2024-01-26,Bangalore,South Indian,71,27051
+2024-01-26,Bangalore,Chinese,67,16147
+2024-01-26,Bangalore,Fast Food,78,28626
+2024-01-26,Bangalore,Biryani,53,16536
+2024-01-26,Delhi,North Indian,95,27170
+2024-01-26,Delhi,South Indian,89,43076
+2024-01-26,Delhi,Chinese,72,26784
+2024-01-26,Delhi,Fast Food,81,24786
+2024-01-26,Delhi,Biryani,73,14965
+2024-01-27,Indore,North Indian,172,66392
+2024-01-27,Indore,South Indian,106,37418
+2024-01-27,Indore,Chinese,87,25752
+2024-01-27,Indore,Fast Food,108,42444
+2024-01-27,Indore,Biryani,82,27142
+2024-01-27,Bhopal,North Indian,68,14008
+2024-01-27,Bhopal,South Indian,47,18377
+2024-01-27,Bhopal,Chinese,42,8820
+2024-01-27,Bhopal,Fast Food,50,15600
+2024-01-27,Bhopal,Biryani,59,14160
+2024-01-27,Bangalore,North Indian,57,12825
+2024-01-27,Bangalore,South Indian,50,15550
+2024-01-27,Bangalore,Chinese,95,22990
+2024-01-27,Bangalore,Fast Food,53,18391
+2024-01-27,Bangalore,Biryani,74,23384
+2024-01-27,Delhi,North Indian,90,31320
+2024-01-27,Delhi,South Indian,90,36450
+2024-01-27,Delhi,Chinese,61,17019
+2024-01-27,Delhi,Fast Food,97,22310
+2024-01-27,Delhi,Biryani,51,10812
+2024-01-28,Indore,North Indian,66,23760
+2024-01-28,Indore,South Indian,66,25212
+2024-01-28,Indore,Chinese,68,27540
+2024-01-28,Indore,Fast Food,53,10706
+2024-01-28,Indore,Biryani,83,24900
+2024-01-28,Bhopal,North Indian,72,31104
+2024-01-28,Bhopal,South Indian,92,41308
+2024-01-28,Bhopal,Chinese,54,13230
+2024-01-28,Bhopal,Fast Food,66,13662
+2024-01-28,Bhopal,Biryani,86,29154
+2024-01-28,Bangalore,North Indian,93,28923
+2024-01-28,Bangalore,South Indian,97,46172
+2024-01-28,Bangalore,Chinese,108,36612
+2024-01-28,Bangalore,Fast Food,97,22989
+2024-01-28,Bangalore,Biryani,78,33150
+2024-01-28,Delhi,North Indian,72,20016
+2024-01-28,Delhi,South Indian,44,10648
+2024-01-28,Delhi,Chinese,74,35594
+2024-01-28,Delhi,Fast Food,70,23030
+2024-01-28,Delhi,Biryani,56,26488
+2024-01-29,Indore,North Indian,109,46652
+2024-01-29,Indore,South Indian,123,30873
+2024-01-29,Indore,Chinese,127,58928
+2024-01-29,Indore,Fast Food,158,33022
+2024-01-29,Indore,Biryani,94,45872
+2024-01-29,Bhopal,North Indian,58,12876
+2024-01-29,Bhopal,South Indian,98,47236
+2024-01-29,Bhopal,Chinese,68,24480
+2024-01-29,Bhopal,Fast Food,80,38960
+2024-01-29,Bhopal,Biryani,75,19575
+2024-01-29,Bangalore,North Indian,55,27225
+2024-01-29,Bangalore,South Indian,52,17420
+2024-01-29,Bangalore,Chinese,71,31737
+2024-01-29,Bangalore,Fast Food,69,18285
+2024-01-29,Bangalore,Biryani,62,22754
+2024-01-29,Delhi,North Indian,84,27216
+2024-01-29,Delhi,South Indian,55,24310
+2024-01-29,Delhi,Chinese,54,26676
+2024-01-29,Delhi,Fast Food,95,19760
+2024-01-29,Delhi,Biryani,67,21373
+2024-01-30,Indore,North Indian,70,18830
+2024-01-30,Indore,South Indian,60,14640
+2024-01-30,Indore,Chinese,81,16443
+2024-01-30,Indore,Fast Food,69,32637
+2024-01-30,Indore,Biryani,53,21783
+2024-01-30,Bhopal,North Indian,80,21600
+2024-01-30,Bhopal,South Indian,67,29078
+2024-01-30,Bhopal,Chinese,73,26426
+2024-01-30,Bhopal,Fast Food,62,13640
+2024-01-30,Bhopal,Biryani,58,19662
+2024-01-30,Bangalore,North Indian,85,24055
+2024-01-30,Bangalore,South Indian,89,28747
+2024-01-30,Bangalore,Chinese,61,18971
+2024-01-30,Bangalore,Fast Food,81,27864
+2024-01-30,Bangalore,Biryani,54,19170
+2024-01-30,Delhi,North Indian,54,26784
+2024-01-30,Delhi,South Indian,94,44556
+2024-01-30,Delhi,Chinese,90,42660
+2024-01-30,Delhi,Fast Food,71,16401
+2024-01-30,Delhi,Biryani,91,24843
+2024-01-31,Indore,North Indian,90,25470
+2024-01-31,Indore,South Indian,59,23600
+2024-01-31,Indore,Chinese,93,45849
+2024-01-31,Indore,Fast Food,50,17950
+2024-01-31,Indore,Biryani,96,43488
+2024-01-31,Bhopal,North Indian,75,36450
+2024-01-31,Bhopal,South Indian,45,21420
+2024-01-31,Bhopal,Chinese,47,10810
+2024-01-31,Bhopal,Fast Food,78,36894
+2024-01-31,Bhopal,Biryani,49,9800
+2024-01-31,Bangalore,North Indian,84,40572
+2024-01-31,Bangalore,South Indian,76,25460
+2024-01-31,Bangalore,Chinese,51,17034
+2024-01-31,Bangalore,Fast Food,72,18648
+2024-01-31,Bangalore,Biryani,70,17850
+2024-01-31,Delhi,North Indian,46,19872
+2024-01-31,Delhi,South Indian,76,29488
+2024-01-31,Delhi,Chinese,46,17618
+2024-01-31,Delhi,Fast Food,68,21420
+2024-01-31,Delhi,Biryani,70,18970
+2024-02-01,Indore,North Indian,84,25452
+2024-02-01,Indore,South Indian,56,14840
+2024-02-01,Indore,Chinese,66,16896
+2024-02-01,Indore,Fast Food,54,11502
+2024-02-01,Indore,Biryani,77,23870
+2024-02-01,Bhopal,North Indian,89,35600
+2024-02-01,Bhopal,South Indian,54,21114
+2024-02-01,Bhopal,Chinese,72,14976
+2024-02-01,Bhopal,Fast Food,79,28914
+2024-02-01,Bhopal,Biryani,80,35920
+2024-02-01,Bangalore,North Indian,65,21255
+2024-02-01,Bangalore,South Indian,55,22990
+2024-02-01,Bangalore,Chinese,75,17550
+2024-02-01,Bangalore,Fast Food,50,16150
+2024-02-01,Bangalore,Biryani,76,25384
+2024-02-01,Delhi,North Indian,91,22841
+2024-02-01,Delhi,South Indian,69,18009
+2024-02-01,Delhi,Chinese,77,30107
+2024-02-01,Delhi,Fast Food,61,18849
+2024-02-01,Delhi,Biryani,52,12168
+2024-02-02,Indore,North Indian,73,34967
+2024-02-02,Indore,South Indian,97,31040
+2024-02-02,Indore,Chinese,55,19580
+2024-02-02,Indore,Fast Food,53,13091
+2024-02-02,Indore,Biryani,77,23716
+2024-02-02,Bhopal,North Indian,111,54390
+2024-02-02,Bhopal,South Indian,133,48013
+2024-02-02,Bhopal,Chinese,147,70707
+2024-02-02,Bhopal,Fast Food,90,41040
+2024-02-02,Bhopal,Biryani,129,53406
+2024-02-02,Bangalore,North Indian,135,43065
+2024-02-02,Bangalore,South Indian,106,27666
+2024-02-02,Bangalore,Chinese,130,60450
+2024-02-02,Bangalore,Fast Food,124,38812
+2024-02-02,Bangalore,Biryani,87,23838
+2024-02-02,Delhi,North Indian,77,21406
+2024-02-02,Delhi,South Indian,41,11521
+2024-02-02,Delhi,Chinese,65,16445
+2024-02-02,Delhi,Fast Food,76,27968
+2024-02-02,Delhi,Biryani,43,13502
+2024-02-03,Indore,North Indian,138,34638
+2024-02-03,Indore,South Indian,88,41888
+2024-02-03,Indore,Chinese,124,26536
+2024-02-03,Indore,Fast Food,154,50666
+2024-02-03,Indore,Biryani,99,40689
+2024-02-03,Bhopal,North Indian,64,22656
+2024-02-03,Bhopal,South Indian,50,22650
+2024-02-03,Bhopal,Chinese,60,13260
+2024-02-03,Bhopal,Fast Food,69,20217
+2024-02-03,Bhopal,Biryani,54,26460
+2024-02-03,Bangalore,North Indian,56,23464
+2024-02-03,Bangalore,South Indian,75,36450
+2024-02-03,Bangalore,Chinese,55,24860
+2024-02-03,Bangalore,Fast Food,69,20355
+2024-02-03,Bangalore,Biryani,78,33306
+2024-02-03,Delhi,North Indian,79,34049
+2024-02-03,Delhi,South Indian,61,12993
+2024-02-03,Delhi,Chinese,85,25415
+2024-02-03,Delhi,Fast Food,61,22631
+2024-02-03,Delhi,Biryani,53,17384
+2024-02-04,Indore,North Indian,85,37740
+2024-02-04,Indore,South Indian,65,31005
+2024-02-04,Indore,Chinese,91,38311
+2024-02-04,Indore,Fast Food,75,17175
+2024-02-04,Indore,Biryani,83,35026
+2024-02-04,Bhopal,North Indian,76,36480
+2024-02-04,Bhopal,South Indian,98,29988
+2024-02-04,Bhopal,Chinese,62,26164
+2024-02-04,Bhopal,Fast Food,71,28187
+2024-02-04,Bhopal,Biryani,95,21660
+2024-02-04,Bangalore,North Indian,78,23868
+2024-02-04,Bangalore,South Indian,90,32310
+2024-02-04,Bangalore,Chinese,56,24248
+2024-02-04,Bangalore,Fast Food,81,37665
+2024-02-04,Bangalore,Biryani,75,32775
+2024-02-04,Delhi,North Indian,50,23150
+2024-02-04,Delhi,South Indian,56,16352
+2024-02-04,Delhi,Chinese,90,22590
+2024-02-04,Delhi,Fast Food,69,28704
+2024-02-04,Delhi,Biryani,76,20444
+2024-02-05,Indore,North Indian,99,48015
+2024-02-05,Indore,South Indian,72,29664
+2024-02-05,Indore,Chinese,85,19465
+2024-02-05,Indore,Fast Food,82,24190
+2024-02-05,Indore,Biryani,57,14136
+2024-02-05,Bhopal,North Indian,54,21222
+2024-02-05,Bhopal,South Indian,51,16728
+2024-02-05,Bhopal,Chinese,91,36582
+2024-02-05,Bhopal,Fast Food,76,24700
+2024-02-05,Bhopal,Biryani,82,25584
+2024-02-05,Bangalore,North Indian,62,26412
+2024-02-05,Bangalore,South Indian,95,29925
+2024-02-05,Bangalore,Chinese,68,25296
+2024-02-05,Bangalore,Fast Food,97,20564
+2024-02-05,Bangalore,Biryani,92,20700
+2024-02-05,Delhi,North Indian,63,28854
+2024-02-05,Delhi,South Indian,51,14739
+2024-02-05,Delhi,Chinese,56,25816
+2024-02-05,Delhi,Fast Food,68,28492
+2024-02-05,Delhi,Biryani,54,26298
+2024-02-06,Indore,North Indian,97,35017
+2024-02-06,Indore,South Indian,144,53712
+2024-02-06,Indore,Chinese,132,46992
+2024-02-06,Indore,Fast Food,99,43560
+2024-02-06,Indore,Biryani,129,34959
+2024-02-06,Bhopal,North Indian,83,26809
+2024-02-06,Bhopal,South Indian,83,34113
+2024-02-06,Bhopal,Chinese,80,39680
+2024-02-06,Bhopal,Fast Food,90,39150
+2024-02-06,Bhopal,Biryani,60,13260
+2024-02-06,Bangalore,North Indian,90,24660
+2024-02-06,Bangalore,South Indian,93,38409
+2024-02-06,Bangalore,Chinese,66,25410
+2024-02-06,Bangalore,Fast Food,80,23440
+2024-02-06,Bangalore,Biryani,99,47916
+2024-02-06,Delhi,North Indian,151,36844
+2024-02-06,Delhi,South Indian,121,24684
+2024-02-06,Delhi,Chinese,99,41580
+2024-02-06,Delhi,Fast Food,158,41554
+2024-02-06,Delhi,Biryani,103,43466
+2024-02-07,Indore,North Indian,145,31610
+2024-02-07,Indore,South Indian,136,41616
+2024-02-07,Indore,Chinese,105,35070
+2024-02-07,Indore,Fast Food,153,47583
+2024-02-07,Indore,Biryani,132,54120
+2024-02-07,Bhopal,North Indian,172,55728
+2024-02-07,Bhopal,South Indian,139,66303
+2024-02-07,Bhopal,Chinese,117,23985
+2024-02-07,Bhopal,Fast Food,102,25908
+2024-02-07,Bhopal,Biryani,84,40572
+2024-02-07,Bangalore,North Indian,93,38409
+2024-02-07,Bangalore,South Indian,99,31581
+2024-02-07,Bangalore,Chinese,81,28593
+2024-02-07,Bangalore,Fast Food,95,43225
+2024-02-07,Bangalore,Biryani,96,46848
+2024-02-07,Delhi,North Indian,102,45288
+2024-02-07,Delhi,South Indian,136,28288
+2024-02-07,Delhi,Chinese,91,32123
+2024-02-07,Delhi,Fast Food,129,45021
+2024-02-07,Delhi,Biryani,99,27126
+2024-02-08,Indore,North Indian,76,35112
+2024-02-08,Indore,South Indian,65,15015
+2024-02-08,Indore,Chinese,52,20436
+2024-02-08,Indore,Fast Food,80,31120
+2024-02-08,Indore,Biryani,69,33120
+2024-02-08,Bhopal,North Indian,113,52093
+2024-02-08,Bhopal,South Indian,147,42336
+2024-02-08,Bhopal,Chinese,87,29754
+2024-02-08,Bhopal,Fast Food,169,75374
+2024-02-08,Bhopal,Biryani,115,49795
+2024-02-08,Bangalore,North Indian,63,18900
+2024-02-08,Bangalore,South Indian,60,16500
+2024-02-08,Bangalore,Chinese,93,18972
+2024-02-08,Bangalore,Fast Food,93,23343
+2024-02-08,Bangalore,Biryani,77,33187
+2024-02-08,Delhi,North Indian,91,20202
+2024-02-08,Delhi,South Indian,55,26180
+2024-02-08,Delhi,Chinese,53,11554
+2024-02-08,Delhi,Fast Food,56,14280
+2024-02-08,Delhi,Biryani,66,32010
+2024-02-09,Indore,North Indian,56,16576
+2024-02-09,Indore,South Indian,41,17548
+2024-02-09,Indore,Chinese,60,28440
+2024-02-09,Indore,Fast Food,60,25560
+2024-02-09,Indore,Biryani,58,13978
+2024-02-09,Bhopal,North Indian,86,32938
+2024-02-09,Bhopal,South Indian,98,43904
+2024-02-09,Bhopal,Chinese,58,12702
+2024-02-09,Bhopal,Fast Food,73,15987
+2024-02-09,Bhopal,Biryani,93,31713
+2024-02-09,Bangalore,North Indian,58,21692
+2024-02-09,Bangalore,South Indian,86,26918
+2024-02-09,Bangalore,Chinese,58,22620
+2024-02-09,Bangalore,Fast Food,63,20160
+2024-02-09,Bangalore,Biryani,92,21160
+2024-02-09,Delhi,North Indian,50,18050
+2024-02-09,Delhi,South Indian,83,34528
+2024-02-09,Delhi,Chinese,97,28324
+2024-02-09,Delhi,Fast Food,73,31901
+2024-02-09,Delhi,Biryani,72,26208
+2024-02-10,Indore,North Indian,98,47334
+2024-02-10,Indore,South Indian,73,14819
+2024-02-10,Indore,Chinese,53,23108
+2024-02-10,Indore,Fast Food,79,25754
+2024-02-10,Indore,Biryani,76,31160
+2024-02-10,Bhopal,North Indian,61,24827
+2024-02-10,Bhopal,South Indian,98,26264
+2024-02-10,Bhopal,Chinese,64,26432
+2024-02-10,Bhopal,Fast Food,98,35280
+2024-02-10,Bhopal,Biryani,94,28200
+2024-02-10,Bangalore,North Indian,65,30940
+2024-02-10,Bangalore,South Indian,74,27898
+2024-02-10,Bangalore,Chinese,67,28475
+2024-02-10,Bangalore,Fast Food,58,21460
+2024-02-10,Bangalore,Biryani,73,35332
+2024-02-10,Delhi,North Indian,63,15120
+2024-02-10,Delhi,South Indian,93,20925
+2024-02-10,Delhi,Chinese,51,12801
+2024-02-10,Delhi,Fast Food,91,26845
+2024-02-10,Delhi,Biryani,60,16620
+2024-02-11,Indore,North Indian,127,51562
+2024-02-11,Indore,South Indian,85,32555
+2024-02-11,Indore,Chinese,79,29388
+2024-02-11,Indore,Fast Food,131,36811
+2024-02-11,Indore,Biryani,87,29406
+2024-02-11,Bhopal,North Indian,55,25960
+2024-02-11,Bhopal,South Indian,44,13508
+2024-02-11,Bhopal,Chinese,75,24525
+2024-02-11,Bhopal,Fast Food,67,13601
+2024-02-11,Bhopal,Biryani,49,18081
+2024-02-11,Bangalore,North Indian,55,17105
+2024-02-11,Bangalore,South Indian,64,20288
+2024-02-11,Bangalore,Chinese,74,30266
+2024-02-11,Bangalore,Fast Food,73,27594
+2024-02-11,Bangalore,Biryani,48,9888
+2024-02-11,Delhi,North Indian,85,25415
+2024-02-11,Delhi,South Indian,71,14555
+2024-02-11,Delhi,Chinese,70,22470
+2024-02-11,Delhi,Fast Food,66,23628
+2024-02-11,Delhi,Biryani,67,21172
+2024-02-12,Indore,North Indian,67,15209
+2024-02-12,Indore,South Indian,85,23460
+2024-02-12,Indore,Chinese,99,20592
+2024-02-12,Indore,Fast Food,75,33600
+2024-02-12,Indore,Biryani,60,12180
+2024-02-12,Bhopal,North Indian,76,30172
+2024-02-12,Bhopal,South Indian,76,19000
+2024-02-12,Bhopal,Chinese,74,31524
+2024-02-12,Bhopal,Fast Food,70,33670
+2024-02-12,Bhopal,Biryani,40,19240
+2024-02-12,Bangalore,North Indian,85,40545
+2024-02-12,Bangalore,South Indian,74,19240
+2024-02-12,Bangalore,Chinese,86,36292
+2024-02-12,Bangalore,Fast Food,79,22910
+2024-02-12,Bangalore,Biryani,90,29070
+2024-02-12,Delhi,North Indian,100,37400
+2024-02-12,Delhi,South Indian,81,34101
+2024-02-12,Delhi,Chinese,139,42673
+2024-02-12,Delhi,Fast Food,102,43044
+2024-02-12,Delhi,Biryani,141,66552
+2024-02-13,Indore,North Indian,63,16128
+2024-02-13,Indore,South Indian,90,23220
+2024-02-13,Indore,Chinese,54,19440
+2024-02-13,Indore,Fast Food,59,12508
+2024-02-13,Indore,Biryani,51,23511
+2024-02-13,Bhopal,North Indian,99,26730
+2024-02-13,Bhopal,South Indian,63,26901
+2024-02-13,Bhopal,Chinese,66,20922
+2024-02-13,Bhopal,Fast Food,54,24084
+2024-02-13,Bhopal,Biryani,86,36808
+2024-02-13,Bangalore,North Indian,93,28179
+2024-02-13,Bangalore,South Indian,87,17922
+2024-02-13,Bangalore,Chinese,64,30848
+2024-02-13,Bangalore,Fast Food,61,21960
+2024-02-13,Bangalore,Biryani,82,36818
+2024-02-13,Delhi,North Indian,98,47236
+2024-02-13,Delhi,South Indian,93,31806
+2024-02-13,Delhi,Chinese,57,18468
+2024-02-13,Delhi,Fast Food,71,25063
+2024-02-13,Delhi,Biryani,63,18081
+2024-02-14,Indore,North Indian,115,27140
+2024-02-14,Indore,South Indian,136,67184
+2024-02-14,Indore,Chinese,99,22671
+2024-02-14,Indore,Fast Food,136,29376
+2024-02-14,Indore,Biryani,76,28348
+2024-02-14,Bhopal,North Indian,70,18830
+2024-02-14,Bhopal,South Indian,58,17168
+2024-02-14,Bhopal,Chinese,58,16530
+2024-02-14,Bhopal,Fast Food,78,22230
+2024-02-14,Bhopal,Biryani,83,33449
+2024-02-14,Bangalore,North Indian,57,25251
+2024-02-14,Bangalore,South Indian,50,18950
+2024-02-14,Bangalore,Chinese,53,11183
+2024-02-14,Bangalore,Fast Food,99,38709
+2024-02-14,Bangalore,Biryani,79,31837
+2024-02-14,Delhi,North Indian,49,20041
+2024-02-14,Delhi,South Indian,49,10927
+2024-02-14,Delhi,Chinese,76,16948
+2024-02-14,Delhi,Fast Food,51,14178
+2024-02-14,Delhi,Biryani,76,23636
+2024-02-15,Indore,North Indian,91,29666
+2024-02-15,Indore,South Indian,55,22220
+2024-02-15,Indore,Chinese,65,23205
+2024-02-15,Indore,Fast Food,69,18492
+2024-02-15,Indore,Biryani,62,25296
+2024-02-15,Bhopal,North Indian,95,21850
+2024-02-15,Bhopal,South Indian,85,19040
+2024-02-15,Bhopal,Chinese,76,20824
+2024-02-15,Bhopal,Fast Food,88,39072
+2024-02-15,Bhopal,Biryani,83,39508
+2024-02-15,Bangalore,North Indian,97,35114
+2024-02-15,Bangalore,South Indian,56,19432
+2024-02-15,Bangalore,Chinese,62,19344
+2024-02-15,Bangalore,Fast Food,90,41670
+2024-02-15,Bangalore,Biryani,89,22873
+2024-02-15,Delhi,North Indian,89,41474
+2024-02-15,Delhi,South Indian,65,28145
+2024-02-15,Delhi,Chinese,92,28612
+2024-02-15,Delhi,Fast Food,94,21620
+2024-02-15,Delhi,Biryani,76,25536
+2024-02-16,Indore,North Indian,80,37600
+2024-02-16,Indore,South Indian,83,35358
+2024-02-16,Indore,Chinese,92,31464
+2024-02-16,Indore,Fast Food,74,30562
+2024-02-16,Indore,Biryani,83,27556
+2024-02-16,Bhopal,North Indian,76,21584
+2024-02-16,Bhopal,South Indian,49,18571
+2024-02-16,Bhopal,Chinese,71,20590
+2024-02-16,Bhopal,Fast Food,44,10076
+2024-02-16,Bhopal,Biryani,51,15147
+2024-02-16,Bangalore,North Indian,111,44178
+2024-02-16,Bangalore,South Indian,84,41328
+2024-02-16,Bangalore,Chinese,87,33756
+2024-02-16,Bangalore,Fast Food,142,70006
+2024-02-16,Bangalore,Biryani,81,38961
+2024-02-16,Delhi,North Indian,50,16300
+2024-02-16,Delhi,South Indian,78,29016
+2024-02-16,Delhi,Chinese,70,15540
+2024-02-16,Delhi,Fast Food,51,15300
+2024-02-16,Delhi,Biryani,73,26061
+2024-02-17,Indore,North Indian,124,42036
+2024-02-17,Indore,South Indian,100,33600
+2024-02-17,Indore,Chinese,117,41184
+2024-02-17,Indore,Fast Food,178,55180
+2024-02-17,Indore,Biryani,81,17658
+2024-02-17,Bhopal,North Indian,86,26230
+2024-02-17,Bhopal,South Indian,94,21714
+2024-02-17,Bhopal,Chinese,55,25465
+2024-02-17,Bhopal,Fast Food,81,39609
+2024-02-17,Bhopal,Biryani,55,18480
+2024-02-17,Bangalore,North Indian,80,16960
+2024-02-17,Bangalore,South Indian,50,20000
+2024-02-17,Bangalore,Chinese,62,16802
+2024-02-17,Bangalore,Fast Food,92,33488
+2024-02-17,Bangalore,Biryani,65,18005
+2024-02-17,Delhi,North Indian,72,16632
+2024-02-17,Delhi,South Indian,86,21242
+2024-02-17,Delhi,Chinese,90,25830
+2024-02-17,Delhi,Fast Food,57,14820
+2024-02-17,Delhi,Biryani,80,38000
+2024-02-18,Indore,North Indian,59,21948
+2024-02-18,Indore,South Indian,45,12735
+2024-02-18,Indore,Chinese,63,27342
+2024-02-18,Indore,Fast Food,63,24885
+2024-02-18,Indore,Biryani,49,19404
+2024-02-18,Bhopal,North Indian,89,33197
+2024-02-18,Bhopal,South Indian,57,28329
+2024-02-18,Bhopal,Chinese,88,37752
+2024-02-18,Bhopal,Fast Food,89,42631
+2024-02-18,Bhopal,Biryani,62,27280
+2024-02-18,Bangalore,North Indian,70,27020
+2024-02-18,Bangalore,South Indian,91,22477
+2024-02-18,Bangalore,Chinese,69,29463
+2024-02-18,Bangalore,Fast Food,50,10250
+2024-02-18,Bangalore,Biryani,98,37436
+2024-02-18,Delhi,North Indian,92,22080
+2024-02-18,Delhi,South Indian,95,31825
+2024-02-18,Delhi,Chinese,64,18368
+2024-02-18,Delhi,Fast Food,93,29853
+2024-02-18,Delhi,Biryani,76,17936
+2024-02-19,Indore,North Indian,54,18576
+2024-02-19,Indore,South Indian,94,29516
+2024-02-19,Indore,Chinese,96,35712
+2024-02-19,Indore,Fast Food,97,28130
+2024-02-19,Indore,Biryani,70,22400
+2024-02-19,Bhopal,North Indian,82,34522
+2024-02-19,Bhopal,South Indian,71,15052
+2024-02-19,Bhopal,Chinese,71,24708
+2024-02-19,Bhopal,Fast Food,97,43068
+2024-02-19,Bhopal,Biryani,59,27258
+2024-02-19,Bangalore,North Indian,59,25252
+2024-02-19,Bangalore,South Indian,93,21111
+2024-02-19,Bangalore,Chinese,90,29610
+2024-02-19,Bangalore,Fast Food,92,35788
+2024-02-19,Bangalore,Biryani,61,14457
+2024-02-19,Delhi,North Indian,64,18304
+2024-02-19,Delhi,South Indian,87,40629
+2024-02-19,Delhi,Chinese,99,36828
+2024-02-19,Delhi,Fast Food,72,22680
+2024-02-19,Delhi,Biryani,74,31228
+2024-02-20,Indore,North Indian,51,16881
+2024-02-20,Indore,South Indian,62,16430
+2024-02-20,Indore,Chinese,52,22360
+2024-02-20,Indore,Fast Food,57,23655
+2024-02-20,Indore,Biryani,83,27805
+2024-02-20,Bhopal,North Indian,93,34038
+2024-02-20,Bhopal,South Indian,57,15789
+2024-02-20,Bhopal,Chinese,72,32472
+2024-02-20,Bhopal,Fast Food,51,10353
+2024-02-20,Bhopal,Biryani,53,15582
+2024-02-20,Bangalore,North Indian,176,76384
+2024-02-20,Bangalore,South Indian,84,21252
+2024-02-20,Bangalore,Chinese,99,32373
+2024-02-20,Bangalore,Fast Food,131,58819
+2024-02-20,Bangalore,Biryani,139,63384
+2024-02-20,Delhi,North Indian,75,31125
+2024-02-20,Delhi,South Indian,70,25270
+2024-02-20,Delhi,Chinese,54,19278
+2024-02-20,Delhi,Fast Food,88,22880
+2024-02-20,Delhi,Biryani,51,24582
+2024-02-21,Indore,North Indian,52,13312
+2024-02-21,Indore,South Indian,64,20864
+2024-02-21,Indore,Chinese,91,18928
+2024-02-21,Indore,Fast Food,65,29315
+2024-02-21,Indore,Biryani,62,18972
+2024-02-21,Bhopal,North Indian,72,24624
+2024-02-21,Bhopal,South Indian,59,25311
+2024-02-21,Bhopal,Chinese,94,33652
+2024-02-21,Bhopal,Fast Food,91,38584
+2024-02-21,Bhopal,Biryani,60,19380
+2024-02-21,Bangalore,North Indian,113,33222
+2024-02-21,Bangalore,South Indian,82,40426
+2024-02-21,Bangalore,Chinese,136,28016
+2024-02-21,Bangalore,Fast Food,129,30960
+2024-02-21,Bangalore,Biryani,112,35056
+2024-02-21,Delhi,North Indian,60,18720
+2024-02-21,Delhi,South Indian,69,14766
+2024-02-21,Delhi,Chinese,98,38808
+2024-02-21,Delhi,Fast Food,58,19024
+2024-02-21,Delhi,Biryani,92,37812
+2024-02-22,Indore,North Indian,93,21297
+2024-02-22,Indore,South Indian,132,60720
+2024-02-22,Indore,Chinese,81,18792
+2024-02-22,Indore,Fast Food,95,34295
+2024-02-22,Indore,Biryani,142,64042
+2024-02-22,Bhopal,North Indian,56,27440
+2024-02-22,Bhopal,South Indian,59,21948
+2024-02-22,Bhopal,Chinese,54,23544
+2024-02-22,Bhopal,Fast Food,80,20880
+2024-02-22,Bhopal,Biryani,55,16555
+2024-02-22,Bangalore,North Indian,174,42804
+2024-02-22,Bangalore,South Indian,133,35245
+2024-02-22,Bangalore,Chinese,127,26797
+2024-02-22,Bangalore,Fast Food,162,38070
+2024-02-22,Bangalore,Biryani,96,31872
+2024-02-22,Delhi,North Indian,149,64219
+2024-02-22,Delhi,South Indian,93,19623
+2024-02-22,Delhi,Chinese,117,44928
+2024-02-22,Delhi,Fast Food,113,37516
+2024-02-22,Delhi,Biryani,136,49504
+2024-02-23,Indore,North Indian,56,27888
+2024-02-23,Indore,South Indian,43,16168
+2024-02-23,Indore,Chinese,72,23904
+2024-02-23,Indore,Fast Food,72,19656
+2024-02-23,Indore,Biryani,59,13688
+2024-02-23,Bhopal,North Indian,75,24375
+2024-02-23,Bhopal,South Indian,90,39150
+2024-02-23,Bhopal,Chinese,80,36880
+2024-02-23,Bhopal,Fast Food,66,29238
+2024-02-23,Bhopal,Biryani,74,25308
+2024-02-23,Bangalore,North Indian,79,18565
+2024-02-23,Bangalore,South Indian,50,16100
+2024-02-23,Bangalore,Chinese,63,12789
+2024-02-23,Bangalore,Fast Food,66,31878
+2024-02-23,Bangalore,Biryani,70,27300
+2024-02-23,Delhi,North Indian,96,33120
+2024-02-23,Delhi,South Indian,84,36624
+2024-02-23,Delhi,Chinese,97,22698
+2024-02-23,Delhi,Fast Food,99,30789
+2024-02-23,Delhi,Biryani,83,27888
+2024-02-24,Indore,North Indian,63,25704
+2024-02-24,Indore,South Indian,58,20068
+2024-02-24,Indore,Chinese,72,14832
+2024-02-24,Indore,Fast Food,74,35298
+2024-02-24,Indore,Biryani,68,23460
+2024-02-24,Bhopal,North Indian,63,24948
+2024-02-24,Bhopal,South Indian,84,24864
+2024-02-24,Bhopal,Chinese,66,28908
+2024-02-24,Bhopal,Fast Food,55,12650
+2024-02-24,Bhopal,Biryani,84,37044
+2024-02-24,Bangalore,North Indian,96,37536
+2024-02-24,Bangalore,South Indian,50,21550
+2024-02-24,Bangalore,Chinese,65,14495
+2024-02-24,Bangalore,Fast Food,67,29815
+2024-02-24,Bangalore,Biryani,98,38514
+2024-02-24,Delhi,North Indian,60,18960
+2024-02-24,Delhi,South Indian,71,20235
+2024-02-24,Delhi,Chinese,90,20610
+2024-02-24,Delhi,Fast Food,63,26460
+2024-02-24,Delhi,Biryani,75,33525
+2024-02-25,Indore,North Indian,67,21105
+2024-02-25,Indore,South Indian,54,22572
+2024-02-25,Indore,Chinese,68,20400
+2024-02-25,Indore,Fast Food,76,21432
+2024-02-25,Indore,Biryani,55,16500
+2024-02-25,Bhopal,North Indian,93,45942
+2024-02-25,Bhopal,South Indian,87,31842
+2024-02-25,Bhopal,Chinese,51,24531
+2024-02-25,Bhopal,Fast Food,90,41040
+2024-02-25,Bhopal,Biryani,95,25270
+2024-02-25,Bangalore,North Indian,95,31920
+2024-02-25,Bangalore,South Indian,79,17222
+2024-02-25,Bangalore,Chinese,71,22081
+2024-02-25,Bangalore,Fast Food,86,30874
+2024-02-25,Bangalore,Biryani,53,21942
+2024-02-25,Delhi,North Indian,54,25758
+2024-02-25,Delhi,South Indian,58,27028
+2024-02-25,Delhi,Chinese,88,31768
+2024-02-25,Delhi,Fast Food,65,25220
+2024-02-25,Delhi,Biryani,66,21846
+2024-02-26,Indore,North Indian,82,19598
+2024-02-26,Indore,South Indian,88,41888
+2024-02-26,Indore,Chinese,99,40590
+2024-02-26,Indore,Fast Food,96,22368
+2024-02-26,Indore,Biryani,99,38709
+2024-02-26,Bhopal,North Indian,176,51216
+2024-02-26,Bhopal,South Indian,118,50976
+2024-02-26,Bhopal,Chinese,100,35100
+2024-02-26,Bhopal,Fast Food,91,18564
+2024-02-26,Bhopal,Biryani,132,63096
+2024-02-26,Bangalore,North Indian,50,16200
+2024-02-26,Bangalore,South Indian,60,17100
+2024-02-26,Bangalore,Chinese,57,11628
+2024-02-26,Bangalore,Fast Food,56,14952
+2024-02-26,Bangalore,Biryani,68,23120
+2024-02-26,Delhi,North Indian,54,14742
+2024-02-26,Delhi,South Indian,73,24382
+2024-02-26,Delhi,Chinese,70,23590
+2024-02-26,Delhi,Fast Food,89,37024
+2024-02-26,Delhi,Biryani,81,29970
+2024-02-27,Indore,North Indian,61,29829
+2024-02-27,Indore,South Indian,91,23933
+2024-02-27,Indore,Chinese,88,25872
+2024-02-27,Indore,Fast Food,85,28220
+2024-02-27,Indore,Biryani,92,33948
+2024-02-27,Bhopal,North Indian,59,22774
+2024-02-27,Bhopal,South Indian,58,28594
+2024-02-27,Bhopal,Chinese,68,25228
+2024-02-27,Bhopal,Fast Food,64,21312
+2024-02-27,Bhopal,Biryani,88,24728
+2024-02-27,Bangalore,North Indian,61,21106
+2024-02-27,Bangalore,South Indian,54,15120
+2024-02-27,Bangalore,Chinese,89,25009
+2024-02-27,Bangalore,Fast Food,81,36774
+2024-02-27,Bangalore,Biryani,62,30504
+2024-02-27,Delhi,North Indian,93,42687
+2024-02-27,Delhi,South Indian,73,32996
+2024-02-27,Delhi,Chinese,64,30784
+2024-02-27,Delhi,Fast Food,93,20460
+2024-02-27,Delhi,Biryani,86,21500
+2024-02-28,Indore,North Indian,45,22455
+2024-02-28,Indore,South Indian,40,9040
+2024-02-28,Indore,Chinese,46,19780
+2024-02-28,Indore,Fast Food,72,31248
+2024-02-28,Indore,Biryani,52,23504
+2024-02-28,Bhopal,North Indian,77,18480
+2024-02-28,Bhopal,South Indian,84,21504
+2024-02-28,Bhopal,Chinese,66,24486
+2024-02-28,Bhopal,Fast Food,59,13216
+2024-02-28,Bhopal,Biryani,81,37017
+2024-02-28,Bangalore,North Indian,74,18130
+2024-02-28,Bangalore,South Indian,89,33998
+2024-02-28,Bangalore,Chinese,94,30362
+2024-02-28,Bangalore,Fast Food,51,17442
+2024-02-28,Bangalore,Biryani,82,21320
+2024-02-28,Delhi,North Indian,68,18224
+2024-02-28,Delhi,South Indian,53,13621
+2024-02-28,Delhi,Chinese,53,18232
+2024-02-28,Delhi,Fast Food,75,28275
+2024-02-28,Delhi,Biryani,90,36180
+2024-02-29,Indore,North Indian,97,20273
+2024-02-29,Indore,South Indian,112,43344
+2024-02-29,Indore,Chinese,106,51516
+2024-02-29,Indore,Fast Food,147,42189
+2024-02-29,Indore,Biryani,94,25662
+2024-02-29,Bhopal,North Indian,169,61347
+2024-02-29,Bhopal,South Indian,99,19800
+2024-02-29,Bhopal,Chinese,79,26702
+2024-02-29,Bhopal,Fast Food,120,50880
+2024-02-29,Bhopal,Biryani,141,47376
+2024-02-29,Bangalore,North Indian,106,45686
+2024-02-29,Bangalore,South Indian,129,58824
+2024-02-29,Bangalore,Chinese,148,62456
+2024-02-29,Bangalore,Fast Food,135,55215
+2024-02-29,Bangalore,Biryani,85,34935
+2024-02-29,Delhi,North Indian,52,17888
+2024-02-29,Delhi,South Indian,80,28320
+2024-02-29,Delhi,Chinese,96,36480
+2024-02-29,Delhi,Fast Food,67,23316
+2024-02-29,Delhi,Biryani,86,38442
+2024-03-01,Indore,North Indian,80,23760
+2024-03-01,Indore,South Indian,93,21204
+2024-03-01,Indore,Chinese,77,37114
+2024-03-01,Indore,Fast Food,63,20412
+2024-03-01,Indore,Biryani,76,24472
+2024-03-01,Bhopal,North Indian,87,31755
+2024-03-01,Bhopal,South Indian,72,22752
+2024-03-01,Bhopal,Chinese,75,18450
+2024-03-01,Bhopal,Fast Food,52,23036
+2024-03-01,Bhopal,Biryani,54,18846
+2024-03-01,Bangalore,North Indian,57,12654
+2024-03-01,Bangalore,South Indian,54,25488
+2024-03-01,Bangalore,Chinese,73,15622
+2024-03-01,Bangalore,Fast Food,99,45342
+2024-03-01,Bangalore,Biryani,83,38097
+2024-03-01,Delhi,North Indian,85,27540
+2024-03-01,Delhi,South Indian,97,30846
+2024-03-01,Delhi,Chinese,57,21090
+2024-03-01,Delhi,Fast Food,98,31164
+2024-03-01,Delhi,Biryani,69,20010
+2024-03-02,Indore,North Indian,63,12852
+2024-03-02,Indore,South Indian,84,17472
+2024-03-02,Indore,Chinese,97,21922
+2024-03-02,Indore,Fast Food,79,25991
+2024-03-02,Indore,Biryani,79,36024
+2024-03-02,Bhopal,North Indian,78,25428
+2024-03-02,Bhopal,South Indian,81,31671
+2024-03-02,Bhopal,Chinese,55,21560
+2024-03-02,Bhopal,Fast Food,99,36630
+2024-03-02,Bhopal,Biryani,53,20246
+2024-03-02,Bangalore,North Indian,80,34880
+2024-03-02,Bangalore,South Indian,90,43470
+2024-03-02,Bangalore,Chinese,78,16692
+2024-03-02,Bangalore,Fast Food,75,26550
+2024-03-02,Bangalore,Biryani,73,23506
+2024-03-02,Delhi,North Indian,90,23940
+2024-03-02,Delhi,South Indian,62,15376
+2024-03-02,Delhi,Chinese,85,25585
+2024-03-02,Delhi,Fast Food,71,26483
+2024-03-02,Delhi,Biryani,98,46844
+2024-03-03,Indore,North Indian,64,20288
+2024-03-03,Indore,South Indian,80,38480
+2024-03-03,Indore,Chinese,64,20672
+2024-03-03,Indore,Fast Food,51,16371
+2024-03-03,Indore,Biryani,85,22780
+2024-03-03,Bhopal,North Indian,117,41301
+2024-03-03,Bhopal,South Indian,141,67680
+2024-03-03,Bhopal,Chinese,93,37758
+2024-03-03,Bhopal,Fast Food,126,36666
+2024-03-03,Bhopal,Biryani,127,63119
+2024-03-03,Bangalore,North Indian,98,22344
+2024-03-03,Bangalore,South Indian,75,21900
+2024-03-03,Bangalore,Chinese,90,30330
+2024-03-03,Bangalore,Fast Food,60,29760
+2024-03-03,Bangalore,Biryani,60,13920
+2024-03-03,Delhi,North Indian,95,28500
+2024-03-03,Delhi,South Indian,98,35574
+2024-03-03,Delhi,Chinese,58,13572
+2024-03-03,Delhi,Fast Food,84,24024
+2024-03-03,Delhi,Biryani,98,45668
+2024-03-04,Indore,North Indian,82,34440
+2024-03-04,Indore,South Indian,61,17324
+2024-03-04,Indore,Chinese,96,43872
+2024-03-04,Indore,Fast Food,64,14848
+2024-03-04,Indore,Biryani,89,31150
+2024-03-04,Bhopal,North Indian,57,13167
+2024-03-04,Bhopal,South Indian,70,29260
+2024-03-04,Bhopal,Chinese,71,18531
+2024-03-04,Bhopal,Fast Food,55,20460
+2024-03-04,Bhopal,Biryani,55,22605
+2024-03-04,Bangalore,North Indian,68,33728
+2024-03-04,Bangalore,South Indian,60,14400
+2024-03-04,Bangalore,Chinese,75,20625
+2024-03-04,Bangalore,Fast Food,54,22950
+2024-03-04,Bangalore,Biryani,66,20526
+2024-03-04,Delhi,North Indian,95,38855
+2024-03-04,Delhi,South Indian,85,17170
+2024-03-04,Delhi,Chinese,50,14600
+2024-03-04,Delhi,Fast Food,86,34830
+2024-03-04,Delhi,Biryani,98,21756
+2024-03-05,Indore,North Indian,135,29430
+2024-03-05,Indore,South Indian,81,26892
+2024-03-05,Indore,Chinese,88,43472
+2024-03-05,Indore,Fast Food,127,60960
+2024-03-05,Indore,Biryani,130,33540
+2024-03-05,Bhopal,North Indian,57,16530
+2024-03-05,Bhopal,South Indian,68,25092
+2024-03-05,Bhopal,Chinese,67,30552
+2024-03-05,Bhopal,Fast Food,69,28566
+2024-03-05,Bhopal,Biryani,72,32472
+2024-03-05,Bangalore,North Indian,52,11388
+2024-03-05,Bangalore,South Indian,61,20252
+2024-03-05,Bangalore,Chinese,76,32072
+2024-03-05,Bangalore,Fast Food,60,15000
+2024-03-05,Bangalore,Biryani,66,28908
+2024-03-05,Delhi,North Indian,87,39672
+2024-03-05,Delhi,South Indian,98,34496
+2024-03-05,Delhi,Chinese,85,39780
+2024-03-05,Delhi,Fast Food,57,18753
+2024-03-05,Delhi,Biryani,84,17220
+2024-03-06,Indore,North Indian,81,21465
+2024-03-06,Indore,South Indian,58,25694
+2024-03-06,Indore,Chinese,71,19383
+2024-03-06,Indore,Fast Food,79,23305
+2024-03-06,Indore,Biryani,88,27632
+2024-03-06,Bhopal,North Indian,117,56511
+2024-03-06,Bhopal,South Indian,90,38070
+2024-03-06,Bhopal,Chinese,127,27686
+2024-03-06,Bhopal,Fast Food,95,39235
+2024-03-06,Bhopal,Biryani,114,27588
+2024-03-06,Bangalore,North Indian,60,19740
+2024-03-06,Bangalore,South Indian,52,17732
+2024-03-06,Bangalore,Chinese,59,12154
+2024-03-06,Bangalore,Fast Food,59,12331
+2024-03-06,Bangalore,Biryani,63,15876
+2024-03-06,Delhi,North Indian,96,40704
+2024-03-06,Delhi,South Indian,84,29820
+2024-03-06,Delhi,Chinese,76,33364
+2024-03-06,Delhi,Fast Food,68,27540
+2024-03-06,Delhi,Biryani,71,28968
+2024-03-07,Indore,North Indian,138,42642
+2024-03-07,Indore,South Indian,82,32062
+2024-03-07,Indore,Chinese,100,39000
+2024-03-07,Indore,Fast Food,115,28060
+2024-03-07,Indore,Biryani,91,25025
+2024-03-07,Bhopal,North Indian,160,51680
+2024-03-07,Bhopal,South Indian,117,30420
+2024-03-07,Bhopal,Chinese,132,56496
+2024-03-07,Bhopal,Fast Food,176,80960
+2024-03-07,Bhopal,Biryani,124,30876
+2024-03-07,Bangalore,North Indian,136,33592
+2024-03-07,Bangalore,South Indian,117,48555
+2024-03-07,Bangalore,Chinese,81,33777
+2024-03-07,Bangalore,Fast Food,135,43200
+2024-03-07,Bangalore,Biryani,138,52992
+2024-03-07,Delhi,North Indian,124,35836
+2024-03-07,Delhi,South Indian,79,39105
+2024-03-07,Delhi,Chinese,139,47955
+2024-03-07,Delhi,Fast Food,122,43920
+2024-03-07,Delhi,Biryani,127,58039
+2024-03-08,Indore,North Indian,75,17775
+2024-03-08,Indore,South Indian,70,32130
+2024-03-08,Indore,Chinese,52,17992
+2024-03-08,Indore,Fast Food,59,15576
+2024-03-08,Indore,Biryani,92,41216
+2024-03-08,Bhopal,North Indian,78,25428
+2024-03-08,Bhopal,South Indian,69,20907
+2024-03-08,Bhopal,Chinese,92,22264
+2024-03-08,Bhopal,Fast Food,85,17000
+2024-03-08,Bhopal,Biryani,97,42680
+2024-03-08,Bangalore,North Indian,87,38541
+2024-03-08,Bangalore,South Indian,87,18531
+2024-03-08,Bangalore,Chinese,76,33820
+2024-03-08,Bangalore,Fast Food,86,38098
+2024-03-08,Bangalore,Biryani,90,19170
+2024-03-08,Delhi,North Indian,102,28050
+2024-03-08,Delhi,South Indian,114,31008
+2024-03-08,Delhi,Chinese,99,42471
+2024-03-08,Delhi,Fast Food,145,37845
+2024-03-08,Delhi,Biryani,126,52542
+2024-03-09,Indore,North Indian,86,29240
+2024-03-09,Indore,South Indian,87,22881
+2024-03-09,Indore,Chinese,85,28050
+2024-03-09,Indore,Fast Food,58,22156
+2024-03-09,Indore,Biryani,86,32078
+2024-03-09,Bhopal,North Indian,81,36288
+2024-03-09,Bhopal,South Indian,75,36225
+2024-03-09,Bhopal,Chinese,58,21518
+2024-03-09,Bhopal,Fast Food,98,31556
+2024-03-09,Bhopal,Biryani,65,27105
+2024-03-09,Bangalore,North Indian,76,32756
+2024-03-09,Bangalore,South Indian,40,10120
+2024-03-09,Bangalore,Chinese,78,29484
+2024-03-09,Bangalore,Fast Food,79,22041
+2024-03-09,Bangalore,Biryani,51,15453
+2024-03-09,Delhi,North Indian,99,21681
+2024-03-09,Delhi,South Indian,92,45540
+2024-03-09,Delhi,Chinese,88,18216
+2024-03-09,Delhi,Fast Food,61,14945
+2024-03-09,Delhi,Biryani,56,24864
+2024-03-10,Indore,North Indian,43,9030
+2024-03-10,Indore,South Indian,59,17169
+2024-03-10,Indore,Chinese,42,16884
+2024-03-10,Indore,Fast Food,52,20228
+2024-03-10,Indore,Biryani,55,24915
+2024-03-10,Bhopal,North Indian,174,63510
+2024-03-10,Bhopal,South Indian,121,38841
+2024-03-10,Bhopal,Chinese,115,33695
+2024-03-10,Bhopal,Fast Food,158,48822
+2024-03-10,Bhopal,Biryani,109,27795
+2024-03-10,Bangalore,North Indian,93,44454
+2024-03-10,Bangalore,South Indian,57,19722
+2024-03-10,Bangalore,Chinese,76,26904
+2024-03-10,Bangalore,Fast Food,91,22022
+2024-03-10,Bangalore,Biryani,56,12544
+2024-03-10,Delhi,North Indian,95,20805
+2024-03-10,Delhi,South Indian,78,19734
+2024-03-10,Delhi,Chinese,76,34884
+2024-03-10,Delhi,Fast Food,56,12712
+2024-03-10,Delhi,Biryani,84,38640
+2024-03-11,Indore,North Indian,61,17568
+2024-03-11,Indore,South Indian,62,29574
+2024-03-11,Indore,Chinese,74,26640
+2024-03-11,Indore,Fast Food,81,19521
+2024-03-11,Indore,Biryani,53,22525
+2024-03-11,Bhopal,North Indian,81,21708
+2024-03-11,Bhopal,South Indian,90,22410
+2024-03-11,Bhopal,Chinese,86,37840
+2024-03-11,Bhopal,Fast Food,92,40664
+2024-03-11,Bhopal,Biryani,50,13500
+2024-03-11,Bangalore,North Indian,73,27229
+2024-03-11,Bangalore,South Indian,77,28413
+2024-03-11,Bangalore,Chinese,71,23217
+2024-03-11,Bangalore,Fast Food,49,19012
+2024-03-11,Bangalore,Biryani,48,20256
+2024-03-11,Delhi,North Indian,108,36288
+2024-03-11,Delhi,South Indian,88,23936
+2024-03-11,Delhi,Chinese,85,20485
+2024-03-11,Delhi,Fast Food,165,41580
+2024-03-11,Delhi,Biryani,132,43560
+2024-03-12,Indore,North Indian,80,36400
+2024-03-12,Indore,South Indian,50,14400
+2024-03-12,Indore,Chinese,54,21924
+2024-03-12,Indore,Fast Food,55,23870
+2024-03-12,Indore,Biryani,65,26910
+2024-03-12,Bhopal,North Indian,69,24288
+2024-03-12,Bhopal,South Indian,82,23780
+2024-03-12,Bhopal,Chinese,97,29197
+2024-03-12,Bhopal,Fast Food,66,24684
+2024-03-12,Bhopal,Biryani,87,24621
+2024-03-12,Bangalore,North Indian,91,38584
+2024-03-12,Bangalore,South Indian,68,21352
+2024-03-12,Bangalore,Chinese,91,40950
+2024-03-12,Bangalore,Fast Food,58,12470
+2024-03-12,Bangalore,Biryani,85,24650
+2024-03-12,Delhi,North Indian,58,11774
+2024-03-12,Delhi,South Indian,56,21112
+2024-03-12,Delhi,Chinese,58,17574
+2024-03-12,Delhi,Fast Food,85,41905
+2024-03-12,Delhi,Biryani,88,20768
+2024-03-13,Indore,North Indian,40,18720
+2024-03-13,Indore,South Indian,60,19500
+2024-03-13,Indore,Chinese,46,19596
+2024-03-13,Indore,Fast Food,76,15808
+2024-03-13,Indore,Biryani,69,23322
+2024-03-13,Bhopal,North Indian,50,15200
+2024-03-13,Bhopal,South Indian,67,23383
+2024-03-13,Bhopal,Chinese,58,28826
+2024-03-13,Bhopal,Fast Food,54,18846
+2024-03-13,Bhopal,Biryani,57,17385
+2024-03-13,Bangalore,North Indian,51,23919
+2024-03-13,Bangalore,South Indian,56,24136
+2024-03-13,Bangalore,Chinese,50,24550
+2024-03-13,Bangalore,Fast Food,84,39564
+2024-03-13,Bangalore,Biryani,66,27654
+2024-03-13,Delhi,North Indian,72,21528
+2024-03-13,Delhi,South Indian,51,24021
+2024-03-13,Delhi,Chinese,68,21964
+2024-03-13,Delhi,Fast Food,91,42952
+2024-03-13,Delhi,Biryani,76,30932
+2024-03-14,Indore,North Indian,120,33480
+2024-03-14,Indore,South Indian,84,36372
+2024-03-14,Indore,Chinese,141,39057
+2024-03-14,Indore,Fast Food,106,38054
+2024-03-14,Indore,Biryani,97,40061
+2024-03-14,Bhopal,North Indian,50,21800
+2024-03-14,Bhopal,South Indian,98,45080
+2024-03-14,Bhopal,Chinese,59,23541
+2024-03-14,Bhopal,Fast Food,59,15399
+2024-03-14,Bhopal,Biryani,91,36218
+2024-03-14,Bangalore,North Indian,98,43316
+2024-03-14,Bangalore,South Indian,86,41882
+2024-03-14,Bangalore,Chinese,53,20935
+2024-03-14,Bangalore,Fast Food,66,15840
+2024-03-14,Bangalore,Biryani,52,12116
+2024-03-14,Delhi,North Indian,54,22518
+2024-03-14,Delhi,South Indian,51,12036
+2024-03-14,Delhi,Chinese,82,33128
+2024-03-14,Delhi,Fast Food,87,22533
+2024-03-14,Delhi,Biryani,98,30576
+2024-03-15,Indore,North Indian,144,46512
+2024-03-15,Indore,South Indian,145,61770
+2024-03-15,Indore,Chinese,117,52884
+2024-03-15,Indore,Fast Food,145,62785
+2024-03-15,Indore,Biryani,84,37548
+2024-03-15,Bhopal,North Indian,51,17340
+2024-03-15,Bhopal,South Indian,64,27776
+2024-03-15,Bhopal,Chinese,56,26320
+2024-03-15,Bhopal,Fast Food,64,28160
+2024-03-15,Bhopal,Biryani,60,21360
+2024-03-15,Bangalore,North Indian,81,39852
+2024-03-15,Bangalore,South Indian,55,24200
+2024-03-15,Bangalore,Chinese,53,24698
+2024-03-15,Bangalore,Fast Food,72,15336
+2024-03-15,Bangalore,Biryani,93,38595
+2024-03-15,Delhi,North Indian,65,25220
+2024-03-15,Delhi,South Indian,87,33147
+2024-03-15,Delhi,Chinese,64,16640
+2024-03-15,Delhi,Fast Food,69,20907
+2024-03-15,Delhi,Biryani,91,31941
+2024-03-16,Indore,North Indian,95,20140
+2024-03-16,Indore,South Indian,58,26390
+2024-03-16,Indore,Chinese,80,35840
+2024-03-16,Indore,Fast Food,52,17420
+2024-03-16,Indore,Biryani,87,39759
+2024-03-16,Bhopal,North Indian,129,62307
+2024-03-16,Bhopal,South Indian,142,39760
+2024-03-16,Bhopal,Chinese,105,39795
+2024-03-16,Bhopal,Fast Food,120,25440
+2024-03-16,Bhopal,Biryani,129,27348
+2024-03-16,Bangalore,North Indian,81,27783
+2024-03-16,Bangalore,South Indian,52,25636
+2024-03-16,Bangalore,Chinese,71,33512
+2024-03-16,Bangalore,Fast Food,69,27186
+2024-03-16,Bangalore,Biryani,81,19116
+2024-03-16,Delhi,North Indian,97,42001
+2024-03-16,Delhi,South Indian,98,24794
+2024-03-16,Delhi,Chinese,98,23226
+2024-03-16,Delhi,Fast Food,58,16472
+2024-03-16,Delhi,Biryani,92,24104
+2024-03-17,Indore,North Indian,73,25404
+2024-03-17,Indore,South Indian,75,21450
+2024-03-17,Indore,Chinese,88,25960
+2024-03-17,Indore,Fast Food,67,17688
+2024-03-17,Indore,Biryani,77,20020
+2024-03-17,Bhopal,North Indian,120,30720
+2024-03-17,Bhopal,South Indian,94,23970
+2024-03-17,Bhopal,Chinese,82,40016
+2024-03-17,Bhopal,Fast Food,160,64800
+2024-03-17,Bhopal,Biryani,100,26900
+2024-03-17,Bangalore,North Indian,90,32580
+2024-03-17,Bangalore,South Indian,86,38786
+2024-03-17,Bangalore,Chinese,86,22532
+2024-03-17,Bangalore,Fast Food,91,33943
+2024-03-17,Bangalore,Biryani,92,21804
+2024-03-17,Delhi,North Indian,61,17995
+2024-03-17,Delhi,South Indian,98,45668
+2024-03-17,Delhi,Chinese,87,32712
+2024-03-17,Delhi,Fast Food,97,37539
+2024-03-17,Delhi,Biryani,59,12449
+2024-03-18,Indore,North Indian,44,15972
+2024-03-18,Indore,South Indian,65,31915
+2024-03-18,Indore,Chinese,52,24804
+2024-03-18,Indore,Fast Food,72,30528
+2024-03-18,Indore,Biryani,77,28028
+2024-03-18,Bhopal,North Indian,140,53900
+2024-03-18,Bhopal,South Indian,87,35757
+2024-03-18,Bhopal,Chinese,94,41172
+2024-03-18,Bhopal,Fast Food,142,35926
+2024-03-18,Bhopal,Biryani,135,36450
+2024-03-18,Bangalore,North Indian,80,30800
+2024-03-18,Bangalore,South Indian,86,33540
+2024-03-18,Bangalore,Chinese,63,19026
+2024-03-18,Bangalore,Fast Food,93,28179
+2024-03-18,Bangalore,Biryani,53,20193
+2024-03-18,Delhi,North Indian,52,21372
+2024-03-18,Delhi,South Indian,64,23808
+2024-03-18,Delhi,Chinese,58,12528
+2024-03-18,Delhi,Fast Food,51,17187
+2024-03-18,Delhi,Biryani,74,29526
+2024-03-19,Indore,North Indian,86,36722
+2024-03-19,Indore,South Indian,93,43803
+2024-03-19,Indore,Chinese,94,44650
+2024-03-19,Indore,Fast Food,71,29252
+2024-03-19,Indore,Biryani,56,12712
+2024-03-19,Bhopal,North Indian,65,20410
+2024-03-19,Bhopal,South Indian,64,19200
+2024-03-19,Bhopal,Chinese,54,12420
+2024-03-19,Bhopal,Fast Food,78,36738
+2024-03-19,Bhopal,Biryani,59,27966
+2024-03-19,Bangalore,North Indian,160,53120
+2024-03-19,Bangalore,South Indian,145,33350
+2024-03-19,Bangalore,Chinese,76,29108
+2024-03-19,Bangalore,Fast Food,118,23718
+2024-03-19,Bangalore,Biryani,93,46221
+2024-03-19,Delhi,North Indian,54,12258
+2024-03-19,Delhi,South Indian,71,16969
+2024-03-19,Delhi,Chinese,73,25915
+2024-03-19,Delhi,Fast Food,59,21417
+2024-03-19,Delhi,Biryani,53,18179
+2024-03-20,Indore,North Indian,97,23474
+2024-03-20,Indore,South Indian,129,38442
+2024-03-20,Indore,Chinese,96,36480
+2024-03-20,Indore,Fast Food,111,25086
+2024-03-20,Indore,Biryani,91,30849
+2024-03-20,Bhopal,North Indian,83,40006
+2024-03-20,Bhopal,South Indian,88,25344
+2024-03-20,Bhopal,Chinese,68,26860
+2024-03-20,Bhopal,Fast Food,95,20330
+2024-03-20,Bhopal,Biryani,81,22842
+2024-03-20,Bangalore,North Indian,64,27456
+2024-03-20,Bangalore,South Indian,60,24600
+2024-03-20,Bangalore,Chinese,68,24684
+2024-03-20,Bangalore,Fast Food,97,22310
+2024-03-20,Bangalore,Biryani,90,44910
+2024-03-20,Delhi,North Indian,84,37128
+2024-03-20,Delhi,South Indian,79,19829
+2024-03-20,Delhi,Chinese,87,42543
+2024-03-20,Delhi,Fast Food,64,16064
+2024-03-20,Delhi,Biryani,62,27714
+2024-03-21,Indore,North Indian,52,14924
+2024-03-21,Indore,South Indian,77,20251
+2024-03-21,Indore,Chinese,67,25326
+2024-03-21,Indore,Fast Food,67,18157
+2024-03-21,Indore,Biryani,76,27588
+2024-03-21,Bhopal,North Indian,55,20240
+2024-03-21,Bhopal,South Indian,65,28275
+2024-03-21,Bhopal,Chinese,98,44394
+2024-03-21,Bhopal,Fast Food,76,24320
+2024-03-21,Bhopal,Biryani,60,27180
+2024-03-21,Bangalore,North Indian,93,36363
+2024-03-21,Bangalore,South Indian,72,14544
+2024-03-21,Bangalore,Chinese,66,13926
+2024-03-21,Bangalore,Fast Food,93,40548
+2024-03-21,Bangalore,Biryani,89,41563
+2024-03-21,Delhi,North Indian,126,58086
+2024-03-21,Delhi,South Indian,148,44400
+2024-03-21,Delhi,Chinese,111,50838
+2024-03-21,Delhi,Fast Food,95,28595
+2024-03-21,Delhi,Biryani,129,36894
+2024-03-22,Indore,North Indian,69,16008
+2024-03-22,Indore,South Indian,95,37430
+2024-03-22,Indore,Chinese,86,19952
+2024-03-22,Indore,Fast Food,72,23544
+2024-03-22,Indore,Biryani,52,22360
+2024-03-22,Bhopal,North Indian,87,36366
+2024-03-22,Bhopal,South Indian,70,30030
+2024-03-22,Bhopal,Chinese,84,41916
+2024-03-22,Bhopal,Fast Food,61,24522
+2024-03-22,Bhopal,Biryani,82,37802
+2024-03-22,Bangalore,North Indian,98,40768
+2024-03-22,Bangalore,South Indian,63,14490
+2024-03-22,Bangalore,Chinese,81,21303
+2024-03-22,Bangalore,Fast Food,62,18228
+2024-03-22,Bangalore,Biryani,93,41199
+2024-03-22,Delhi,North Indian,172,78948
+2024-03-22,Delhi,South Indian,81,34587
+2024-03-22,Delhi,Chinese,120,34920
+2024-03-22,Delhi,Fast Food,90,19620
+2024-03-22,Delhi,Biryani,91,31486
+2024-03-23,Indore,North Indian,93,44547
+2024-03-23,Indore,South Indian,72,31176
+2024-03-23,Indore,Chinese,65,29705
+2024-03-23,Indore,Fast Food,78,21294
+2024-03-23,Indore,Biryani,74,16502
+2024-03-23,Bhopal,North Indian,84,17388
+2024-03-23,Bhopal,South Indian,99,48807
+2024-03-23,Bhopal,Chinese,52,22828
+2024-03-23,Bhopal,Fast Food,59,13511
+2024-03-23,Bhopal,Biryani,65,30290
+2024-03-23,Bangalore,North Indian,60,12540
+2024-03-23,Bangalore,South Indian,77,33572
+2024-03-23,Bangalore,Chinese,58,12296
+2024-03-23,Bangalore,Fast Food,94,46624
+2024-03-23,Bangalore,Biryani,94,20868
+2024-03-23,Delhi,North Indian,91,24388
+2024-03-23,Delhi,South Indian,99,22869
+2024-03-23,Delhi,Chinese,53,12190
+2024-03-23,Delhi,Fast Food,85,41820
+2024-03-23,Delhi,Biryani,80,26000
+2024-03-24,Indore,North Indian,99,42372
+2024-03-24,Indore,South Indian,88,24464
+2024-03-24,Indore,Chinese,60,26160
+2024-03-24,Indore,Fast Food,72,31752
+2024-03-24,Indore,Biryani,57,12426
+2024-03-24,Bhopal,North Indian,68,19788
+2024-03-24,Bhopal,South Indian,75,15075
+2024-03-24,Bhopal,Chinese,69,14904
+2024-03-24,Bhopal,Fast Food,70,16100
+2024-03-24,Bhopal,Biryani,44,20284
+2024-03-24,Bangalore,North Indian,63,21357
+2024-03-24,Bangalore,South Indian,85,31450
+2024-03-24,Bangalore,Chinese,69,22080
+2024-03-24,Bangalore,Fast Food,56,22008
+2024-03-24,Bangalore,Biryani,75,26850
+2024-03-24,Delhi,North Indian,90,27540
+2024-03-24,Delhi,South Indian,75,18450
+2024-03-24,Delhi,Chinese,57,14478
+2024-03-24,Delhi,Fast Food,84,19404
+2024-03-24,Delhi,Biryani,57,27132
+2024-03-25,Indore,North Indian,70,33810
+2024-03-25,Indore,South Indian,46,12466
+2024-03-25,Indore,Chinese,58,24186
+2024-03-25,Indore,Fast Food,77,30184
+2024-03-25,Indore,Biryani,61,23058
+2024-03-25,Bhopal,North Indian,89,28569
+2024-03-25,Bhopal,South Indian,60,27480
+2024-03-25,Bhopal,Chinese,56,16688
+2024-03-25,Bhopal,Fast Food,99,33858
+2024-03-25,Bhopal,Biryani,89,32752
+2024-03-25,Bangalore,North Indian,54,16902
+2024-03-25,Bangalore,South Indian,87,30363
+2024-03-25,Bangalore,Chinese,76,27664
+2024-03-25,Bangalore,Fast Food,71,34009
+2024-03-25,Bangalore,Biryani,60,20760
+2024-03-25,Delhi,North Indian,94,20022
+2024-03-25,Delhi,South Indian,78,35334
+2024-03-25,Delhi,Chinese,53,19716
+2024-03-25,Delhi,Fast Food,85,17000
+2024-03-25,Delhi,Biryani,79,26939
+2024-03-26,Indore,North Indian,102,23460
+2024-03-26,Indore,South Indian,112,54656
+2024-03-26,Indore,Chinese,132,63624
+2024-03-26,Indore,Fast Food,99,34947
+2024-03-26,Indore,Biryani,82,33456
+2024-03-26,Bhopal,North Indian,98,48412
+2024-03-26,Bhopal,South Indian,95,32015
+2024-03-26,Bhopal,Chinese,96,46848
+2024-03-26,Bhopal,Fast Food,98,42042
+2024-03-26,Bhopal,Biryani,87,24273
+2024-03-26,Bangalore,North Indian,50,24400
+2024-03-26,Bangalore,South Indian,83,36105
+2024-03-26,Bangalore,Chinese,99,41382
+2024-03-26,Bangalore,Fast Food,61,28609
+2024-03-26,Bangalore,Biryani,75,27675
+2024-03-26,Delhi,North Indian,65,21645
+2024-03-26,Delhi,South Indian,62,22196
+2024-03-26,Delhi,Chinese,60,27480
+2024-03-26,Delhi,Fast Food,69,34431
+2024-03-26,Delhi,Biryani,97,37733
+2024-03-27,Indore,North Indian,98,48314
+2024-03-27,Indore,South Indian,75,35550
+2024-03-27,Indore,Chinese,93,43431
+2024-03-27,Indore,Fast Food,59,27258
+2024-03-27,Indore,Biryani,54,23652
+2024-03-27,Bhopal,North Indian,52,11908
+2024-03-27,Bhopal,South Indian,99,21978
+2024-03-27,Bhopal,Chinese,99,45738
+2024-03-27,Bhopal,Fast Food,78,21528
+2024-03-27,Bhopal,Biryani,56,17696
+2024-03-27,Bangalore,North Indian,94,28388
+2024-03-27,Bangalore,South Indian,93,38781
+2024-03-27,Bangalore,Chinese,85,19550
+2024-03-27,Bangalore,Fast Food,77,24563
+2024-03-27,Bangalore,Biryani,73,28981
+2024-03-27,Delhi,North Indian,73,26207
+2024-03-27,Delhi,South Indian,73,21681
+2024-03-27,Delhi,Chinese,55,11385
+2024-03-27,Delhi,Fast Food,70,24640
+2024-03-27,Delhi,Biryani,82,19352
+2024-03-28,Indore,North Indian,80,30800
+2024-03-28,Indore,South Indian,57,18468
+2024-03-28,Indore,Chinese,68,26180
+2024-03-28,Indore,Fast Food,96,38688
+2024-03-28,Indore,Biryani,94,39762
+2024-03-28,Bhopal,North Indian,67,19229
+2024-03-28,Bhopal,South Indian,63,19341
+2024-03-28,Bhopal,Chinese,50,18150
+2024-03-28,Bhopal,Fast Food,73,21827
+2024-03-28,Bhopal,Biryani,54,13554
+2024-03-28,Bangalore,North Indian,94,37882
+2024-03-28,Bangalore,South Indian,70,23170
+2024-03-28,Bangalore,Chinese,75,22425
+2024-03-28,Bangalore,Fast Food,76,17784
+2024-03-28,Bangalore,Biryani,78,25038
+2024-03-28,Delhi,North Indian,135,43605
+2024-03-28,Delhi,South Indian,96,44448
+2024-03-28,Delhi,Chinese,81,29403
+2024-03-28,Delhi,Fast Food,93,44547
+2024-03-28,Delhi,Biryani,124,35960
+2024-03-29,Indore,North Indian,63,20160
+2024-03-29,Indore,South Indian,54,11232
+2024-03-29,Indore,Chinese,74,20128
+2024-03-29,Indore,Fast Food,46,19090
+2024-03-29,Indore,Biryani,42,18522
+2024-03-29,Bhopal,North Indian,71,28187
+2024-03-29,Bhopal,South Indian,92,34500
+2024-03-29,Bhopal,Chinese,77,33495
+2024-03-29,Bhopal,Fast Food,66,15048
+2024-03-29,Bhopal,Biryani,67,23316
+2024-03-29,Bangalore,North Indian,84,41076
+2024-03-29,Bangalore,South Indian,90,29520
+2024-03-29,Bangalore,Chinese,97,33174
+2024-03-29,Bangalore,Fast Food,69,20907
+2024-03-29,Bangalore,Biryani,50,18500
+2024-03-29,Delhi,North Indian,83,40338
+2024-03-29,Delhi,South Indian,77,26411
+2024-03-29,Delhi,Chinese,51,20502
+2024-03-29,Delhi,Fast Food,80,21200
+2024-03-29,Delhi,Biryani,87,27405
+2024-03-30,Indore,North Indian,93,32736
+2024-03-30,Indore,South Indian,94,34498
+2024-03-30,Indore,Chinese,138,59478
+2024-03-30,Indore,Fast Food,133,42028
+2024-03-30,Indore,Biryani,139,33082
+2024-03-30,Bhopal,North Indian,72,16488
+2024-03-30,Bhopal,South Indian,48,22224
+2024-03-30,Bhopal,Chinese,76,16872
+2024-03-30,Bhopal,Fast Food,76,26904
+2024-03-30,Bhopal,Biryani,74,16132
+2024-03-30,Bangalore,North Indian,172,73960
+2024-03-30,Bangalore,South Indian,85,34765
+2024-03-30,Bangalore,Chinese,84,26628
+2024-03-30,Bangalore,Fast Food,109,34553
+2024-03-30,Bangalore,Biryani,75,33300
+2024-03-30,Delhi,North Indian,96,27264
+2024-03-30,Delhi,South Indian,71,26412
+2024-03-30,Delhi,Chinese,90,36450
+2024-03-30,Delhi,Fast Food,71,32944
+2024-03-30,Delhi,Biryani,87,28797
