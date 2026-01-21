@@ -4,7 +4,7 @@
 
  *Built for AI for Bharat | Week 3: The Data Weaver*
 
-📖 Overview
+ Overview
 Does rain make us crave comfort food? This project answers that question by weaving together two disparate datasets: **Weather Logs** and **Food Order Histories**.
 
 Using a **Self-Contained ETL Pipeline**, this system:
@@ -48,3 +48,4 @@ weather-food-weaver/
 ├── screenshots/            
 ├── requirements.txt
 └── README.md
+Kiro for development
